@@ -1,0 +1,2527 @@
+red rice	i
+Oenanthe javanica (Blume) DC	i
+G. oryzae	i
+Hirsutella subulata	i
+L. plantarum	i
+brown algae	i
+AAV2	i
+Micrococcus sp	i
+Lycaena dispar	i
+B. glumae BGR1	i
+Rices	i
+MAP	i
+Riboviria	i
+Ulnaria ferefusiformis	i
+calf	i
+Candida tropicalis	i
+AG1-IA	i
+grain amaranth	i
+SARS CoV-2	i
+Oryza meridionalis	i
+Clonorchis sinensis	i
+indica rice subspecies	i
+bitter gourd	i
+F.oxysporum	i
+V. vinifera	i
+Xanthomonas oryzae pv.oryzae	i
+lentil	i
+P. ostreatus	i
+Prochlorococcus MED4	i
+Oryza brachyantha	i
+Podospora sp	i
+P. falciparum	i
+mammalian	i
+Fagopyrum tataricum	i
+Escherichia coli str	i
+higher plants	i
+Rice Black Streaked Dwarf Virus	i
+Medicago truncatula	i
+Hooded Cranes	i
+Solanum nigrum	i
+root-knot nematodes	i
+Shigella flexneri	i
+Phyllostachys edulis	i
+Bacillus indicus	i
+Japanese	i
+Sprague Dawley rats	i
+cucumber	i
+Melilotus albus	i
+human coronavirus 229E	i
+Ctenopharyngodon idella	i
+wild sorghums	i
+Brassica napus L	i
+Dunaliella salina	i
+Acacia crassicarpa	i
+PATIENT	i
+Leymus chinensis	i
+Monascus anka	i
+Rice Weevil	i
+carrots	i
+Pyricularia grisea	i
+Sclerotium rolfsii	i
+chicken	i
+Ganoderma mastoporum	i
+upland cotton	i
+rice bug	i
+tea trees	i
+Patient	i
+Enterococcus faecalis	i
+yellow fever viruses	i
+Fusarium culmorum	i
+S. maltophilia	i
+elephant grass	i
+bacteriophage	i
+Paecilomyces sp	i
+Arachis ipaensis	i
+Methylacidiphilum fumariolicum SolV	i
+chili peppers	i
+Komagataeibacter xylinus	i
+Hirschmanniella oryzae	i
+bassiana	i
+Cypripedium calceolus	i
+Trichoderma guizhouense	i
+Clostridium difficile	i
+HAV	i
+Setaria	i
+Burkholderia	i
+Cyclospora cayetanensis	i
+Xanthomonas oryzae pv. oryzicola	i
+H1N1	i
+Triticum aestivum L	i
+RKN	i
+D. dadantii	i
+barley	i
+killifish	i
+Rice leaffolders	i
+canna	i
+Potato	i
+Mansonia uniformis	i
+Lactobacillus brevis	i
+Horse	i
+Oryza barthii	i
+C. reinhardtii	i
+stony corals	i
+A. pasteurianus	i
+R. padi	i
+Anabaena sp	i
+D. repens	i
+peach	i
+Toxoplasma	i
+P. polymyxa	i
+indica Rice	i
+S. epidermidis	i
+Flowering plants	i
+Burkholderia seminalis	i
+Carp	i
+Streptomyces griseorubens	i
+black gram	i
+Pseudomonas putida	i
+Tomato	i
+Women	i
+Rs	i
+onions	i
+L. interrogans	i
+C. crescentus	i
+angiosperms	i
+Sugarcane	i
+Bacillus altitudinis	i
+EC2	i
+Rhizopus arrhizus	i
+downy mildew	i
+strain N4	i
+saffron crocus	i
+indica-rice	i
+ToLCNDV	i
+P. oleracea	i
+black carp	i
+rohu	i
+C. uenoi	i
+I. variabilis	i
+Suaeda maritima	i
+C. punctiger	i
+B. subtilis subsp. subtilis	i
+EqHV	i
+wild cats	i
+Sphingomonas sp.	i
+Streptomyces geysiriensis	i
+Enrichment Cultures	i
+P. oryzae'	i
+Cordyceps militaris	i
+Burkholderia plantarii	i
+mixed culture	i
+thale cress	i
+Lysinibacillus sphaericus	i
+Xanthomonas citri subsp. citri	i
+M. tuberculosis	i
+rice yellow mottle virus	i
+Enterococcus lactis	i
+Durum wheat	i
+Satureja montana L	i
+E. coli MG1655	i
+Lachnospiraceae bacterium ND2006	i
+red flour beetles	i
+Alternanthera sessilis	i
+Alternanthera philoxeroides	i
+Cenchrus americanus (L.) Morrone	i
+Mycobacterium avium Subspecies paratuberculosis	i
+FUSARIUM	i
+M. phaseolina	i
+Aythya ferina	i
+Japonica	i
+Kitasatospora phosalacinea	i
+Syrian hamsters	i
+H. luteostriatus	i
+G. raimondii	i
+Yeast	i
+Solanum melongena	i
+Brown Planthopper	i
+RSNV	i
+Lissorhoptrus oryzophilus	i
+baker's yeast	i
+Lactuca sativa	i
+P. cedrina	i
+Cladosporium cladosporioides	i
+Napier grass	i
+Aspergillus sp	i
+Syrian golden hamster	i
+Marijuana	i
+Microbacterium laevaniformans	i
+perennial ryegrass	i
+P. adiposa	i
+Ustilago esculenta	i
+Termites	i
+B. oryzae	i
+Tursiops truncatus	i
+Aspergillus sclerotiorum	i
+Themeda triandra	i
+Corynebacterium glutamicum	i
+W. koreensis	i
+Xanthomonas axonopodis pv. citri	i
+RICE	i
+DsIV	i
+Coronaviridae	i
+H. seropedicae	i
+HdRSV	i
+WBPH	i
+common reed	i
+Cellulomonas gelida	i
+O. longiglumis	i
+Saccharomyces cerevisiae	i
+vascular	i
+M. musculus	i
+F. andiyazi	i
+woman	i
+F. exasperata	i
+Leptospira	i
+D. melanogaster	i
+Tagetes erecta	i
+Pennisetum glaucum	i
+Stenotrophomonas (5)	i
+Cellulomonas persica JCM 18111	i
+Streptococcus mutans	i
+S equi subspecies zooepidemicus	i
+influenza A virus	i
+Chilo suppressalis	i
+L. syphax	i
+Brown planthoppers	i
+Amaranth	i
+Klebsiella pneumoniae	i
+Small Brown Planthopper	i
+Caenorhabditis briggsae	i
+X. oryzae pv. oryzicola	i
+Bacillus megaterium	i
+Lasiodiplodia theobromae	i
+Pear	i
+Earthworm	i
+H. oryzicola	i
+Sagittaria sagittifolia L. var	i
+Barley	i
+human gut metagenome	i
+Portulaca oleracea	i
+Phomopsis liquidambaris	i
+SYNV	i
+patient	i
+Cabbage	i
+Tomato leaf curl Yunnan virus	i
+honey bees	i
+Clivia miniata	i
+Chinese Cabbage	i
+Allium cepa L	i
+Bacillus subtilis	i
+persons	i
+N. laevis	i
+Oenanthe javanica	i
+metagenome	i
+Oregano	i
+Pseudomonas syringae pv. tomato	i
+P. oryzae	i
+SG	i
+passion fruit	i
+C. rubidiventris	i
+HIV	i
+Passiflora edulis	i
+HCoV-NL63	i
+brachypodium	i
+Mormidea v-luteum	i
+Burkholderia seminalis stra	i
+Desulfovibrio alaskensis G20	i
+SrMV	i
+Cistanche deserticola	i
+Tiger	i
+grapefruit	i
+SS8	i
+Thermosynechococcus elongatus	i
+Anagrus nilaparvatae	i
+mushrooms	i
+O. eichingeri	i
+millet rice	i
+Angiosperms	i
+L. wolffii	i
+Clostridium acetobutylicum ATCC 824	i
+Pythium ultimum	i
+apple	i
+Mirabilis Mosaic Virus	i
+Chenopodium quinoa	i
+M. graminicola	i
+foxtail millet	i
+CWMV	i
+Xanthomonas	i
+cane toad	i
+Colossoma macropomum	i
+beet	i
+Eragrostis tef	i
+Threskiornis aethiopicus	i
+Cistanche	i
+Vitis vinifera	i
+KSHV	i
+earthworm	i
+lesser grain borer	i
+Colletotrichum capsici	i
+Sharbati	i
+Diachasma alloeum	i
+Cercospora janseana	i
+Oryza sativa	i
+F. commune	i
+Bubalus carabanensis	i
+O. glumaepatula	i
+Sus scrofa	i
+sea turtles	i
+Glomus versiforme	i
+Diaporthe citri	i
+Pseudomonas	i
+Pontederia cordata	i
+D. zeae NCPPB3531	i
+P. chlororaphis	i
+Oryza sativa L	i
+rice stripe necrosis virus	i
+strawberry	i
+Eucalyptus grandis	i
+common buckwheat	i
+B. longum	i
+Agaricus bisporus	i
+Oryza sativa subsp. japonica	i
+Klebsiella sp. strain	i
+Jatropha curcas L	i
+rice water weevil	i
+Culex quinquefasciatus	i
+YL-1	i
+Fejervarya multistriata	i
+B. gladioli pv. gladioli	i
+Brassica pekinensis	i
+Pseudomonas syringae pv. actinidiae	i
+Acanthamoeba	i
+sama	i
+Burkholderia vietnamiensis	i
+Rice-strain	i
+Ormosia semicastrata	i
+orchard grass	i
+H7N9	i
+Cyperus esculentus	i
+pigs	i
+Weebill	i
+Metarhizium anisopliae	i
+Sclerotium oryzae	i
+Cicer arietinum L	i
+P. syringae pv. tomato DC3000	i
+Autographa californica multiple nucleopolyhedrovirus	i
+Wolbachia	i
+Participants	i
+fall armyworm	i
+Pseudomonas syringae pv actinidiae	i
+Manihot esculenta	i
+Indica rice	i
+Raven	i
+Artemisia argyi	i
+LP	i
+Verticillium dahliae	i
+green algae	i
+H. sacchari	i
+flowering plants	i
+A. parasiticus	i
+Micrococcus luteus	i
+Psa	i
+Chlamydomonas reinhardtii	i
+Carthamus tinctorius L	i
+Aspergillus falconensis	i
+Enterobacter cloacae	i
+MoPV1	i
+soybeans	i
+Bacillus tequilensis	i
+rice water weevils	i
+C. versicolor	i
+C. japonicum	i
+blue-green algae	i
+durum wheat	i
+Andes virus	i
+Pseudomonas chlororaphis	i
+Rhizopus oligosporus	i
+Bermuda Grass	i
+Echinochloa colona	i
+Rhinella marina	i
+yellow mealworm	i
+humans	i
+Pelophylax ridibundus (Pallas, 1771)	i
+Zebrafish	i
+silkworms	i
+Bipolaris	i
+Sesame	i
+Nile tilapia	i
+Comamonas testosteroni	i
+rice dwarf virus	i
+M.musculus	i
+Streptomyces griseus	i
+Staphylococcus sciuri	i
+P. major L	i
+ROLP	i
+Beet	i
+chilo suppressalis	i
+B. napus L	i
+C. medinalis	i
+Mauritia flexuosa	i
+Candidatus phytoplasma aurantifolia	i
+Comamonas sp	i
+Sclerotium hydrophilum	i
+Cannabis sativa	i
+Rice Field Eel	i
+MMV	i
+Oryza coarctata	i
+Stevia rebaudiana	i
+Agriophyllum minus	i
+Roundworm	i
+PP	i
+water chestnut	i
+cluster	i
+M. ethiopica	i
+Hordeum vulgare L	i
+E. hormaechei	i
+peoples	i
+honeybees	i
+Alcaligenes sp	i
+vetch	i
+rice/millet	i
+Bipolaris oryzae	i
+Asplenium nidus	i
+yeast	i
+Fragaria vesca	i
+Michelia alba	i
+Aspergillus versicolor	i
+Dendrolobium triangulare	i
+Ebola virus	i
+A. faecalis	i
+oats	i
+sweet orange	i
+Bacillus coagulans	i
+millets	i
+Francisella tularensis subsp	i
+Taro	i
+Wild Rice	i
+Serpula lacrymans	i
+Aphelenchoides besseyi	i
+Zebu	i
+C. vestalis	i
+Rice Water Weevil	i
+Oncomelania	i
+Piriformospora indica	i
+Severe acute respiratory syndrome coronavirus 2	i
+Amaranthus	i
+S. nigrum	i
+scale insects	i
+Japanese rice fish	i
+E. Coli	i
+HSV-1	i
+Strix rufipes	i
+Avicennia marina (Forssk.) Vierh	i
+Tomato leaf curl New Delhi Virus	i
+red flour beetle	i
+T. koningiopsis	i
+Oryza sativa Indica	i
+common wild rice	i
+Theocolax elegans	i
+Rhizoctonia solani AG1	i
+enrichment cultures	i
+B. glumae 336gr-1	i
+MCC P1	i
+Piper nigrum	i
+Trichoderma koningiopsis	i
+Anopheles gambiae (sensu stricto)	i
+Angelica sinensis	i
+flamingos	i
+lucerne	i
+Trichoderma asperellum	i
+Pekin ducks	i
+severe acute respiratory syndrome (SARS)-CoV	i
+Xoc	i
+Urochondra setulosa	i
+D. radiodurans	i
+Rice yellow stunt virus	i
+bovine	i
+M. truncatula	i
+Nicotiana tabacum	i
+Brassica napobrassica	i
+western corn rootworm	i
+M. canis	i
+T. sebifera	i
+ducks	i
+sugarcane	i
+C. suppressalis	i
+O. latifolia	i
+integron	i
+SARS-CoV2	i
+FAW	i
+beet necrotic yellow vein virus	i
+Chinese chestnut	i
+WYMV	i
+tall fescue	i
+Lactuca serriola	i
+pomegranate	i
+Colletotrichum orbiculare	i
+T. horrida	i
+O.sativa	i
+BGR1	i
+japonica Rice	i
+Urochondra	i
+Cicer arietinum	i
+Eimeria tenella	i
+Aspergillus oryzae	i
+ZEBOV	i
+Synechococcus sp. WH7803	i
+L. striatellus	i
+coronavirus	i
+Botryosphaeria kuwatsukai	i
+T. durum Desf	i
+Triticum dicoccoides	i
+Phytoplasma cynodontis'	i
+Terfezia claveryi	i
+P. syringae	i
+Magnaporthe grisea	i
+Burkholderia glumae	i
+children	i
+Human Immunodeficiency Virus	i
+Norway rats	i
+Hypsizygus marmoreus	i
+Trichoderma hebeiensis	i
+L. serriola	i
+Cairina moschata	i
+Robin	i
+Proteus sp	i
+Oryza sativa (L	i
+Mushroom	i
+G. diazotrophicus	i
+A. besseyi	i
+girl	i
+Rhyzopertha dominica	i
+EHV-5	i
+B. bengalensis	i
+participant	i
+Chlorella vulgaris	i
+Brown marmorated stink bug	i
+EHV-1	i
+Pseudomonas sp. RZS1	i
+kidney beans	i
+Rice stripe necrosis virus	i
+Switchgrass	i
+E. crus-galli var	i
+hens	i
+rhesus macaques	i
+Nephotettix	i
+A. philoxeroides	i
+Gliricidia sepium	i
+O. coarctata	i
+Austral	i
+B. burgdorferi	i
+S. aureus	i
+Sphingomonas carotinifaciens	i
+EHV-2	i
+Eretmochelys imbricata	i
+flax	i
+Cellulomonas composti	i
+biota	i
+Grampus griseus	i
+Maize	i
+HBV	i
+A. boissieri	i
+Streptomyces sp. SS8	i
+Rosmarinus officinalis	i
+Sweet Potato	i
+betacoronavirus	i
+Fusarium graminearum stra	i
+Naegleria fowleri	i
+A. germinans	i
+Common Wheat	i
+Puccinia striiformis f. sp. tritici	i
+Caulobacter crescentus	i
+Anopheles gambiae s	i
+MERS-CoV	i
+A. nomius	i
+rice-strain	i
+ppbv	i
+Aspergillus nidulans	i
+cinnamon	i
+P. kudriavzevii	i
+Astyanax mexicanus	i
+Escherichia coli BL21 (DE3)	i
+C. capsici	i
+Equine hepacivirus	i
+Pseudomonas Plecoglossicida	i
+media	i
+domestic ducks	i
+pear	i
+Saccharomycopsis malanga	i
+M. nanum	i
+common teal	i
+tobacco	i
+Trifolium Alexandrinum	i
+O-beta	i
+liver fluke	i
+chinese cabbage	i
+M. graminum	i
+I. odaesanensis	i
+Microbacterium oleivorans	i
+Odontonema tubaeforme	i
+Plasmodium falciparum	i
+neem	i
+patients	i
+R. dorsalis	i
+G. floridanus	i
+Fusarium pseudograminearum	i
+Myxococcus	i
+giant trevally	i
+C. Maximum	i
+common pochard	i
+Pelophylax ridibundus	i
+RYSV	i
+Pythium graminicola	i
+Bacillus velezensis	i
+Bacillus cereus	i
+Caraway	i
+HCV	i
+B. distachyon	i
+Marsh frog	i
+O. alta	i
+hepatitis B virus	i
+M. xanthus	i
+participants	i
+mouse	i
+Ensifer) meliloti	i
+Anthoceros angustus	i
+M. smegmatis	i
+Oryzias latipes	i
+AdV	i
+A. cordifolia	i
+Glycine max	i
+Taenia solium	i
+Gracilibacillus dipsosauri	i
+rice tungro spherical virus	i
+Oryza sativa japonica	i
+Pantoea stewartii	i
+peas	i
+P. janczewskii	i
+common carp	i
+Diadegma semiclausum Ichnovirus	i
+Salmonella enterica	i
+Pomegranate	i
+Anourosorex squamipes	i
+Acrostalagmus luteoalbus	i
+Aspergillus sydowii	i
+sessile oak	i
+A. retroflexus	i
+stink bugs	i
+Gaeumannomyces graminis var. graminis	i
+Peromyscus crinitus	i
+monocotyledons	i
+carob	i
+Bacillus	i
+sweet peas	i
+green leafhopper	i
+A. minus	i
+Plantain	i
+Hoplobatrachus rugulosus	i
+brown planthoppers	i
+vulgare	i
+BPH	i
+A. thaliana	i
+Dictyoglomus thermophilum	i
+Odontotermes javanicus	i
+Morchella vulgaris	i
+white yam	i
+African	i
+T. carthlicum Nevski	i
+Agriophyllum squarrosum	i
+T. laurifolia	i
+Dioscorea rotundata	i
+plums	i
+Chickpea	i
+N. attenuata	i
+Zygodontomys	i
+L. rigidum	i
+men	i
+RTBV	i
+Pennisetum glaucum (L.) R. Br	i
+Cercis chinensis	i
+R. rattus	i
+Leptospermum scoparium	i
+Mus musculus	i
+Brassica campestris L	i
+murine	i
+MVM	i
+B. megaterium	i
+C. formosanum	i
+Dog	i
+Rice dwarf virus	i
+Dengue virus	i
+pigeon pea	i
+Malayemys macrocephala	i
+Ficus exasperata	i
+Beckmannia syzigachne (Steud.) Fernald	i
+Neanderthals	i
+Paenibacillus sp	i
+L. chinensis	i
+Musa acuminata	i
+Trichosporon asahii	i
+Sarocladium oryzae	i
+Agriocnemis femina	i
+Rattus rattus	i
+Brachypodium	i
+Acidovorax avenae	i
+Xoo	i
+L. rohita	i
+Earthworms	i
+M. x giganteus	i
+celery	i
+P. coarctata	i
+Manduca sexta	i
+O. sativa var. indica	i
+GRLHs	i
+Persons	i
+perennial	i
+black tea	i
+string beans	i
+budding yeasts	i
+Arabidopsis thaliana	i
+CvBV	i
+Coronaviruses	i
+goats	i
+E. formosa	i
+Chrysanthemum morifolium	i
+Armigeres	i
+T. versicolor	i
+Paenibacillus glycanilyticus	i
+AU6208	i
+Japanese cedar	i
+P. chrysogenum	i
+woody bamboo	i
+Weissella koreensis	i
+corns	i
+Festuca arundinacea Schreb	i
+Plasmodium	i
+Kiwifruit	i
+P. poae	i
+human immunodeficiency virus	i
+Xcc	i
+watermelon	i
+H5N1	i
+Fusarium sp	i
+People	i
+Avicennia germinans	i
+Ceriagrion fallax	i
+R. solani AG-1 IA	i
+HIV-1	i
+F. solani	i
+L. edodes	i
+chickens	i
+Millettia thonningii	i
+diamondback moth	i
+Zea mays	i
+Mycobacterium tuberculosis H37Rv	i
+Bd	i
+Colletotrichum falcatum	i
+Francisella novicida	i
+Mesocestoides	i
+S. gordonii	i
+C. calceolus	i
+D. Zeae	i
+S. hydrophilum	i
+P2-like phage	i
+Canis lupus familiaris	i
+B. cinerea	i
+Bradyrhizobium sp. strain	i
+A. mexicanus	i
+fission yeast	i
+Peanut	i
+Lactobacillus plantarum	i
+classical swine fever virus	i
+Quinoa	i
+P. taichungensis	i
+Downy Mildew	i
+Mulberry mosaic dwarf-associated virus	i
+Blumeria graminis	i
+Nephotettix virescens	i
+M. paratuberculosis	i
+M. luteus	i
+Triticum timopheevii	i
+RYMV	i
+A. avenae	i
+BNYVV	i
+Gossypium hirsutum L	i
+Root-Knot Nematode	i
+Italian ryegrass	i
+LMG 2196	i
+wasps, ants and bees	i
+Staphylococcus saprophyticus	i
+Apple	i
+Amorphophallus	i
+FXM	i
+Wistar rats	i
+ginkgo	i
+O. australiensis	i
+W. anomalus	i
+Pyricularia oryzae	i
+S. furcifera	i
+jasmine	i
+X. oryzae pathovars	i
+Bradyrhizobium elkanii	i
+X. oryzae	i
+A. sclerotiorum	i
+Sclerotium delphinii	i
+fava bean	i
+Colletotrichum truncatum	i
+baobab	i
+rumen bacterium	i
+TLCYnV	i
+M. anka	i
+A. flavus	i
+X. oryzae pv. oryzae	i
+Plutella xylostella	i
+amaranth	i
+algae	i
+S. fibuligera	i
+Aspergillus spinulosporus	i
+C. morifolium	i
+cassava	i
+I. aquatica	i
+rice, beans	i
+Endophytic Bacterium	i
+bok choy	i
+mushroom	i
+O. sativa L	i
+Xanthomonas oryzae pv oryzae	i
+enrichment	i
+Petunia hybrida	i
+Grass Family	i
+Xanthomonas oryzae	i
+tobacco curly shoot virus	i
+Oryza sativa ssp indica	i
+yams	i
+Moringa oleifera	i
+Oryza officinalis	i
+Saccharomyces cerevisiae (N85	i
+B. tabaci	i
+V.   alginolyticus	i
+gatekeepers	i
+Streptococcus pyogenes	i
+PACU	i
+O. niloticus	i
+Wolbachia strai	i
+eggplants	i
+Streptomyces shenzhenensis	i
+P. veronii	i
+Agriophyllum	i
+Burkholderia cepacia	i
+Burkholderia phage KL3	i
+puff adders	i
+carp	i
+Charcoal Rot	i
+flowering	i
+F. oxysporum	i
+Human	i
+Sama	i
+Pseudomonas sp. K32	i
+Cochliobolus miyabeanus	i
+FPs	i
+Brassica rapa L	i
+Children	i
+mango	i
+severe acute respiratory syndrome (SARS) coronavirus	i
+melon seeds	i
+esculentum	i
+Respiratory syncytial virus	i
+E. tenella	i
+Mythimna separate	i
+red Jasmine	i
+seed plants	i
+Camellia sinensis	i
+Macrophomina phaseolina	i
+child	i
+T. castaneum	i
+Vitiosangium sp. GDMCC 1.1324	i
+midges	i
+Carum carvi L	i
+H. armigera	i
+A. niger	i
+Kaposi's sarcoma herpesvirus	i
+Pi-2	i
+T. mentagrophytes	i
+Cassava mosaic virus	i
+P. agglomerans	i
+C. vulgaris	i
+I. henryi	i
+Pichia pastoris	i
+Trichophyton mentagrophytes	i
+P. maniculatus	i
+G. hirsutum	i
+Radix rubiginosa	i
+Trichothecium crotocinigenum	i
+Small Brown Planthoppers	i
+Rice black-streaked dwarf virus	i
+Sweet Potato Whitefly	i
+Apios americana	i
+Aspergillus fumigatus	i
+A.besseyi	i
+Streptococcus equi subspecies equi	i
+RTSV	i
+Fusarium fujikuroi	i
+arctic ground squirrels	i
+Cucumber	i
+Laceyella sacchari	i
+mammal	i
+Rhizopycnis vagum	i
+Pleurotus eryngii	i
+Araneus ventricosus	i
+Lolium perenne L	i
+A. bisporus	i
+Oncomelania hupensis quadrasi	i
+MS2	i
+H. oryzae	i
+Roselle	i
+Pigs	i
+ZIKV	i
+Pst	i
+Oryza australiensis	i
+dog	i
+Aspergillus	i
+Mayo	i
+bovines	i
+Solanum nigrum L	i
+L. dispar	i
+Streptomyces albus	i
+Marasmius graminum	i
+P. lanceolata	i
+uncultured bacteria	i
+Vascular	i
+llama	i
+Pseudomonas protegens	i
+domestic cats	i
+monocots	i
+fluorescent pseudomonads	i
+fungal endophyte	i
+Sprague-Dawley rats	i
+Metagenome	i
+cattle	i
+O. heveae	i
+B. gladioli	i
+CoV-2	i
+Fusarium subglutinans	i
+Heterodera elachista	i
+Curvularia lunata	i
+tomato	i
+Eimeria	i
+Setophaga citrina	i
+outpatient	i
+Sorghum Mosaic Virus	i
+F. subglutinans	i
+Myxococcus xanthus	i
+PepYLCIV	i
+Bipolaris sorokiniana	i
+carrageen	i
+Wild rice	i
+PH-1	i
+Dengue Virus	i
+B. coagulans	i
+Staphylococcus epidermidis	i
+A. castellanii	i
+CARP	i
+L. buchneri	i
+Ipomoea Aquatica Forssk	i
+Rhizopus	i
+Esteya vermicola	i
+Nicotiana attenuata	i
+tamaraw	i
+Botryodiplodia theobromae	i
+Rhopalosiphum padi	i
+quinoa	i
+Calystegia hederacea	i
+Hungateiclostridium thermocellum ATCC 27405	i
+bacillus	i
+Bacillus sp. K1	i
+Habrobracon hebetor	i
+Geobacter	i
+chickpeas	i
+fusarium	i
+Secale cereale L	i
+brown planthopper	i
+cane toads	i
+moringa	i
+N. fowleri	i
+D. salina	i
+Ae. albopictus	i
+graining	i
+ascochyta	i
+Hyphopichia burtonii	i
+F. proliferatum	i
+Trichoderma reesei	i
+Solanum lycopersicum	i
+Shiitake Mushroom	i
+radish	i
+P. allii-sativi	i
+Oreochromis mossambicus	i
+Southern rice black-streaked dwarf virus	i
+Faxonius eupunctus	i
+P. cynodontis	i
+cyanobacterium Nostoc	i
+P. puparum	i
+white clover	i
+pig	i
+O. meridionalis	i
+Drosophila	i
+African Rice	i
+Gracilibacillus	i
+Chinook Salmon	i
+Anopheles coluzzii	i
+Oreochromis niloticus	i
+Eisenia japonica	i
+Culex pipiens	i
+type I methanotroph	i
+L. xylanilyticus	i
+G. sepium	i
+Gaeumannomyces	i
+pepper yellow leaf curl Indonesia virus	i
+Chlorella sp	i
+Astragalus sinicus L	i
+Methylorubrum sp	i
+muskmelon	i
+Ralstonia solanacearum (Rs)	i
+Chimpanzees	i
+Musa itinerans	i
+R. serrata	i
+sacred ibis	i
+Cnaphalocrocis medinalis	i
+Dickeya dadantii	i
+charcoal rot	i
+Brassica napus	i
+Serratia oryzae	i
+Trichoderma longibrachiatum	i
+AG1	i
+a single-stranded RNA virus	i
+Ginkgo	i
+Pseudomonas sp. (strain K32)	i
+Gibberella zeae	i
+Aeromonas	i
+Cryptantha flava	i
+human papillomavirus	i
+lentils	i
+Burkholderia pseudomallei, the	i
+Helianthus	i
+Phaseolus vulgaris L	i
+Sphingomonas melonis	i
+Bacillus thuringiensis Berliner	i
+Phytoplasma asteris	i
+horses	i
+Houston Toad	i
+Trichormus azollae	i
+Achromobacter sp	i
+chili pepper	i
+S. oryzae	i
+Trichoderma sp	i
+wStri	i
+Telenomus remus	i
+A. sessilis	i
+Integrons	i
+adeno-associated virus	i
+Pteris vittata	i
+Gluconacetobacter diazotrophicus	i
+Outpatient	i
+cotton bollworm	i
+Ischnura elegans	i
+potato	i
+oilseed rape	i
+G. celosioides	i
+Severe Acute Respiratory Syndrome Coronavirus, 2	i
+D. immitis	i
+guar	i
+O. minuta	i
+Bacillus sp	i
+goosegrass	i
+Portulaca oleracea L	i
+Streptomyces hygroscopicus	i
+P. taiwanensis	i
+Bacillus subtilis subsp. subtilis	i
+tamarind	i
+MB	i
+Bacillus pumilus	i
+Phanerochaete chrysosporium	i
+Aspergillus parasiticus	i
+DC3000	i
+Schizosaccharomyces pombe	i
+Digitaria exilis	i
+Pseudomonas syringae	i
+Podosphaera xanthii	i
+Besnoitia besnoiti	i
+Bird's-Nest Fern	i
+Sitophilus zeamais	i
+Dasyprocta leporina	i
+rats	i
+HPV	i
+termites	i
+green peach aphid	i
+Ralstonia solanacearum	i
+Oryza sativa L. var	i
+O. glumipatula	i
+Anabaena	i
+potato late blight	i
+crabgrass	i
+rice stripe tenuivirus	i
+Chelonia mydas	i
+RKNs	i
+reovirus	i
+Kalo	i
+M.oryzae	i
+Pantoea agglomerans	i
+endophytic bacterium	i
+P. fuscovaginae	i
+Fusarium incarnatum	i
+Pseudomonas putida OUS82	i
+T. erecta	i
+O. sativa indica subspecies	i
+Thermobifida fusca	i
+Fusobacterium nucleatum	i
+S) media	i
+S. japonicum	i
+O. sativa subsp. japonica	i
+Synechococcus WH7803	i
+soil-microbiome	i
+Hypocrea sp. W63	i
+S. frugiperda	i
+YFV	i
+BCG	i
+Medicago	i
+Candidatus Nasuia deltocephalinicola	i
+Sphenophorus levis	i
+Tenebrio molitor	i
+Abutilon theophrasti	i
+Mouse	i
+wine grapes	i
+A. squamipes	i
+Candida	i
+Sorghum bicolor (L.) Moench	i
+Chaetomium globosum	i
+O. glaberrima Steud	i
+Lactobacillus paracasei	i
+M. anisopliae	i
+CK1	i
+L. sphaericus	i
+American beaver	i
+B. glumae	i
+Dickeya zeae	i
+B. indica	i
+AcMNPV	i
+F. pseudograminearum	i
+Cletus rubidiventris	i
+F. incarnatum	i
+T. aestivum	i
+Fopius arisanus	i
+white-backed planthopper	i
+Pachycrepoideus vindemiae	i
+Urocitellus parryii	i
+T. cruzi	i
+Curvularia brachyspora	i
+SA1	i
+Chenopodium quinoa Willd	i
+Cynodon dactylon	i
+Nigrospora	i
+Schistosoma mansoni	i
+ginger	i
+H. rugulosus	i
+Oryzaephilus surinamensis	i
+A. officinalis	i
+human microbiome	i
+Oryza nivara	i
+RICe	i
+Aplosporella javeedii	i
+Cannabis sativa L	i
+Neem	i
+W. australiana	i
+Paenibacillus	i
+Buckwheat	i
+Lentils	i
+A. nidulans	i
+activated sludge	i
+K. marxianus	i
+Bt	i
+I. javanica	i
+Bemisia tabaci	i
+Sandarakinorhabdus limnophila DSM 17366	i
+Sphingomonas sp	i
+Xanthomonas oryzae pathovars oryzae	i
+Bacillus sp. MR-1	i
+EHV-4	i
+jujube	i
+Phyllostachys praecox	i
+Burkholderia gladioli	i
+Triadica sebifera	i
+Thunbergia laurifolia	i
+Peas	i
+roof rats	i
+Drosophila melanogaster	i
+JC	i
+Humans	i
+rosids	i
+rice stripe virus	i
+Acropora hyacinthus	i
+EC1	i
+O. sativa ssp. indica	i
+Belonocnema treatae	i
+AG3	i
+rice field eel	i
+Penicillium allii-sativi	i
+strain MS1	i
+Influenza	i
+rice weevils	i
+blood flukes	i
+broad bean	i
+rice & bean	i
+Natrialba magadii	i
+Geobacter species	i
+Fg	i
+Yellow Fever Mosquito	i
+L. rhamnosus	i
+Pantoea ananatis	i
+pepper mild mottle virus	i
+TbCSV	i
+Rhizopus stolonifer	i
+sensitive plants	i
+respiratory syncytial virus	i
+Triphysaria versicolor	i
+Salvia miltiorrhiza	i
+wild sorghum	i
+Zika Virus	i
+soybean	i
+medaka	i
+Cyprinotus	i
+Methylobacterium sp	i
+Solanum tuberosum L	i
+P. cordata	i
+Clavispora lusitaniae	i
+lambs	i
+C. Tropicalis	i
+L. fermentum	i
+southern rice black-streaked dwarf virus	i
+ramie	i
+Oryza sativa L.) subspecies	i
+Pseudomonas oryzihabitans	i
+Labeo rohita	i
+Pi2	i
+Caenorhabditis elegans	i
+N. cincticeps	i
+O. affinis	i
+Balamuthia mandrillaris	i
+Lemon	i
+Escherichia coli	i
+O. brachyantha	i
+Acinetobacter nectaris	i
+MMDaV	i
+Chinese wheat mosaic virus	i
+Xanthomonas campestris pv. campestris ATCC 33913	i
+S. cerevisiae	i
+Anaxyrus houstonensis	i
+Millet	i
+Aeromonas popoffii	i
+Gracilibacillus ureilyticus	i
+rice-millet	i
+Xanthomonas axonopodis pv. Citri	i
+Magnaporthe oryzae virus 2	i
+Meloidogyne graminicola	i
+black mangrove	i
+Apis mellifera	i
+Enterolobium contortisiliquum	i
+Physella acuta	i
+Magnaporthe	i
+Suaeda glauca	i
+Syzygium aromaticum	i
+Puccinia striiformis	i
+P. fluorescens	i
+grass carp	i
+A.argyi	i
+Pantoea dispersa	i
+Tomato leaf curl New Delhi virus-potato	i
+Lactobacillus casei	i
+Malbranchea albolutea	i
+Sunflower	i
+Red rice	i
+B. napus	i
+human coronavirus	i
+Microbacterium (1)	i
+Mo	i
+C. bipunctata	i
+rice leaffolders	i
+VP	i
+B. melitensis	i
+severe acute respiratory syndrome coronavirus 2	i
+Monopterus albus	i
+Serratia marcescens	i
+Cladosporium herbarum	i
+B. cepacia	i
+rufous-legged owl	i
+Canna indica	i
+vesicular stomatitis virus	i
+Cucumis sativus	i
+oilseed	i
+swine	i
+Neanderthal	i
+Sorghum mosaic virus	i
+Mango	i
+Rhodococcus sp. B2	i
+Enallagma cyathigerum	i
+P. parafulva	i
+sensitive plant	i
+M. grisea	i
+adder	i
+Deinococcus radiodurans	i
+Ma. annulifera	i
+Ascaloptynx appendiculatus	i
+Hg2	i
+metagenomes	i
+barley stripe mosaic virus	i
+Pepino mosaic virus	i
+Wolffia	i
+T. molitor	i
+Oryza sativa subsp. Japonica	i
+cork oak	i
+Giardia duodenalis	i
+Helianthus annuus L	i
+Platanus orientalis	i
+P. aeruginosa PAO1	i
+Rice Orange Leaf Phytoplasma	i
+Miscanthus	i
+Brucella	i
+Bradyrhizobium	i
+spelt	i
+Trichoderma erinaceum	i
+bird cherry-oat aphid	i
+Enterobacter aerogenes	i
+yellow fever virus	i
+Epstein-Barr virus	i
+K. pneumoniae	i
+foxtail	i
+Rice orange leaf phytoplasma	i
+Millets	i
+BSMV	i
+Leucaena leucocephala	i
+Onions	i
+Japanese Rice	i
+prickly lettuce	i
+equine	i
+Pseudomonas aeruginosa	i
+Rufibacter	i
+Amaranthus retroflexus L	i
+Bacillus aryabhattai	i
+Lentinula edodes	i
+P. xanthii	i
+A. hydrophila	i
+hooded crane	i
+Mormidea v-luteum (Lichtenstein, 1796)	i
+chimpanzee	i
+C. glutamicum	i
+VSV	i
+Staphylococcus aureus	i
+rice (var	i
+dogs	i
+Trypanosoma cruzi	i
+Microplitis demolitor	i
+Newbouldia laevis	i
+Sandarakinorhabdus	i
+Cordyceps kyushuensis	i
+Panicum repens	i
+A. xylosoxidans	i
+Natronomonas pharaonis	i
+gum arabic	i
+tobacco mosaic virus	i
+Streptomyces	i
+Wickerhamomyces anomalus	i
+Saccharum spontaneum	i
+Hepatitis C Virus	i
+bambara groundnut	i
+Pichia kudriavzevii	i
+Panicum virgatum	i
+Hermetia illucens	i
+Ophiopogon japonicus	i
+Pomacea canaliculata	i
+Pseudomonas aeruginosa PAO1	i
+Andes orthohantavirus	i
+Sugarcane mosaic virus	i
+n. sp	i
+Bacillus Calmette-Guerin	i
+Phlebotomus papatasi	i
+Helminthosporium oryzae	i
+Thlaspi caerulescens	i
+O. rufipogon	i
+rat	i
+O. hyla intricata	i
+Xoo strain	i
+dicotyledons	i
+Eisenia fetida	i
+Meloidogyne	i
+Xac	i
+Phellinus linteus	i
+Oats	i
+potato, bean	i
+Participant	i
+Bacillus licheniformis	i
+Diadegma semiclausum ichnovirus	i
+cannabis	i
+eudicots	i
+Fusarium verticillioides	i
+L. borgpetersenii	i
+RZS4	i
+Xanthomonas oryzae pv. Oryzae	i
+Olive	i
+Cynodon radiatus	i
+Zygodontomys brevicauda	i
+Spodoptera litura	i
+bryophytes	i
+Bacillus endophyticus	i
+P. ultimum	i
+Arabidopsis thaliana (L.) Heynh	i
+Red Rice	i
+Heterixalus tricolor	i
+Ipomoea batatas (L.) Lam	i
+influenza	i
+Dogs	i
+sugarcanes	i
+Greenland halibut	i
+Avena fatua	i
+Clostridium	i
+Foot-and-mouth disease virus	i
+White-Backed Planthopper	i
+E. lactis	i
+herpes simplex virus-1	i
+Methylomonas koyamae	i
+Tribolium confusum	i
+V. dahliae	i
+C. kyushuensis	i
+Dirofilaria repens	i
+Ae. aegypti	i
+Fusarium solani	i
+Secale cereale	i
+horseradish	i
+Pig	i
+Acetobacter aceti	i
+Pseudomonas taiwanensis	i
+soil microbiome	i
+stylo	i
+Aedes aegypti	i
+C. elegans	i
+Callitettix versicolor (Fabricius, 1794)	i
+T. pretiosum	i
+Brucella melitensis	i
+Fagopyrum esculentum	i
+saffron	i
+Achromobacter (2)	i
+Pearl Millet	i
+wild cane	i
+influenza viruses	i
+Anas poecilorhyncha	i
+H. halys	i
+Hepatitis C virus	i
+apples	i
+Aquabacterium sp. A7-Y	i
+sesame	i
+Isoptericola variabilis	i
+E. crus-galli	i
+Muskmelon	i
+Escherichia	i
+maize (var	i
+An. gambiae	i
+Scutellaria baicalensis	i
+Grus monacha	i
+sugar beets	i
+Miscanthus x giganteus	i
+Murine	i
+Monocots	i
+Faecalibacterium prausnitzii	i
+Rice Stripe Tenuivirus	i
+Panicum miliaceum	i
+Sorghum saccharatum	i
+Spodoptera frugiperda multiple nucleopolyhedrovirus	i
+Hydrangea macrophylla	i
+lemons	i
+Penicillium chrysogenum	i
+Equine	i
+Boehmeria nivea	i
+Odontotermes obesus	i
+dragon fruit	i
+COLO	i
+Spinach	i
+Rice ragged stunt virus	i
+Enterococcus faecium	i
+Gibberella fujikuroi	i
+Pennisetum lanatum	i
+Pseudozyma hubeiensis	i
+Escherichia fergusonii	i
+Methylobacterium oryzae	i
+land plants	i
+Bradyrhizobium japonicum	i
+Chromobacterium violaceum	i
+Vicia Faba	i
+C) group	i
+Cassia tora	i
+P. aeruginosa	i
+Japonica rice	i
+Monascus purpureus	i
+Lentil	i
+Strychnos madagascariensis Poir	i
+Rhodotorula glutinis	i
+Indoplanorbis exustus	i
+Echium amoenum Fisch & C.A. Mey	i
+Rhizophora mucronata	i
+Saffron Crocus	i
+Cymbopogon citratus	i
+equine hepacivirus	i
+Foxtail Millet	i
+Reinhardtius hippoglossoides	i
+X. axonopodis pv citri	i
+Rat	i
+Felis silvestris silvestris	i
+Guar	i
+tomato leaf curl Yunnan virus	i
+hydrangea ringspot virus	i
+Arthrobacter nicotianae	i
+fall-armyworm	i
+non-A	i
+RBSDV	i
+L. paracasei	i
+N. gonorrhoeae	i
+Saccharomycopsis fibuligera	i
+muskmelons	i
+FXJ8.089	i
+Saccharum officinarum	i
+R. exulans	i
+Armigeres subalbatus	i
+paper mulberry	i
+girls	i
+SARS CoV	i
+C. fallax	i
+Oryza longistaminata	i
+Magnaporthe oryzae chrysovirus 1	i
+White-backed planthopper	i
+Aglaomorpha quercifolia	i
+Synthetic DNA	i
+Westerdykella nigra	i
+Xanthomonas oryzae pv. oryzae	i
+Fusarium proliferatum	i
+ragi	i
+Cotesia chilonis	i
+AAV	i
+OPAHs	i
+Classical Swine Fever Virus	i
+barnyard grass	i
+Klebsiella sp. Strain	i
+Trichogramma pretiosum	i
+Trichoderma reesei RUT-C30	i
+spinach	i
+Glycine max (L.) Merr	i
+SARS-CoV-2	i
+Rhodopseudomonas palustris	i
+SARS-CoV	i
+Saccharomyces	i
+environmental samples	i
+M. oryzae	i
+Magnaporthe oryzae	i
+granulata	i
+A. ornata	i
+Biomphalaria pfeifferi	i
+P. protegens	i
+Prevotella copri	i
+Satureja montana	i
+Sars-CoV-2	i
+Sea turtles	i
+Angelica sinensis (Oliv.) Diels	i
+Rice stripe tenuivirus	i
+Polypogon fugax	i
+ERAV	i
+Avicennia officinalis	i
+G. griseus	i
+M. ruber	i
+Cyprinus carpio var	i
+T. japonicum	i
+R. duriophilus	i
+herbal medicine	i
+chimpanzees	i
+Glycyrrhiza uralensis	i
+Sorghum bicolor	i
+Pratylenchus coffeae	i
+watermelons	i
+Bacteroides fragilis	i
+Soybeans	i
+ramps	i
+T. gigantica	i
+A. terreus	i
+bananas	i
+DNA viruses	i
+cabbage	i
+Eremochloa ophiuroides (Munro) Hack	i
+Betula pendula	i
+M. audouinii	i
+Nostoc punctiforme	i
+P.graminicola	i
+Fusarium temperatum	i
+Coffea liberica	i
+Anaplasma phagocytophilum	i
+RB= 42	i
+G. graminicola	i
+TBEV	i
+Oryza sativa, japonica	i
+small brown planthopper	i
+Bacillus amyloliquefaciens	i
+type II methanotrophs	i
+Cryptococcus neoformans	i
+Eudrilus eugeniae	i
+Oryza latifolia	i
+Meloidogyne luci	i
+Penicillium janthinellum	i
+Borrelia burgdorferi	i
+Monascus ruber	i
+Anas clypeata	i
+Hannaella pagnoccae	i
+Pseudomonas stutzeri	i
+Rhizoctonia solani	i
+malaria mosquito	i
+Echium amoenum	i
+P. gessardii	i
+PARTICIPANTS	i
+mammalians	i
+rover	i
+R. dominica	i
+Caranx ignobilis	i
+Stenotrophomonas sp	i
+DSM 28780	i
+black rat	i
+Oithona nana	i
+Populus	i
+Candidatus Liberibacter asiaticus	i
+B. thailandensis	i
+Camellia oleifera	i
+Beauveria bassiana	i
+Oryza Sativa	i
+brown marmorated stink bug	i
+blackgram	i
+Burkholderia seminalis R456	i
+O. punctata	i
+P. chrysosporium	i
+tapioca	i
+Kluyveromyces marxianus	i
+rymv	i
+Pan troglodytes	i
+Aphelenchoides pseudogoodeyi	i
+Rhizoctonia solani AG-1 IA	i
+Oilseed rape	i
+Coffea canephora	i
+Oryza	i
+Acacia nilotica	i
+SARS-COV-2	i
+Linum usitatissimum L	i
+Lepista sordida	i
+Mycobacterium avium subsp. paratuberculosis	i
+Ipomoea aquatica Forssk	i
+Danio rerio	i
+Crocus sativus L	i
+sensitive	i
+Candida auris	i
+C. vestalis bracovirus	i
+cow	i
+quail	i
+Acidovorax oryzae	i
+A. fatua	i
+Brazil nuts	i
+Tursiops	i
+Stenotrophomonas maltophilia	i
+Ziziphus sp	i
+Vogesella oryzae	i
+Tt	i
+hooded cranes	i
+Zea mays L	i
+vascular plants	i
+rice tungro bacilliform virus	i
+lemon	i
+mirabilis mosaic virus	i
+Bipolaris zeicola	i
+P. indica	i
+B. subtilis	i
+Prochlorococcus sp. MED4	i
+S.albus	i
+O. sativa f. spontanea	i
+coronaviruses	i
+Rhizobium radiobacter	i
+japonica rice	i
+onion	i
+Pythium irregulare	i
+indica	i
+Salmonella typhimurium	i
+Sitophilus oryzae	i
+c-axis	i
+Syrian hamster	i
+marijuana	i
+Cow	i
+chocolate	i
+Alternaria alternata	i
+CaMV	i
+indica rice	i
+Monopterus Albus	i
+bread wheat	i
+endophytic	i
+Oryza sativa ssp. indica	i
+Eucalyptus	i
+rabbits	i
+Spodoptera exigua	i
+Beagle dogs	i
+Euryale ferox	i
+Mushrooms	i
+Nephotettix cincticeps	i
+B. glumae strain	i
+Oldenlandia affinis	i
+Sclerocarya birrea	i
+switchgrass	i
+Solanum tuberosum	i
+Echinochloa crus-galli	i
+Oryza sativa subsp. indica	i
+Acidovorax avenae subsp. avenae	i
+SBPH	i
+Arabidopsis	i
+Microbacterium testaceum	i
+Lactobacillus rhamnosus	i
+Wild Sorghum	i
+influenza virus	i
+teosinte	i
+Rhizopus oryzae	i
+Rosa chinensis	i
+Triphysaria	i
+Cymbidium aloifolium	i
+E. faecalis	i
+Populus alba x Populus glandulosa	i
+Schistosoma	i
+EBV	i
+M. sacchariflorus	i
+African yam bean	i
+Tursiops australis Charlton-Robb et al., 2011	i
+Komagataella pastoris	i
+Dickeya zeae EC1	i
+Candida albicans	i
+E.coli	i
+Homo sapiens	i
+Helicoverpa armigera	i
+taro	i
+An. coluzzii	i
+E. coli	i
+Quercus virginiana	i
+Escherichia coli K-12 MG1655	i
+Telenomus	i
+Lentinus edodes	i
+A. maculipennis	i
+olive	i
+PepMV	i
+Rice Tungro Bacilliform Virus	i
+P. eremicus	i
+Hizikia fusiforme	i
+B. horikoshii	i
+Wuchereria bancrofti	i
+O. ridleyi	i
+Capsicum annuum L	i
+Oryza glaberrima	i
+southern	i
+Houston toad	i
+Magnaporthe Oryzae	i
+M. nivale	i
+Chlorella	i
+boys	i
+Streptomyces canus	i
+Xanthomonas campestris	i
+tomato yellow leaf curl China virus	i
+Pennisetum purpureum	i
+Enterobacter sp	i
+Lactobacillus	i
+N. benthamiana	i
+Common wild rice	i
+Arctic Ground Squirrel	i
+M. alba	i
+earthworms	i
+crucian carp	i
+Setaria viridis	i
+Avicennia marina	i
+Vogesella	i
+gut microbiome	i
+Cellulomonas uda	i
+S. glauca	i
+O. nivara	i
+Stink Bug	i
+A. setosus	i
+Turkey	i
+Avena sativa L	i
+Fm	i
+Leptochloa chinensis (L.) Nees	i
+transposons	i
+pineapple	i
+Burkholderia sp. D416	i
+crus-galli	i
+MoCV1	i
+Sorghum	i
+B. pseudomallei	i
+Sogatella furcifera	i
+Mammal	i
+Cotesia vestalis bracovirus	i
+Amynthas corticis	i
+Scomber japonicus	i
+Angelica polymorpha Maxim var	i
+Chaetomium brasiliense	i
+wild sugarcane	i
+Rattus exulans	i
+green rice leafhoppers	i
+Ipomoea aquatica	i
+water dropwort	i
+people	i
+A. apis	i
+ginseng	i
+T. verrucosum	i
+P. major	i
+Methylosinus trichosporium OB3b	i
+Ralstonia pseudosolanacearum	i
+Mythimna loreyi	i
+M. purpureus	i
+African rice	i
+Silurana tropicalis	i
+H. carbonei	i
+Frasera speciosa	i
+S. montana	i
+Schistosoma japonicum	i
+Nilaparvata lugens	i
+Yellow fever virus	i
+Colletotrichum higginsianum	i
+turmeric	i
+morning glory	i
+Clostridium beijerinckii NCIMB 8052	i
+caraway	i
+infants	i
+Microsporum canis	i
+zebra finch	i
+SARS-Cov-2	i
+Cnaphalocrocis medinalis granulovirus	i
+eggplant	i
+SAR	i
+P. coffeae	i
+P. oryzihabitans	i
+COVID-19 virus	i
+Adansonia digitata	i
+Soybean	i
+sugar beet	i
+Oryza Sativa L	i
+Phragmites australis	i
+Bithynia siamensis siamensis	i
+manioc	i
+Sweet potato	i
+Recilia dorsalis	i
+Cajanus cajan	i
+An.gambiae	i
+Alcaligenes faecalis	i
+Tadorna ferruginea	i
+F. asiaticum	i
+Girls	i
+Acacia implexa	i
+Thosea asigna virus	i
+fruit flies	i
+lobster	i
+stocks	i
+Herbaspirillum seropedicae	i
+L. scoparium	i
+silkworm	i
+BOP clade	i
+Cleistogenes songorica	i
+N. lugens	i
+B. rapa	i
+Fall armyworm	i
+Gossypium hirsutum	i
+cowpea	i
+Patients	i
+Streptomyces sp. LC-6-2	i
+HCoV-OC43	i
+adenovirus	i
+Xylocarpus moluccensis	i
+Myzus persicae	i
+O. meyeriana	i
+searchers	i
+Fusarium semitectum	i
+Mangifera indica L	i
+cluster VIII	i
+Simulium turgaicum	i
+Hg = 1	i
+Taeniopygia guttata	i
+Macroxyela ferruginea	i
+Adeno-Associated Virus	i
+O. sativa	i
+P. yoelii	i
+Culex hortensis	i
+common millet	i
+Woman	i
+N. sphaeroides	i
+A. squarrosum	i
+Pheretima guillelmi	i
+yeasts	i
+M. persicae	i
+lion	i
+water hyacinth	i
+SC50	i
+Oryza glumaepatula	i
+Thermoascus aurantiacus	i
+Xenopus	i
+Sorghum bicolor (L.) Moench)	i
+DSM 791	i
+Child	i
+pears	i
+zebrafish	i
+sweet grass	i
+DBM	i
+Aspergillus flavus	i
+Dingo	i
+rice blast fungus	i
+Horses	i
+Acinetobacter lactucae	i
+BY4741	i
+Oryza sativa indica	i
+P. ananatis	i
+B. cereus	i
+green plants	i
+L. casei	i
+Akkermansia muciniphila	i
+Rice Stripe Virus	i
+Monascus	i
+O. grandiglumis	i
+Trichoderma harzianum	i
+Brown planthopper	i
+Bacillus subtilis str	i
+Human Papillomavirus	i
+Sea Turtles	i
+Anjani	i
+beta-coronavirus	i
+flamingo	i
+RSV	i
+expression vector pET-28	i
+plum	i
+Bread Wheat	i
+Streptomycesalbus strain	i
+Echinochloa crus-galli var. crus-galli	i
+Mycobacterium tuberculosis	i
+Plasmodiophora brassicae	i
+Pseudomonas plecoglossicida	i
+western clawed frog	i
+sweet potato whitefly	i
+pearl millet	i
+Lactobacillus buchneri	i
+S) medium	i
+Brewer's yeast	i
+Fusarium verticilloides	i
+O. sativa subsp. indica	i
+scallop	i
+Capsicum annuum (L	i
+Oryza sativa subsp	i
+rosemary	i
+S. bicolor subsp. verticilliflorum	i
+Telenomus remus Nixon, 1937	i
+Fraxinus chinensis	i
+Mauritia Flexuosa	i
+fenugreek	i
+rice variant	i
+Weissella cibaria	i
+Porphyromonas gingivalis	i
+Fusarium Fujikuroi	i
+bovine coronavirus vaccine	i
+Fall Armyworm	i
+maize	i
+horse	i
+horsetail	i
+Solanum lycopersicum L	i
+Spodoptera frugiperda	i
+O. officinalis	i
+Mulberry Mosaic Dwarf-Associated Virus	i
+Indica	i
+Acetobacter pasteurianus	i
+CSFV	i
+SPW	i
+Nigrospora oryzae	i
+Solanum Tuberosum	i
+Rufibacter immobilis	i
+Rice yellow mottle virus	i
+Rufibacter tibetensis	i
+DSM 27347	i
+rhizoctonia solani	i
+Chicken	i
+canary	i
+Elaeis guineensis Jacq	i
+Scirpophaga incertulas	i
+Eonycteris spelaea	i
+ruddy shelduck	i
+Rice	i
+dicots	i
+Limonium tetragonum	i
+Mice	i
+D. zeae CSL RW192	i
+Punica granatum L	i
+Avena fatua L	i
+Klebsiella pneumoniae KP1	i
+cotton rats	i
+Nicotiana benthamiana	i
+F. temperatum	i
+root-knot nematode	i
+Fusarium fujikuroi species complex	i
+Nelumbo nucifera Gaertn	i
+M. macrocephala	i
+Azadirachta indica	i
+Microbacterium enclense	i
+O. longistaminata	i
+common mallard	i
+Phaseolus vulgaris	i
+Environmental Samples	i
+P. citrinopileatus	i
+Peppermint	i
+Cattle	i
+Zizania latifolia	i
+T. tonsurans	i
+cyanobacterium	i
+Paenibacillus polymyxa	i
+Momordica charantia	i
+Fictibacillus aquaticus	i
+rice leaffolder	i
+Cotesia vestalis	i
+Aspergillus niger	i
+sperm whales	i
+Carthamus tinctorius	i
+Gnetum montanum	i
+Oidium heveae	i
+Funneliformis mosseae	i
+Curtobacterium	i
+Bacteriophage	i
+Chrysanthemum coronarium	i
+F. verticillioides	i
+Trichoderma	i
+Oryza sativa. L	i
+bacteriophage SP01	i
+P. patens	i
+Tribolium castaneum	i
+Anas platyrhynchos	i
+Green Rice Leafhopper	i
+B. amyloliquefaciens	i
+RR	i
+Agrobacterium	i
+Brassica chinensis L	i
+M. vogae	i
+T. australis	i
+B. aryabhattai	i
+Brassica rapa var	i
+Japanese Cedar	i
+Laodelphax striatellus	i
+Lolium multiflorum	i
+G. arboreum	i
+Chinese cabbage	i
+C. exigua	i
+TH057	i
+Rufibacter sp	i
+Indian rice	i
+Columba livia	i
+tuna	i
+Ascochyta rabiei	i
+Enterobacter sp. PR14	i
+PWN	i
+AGBA	i
+E. vermicola	i
+S. mansoni	i
+Poa annua	i
+Cellulomonas marina	i
+pepino	i
+Yayoi	i
+Rice black streaked dwarf virus	i
+Medaka	i
+Encarsia formosa	i
+potatoes	i
+Procambarus clarkii	i
+pistachio	i
+Sandarakinorhabdus cyanobacteriorum	i
+Rotheca serrata	i
+mung bean	i
+Trichophyton	i
+O. glaberrima	i
+P. crinitus	i
+Pennisetum orientale	i
+Xanthomonas albilineans str. GPE PC73	i
+kiwifruit	i
+mole shrew	i
+P. stewartii	i
+Magnaporthe oryzae partitivirus 1	i
+Pediococcus pentosaceus	i
+Wolffia australiana	i
+H. elachista	i
+rice yellow stunt virus	i
+Synthetic gene	i
+Jasmine	i
+Oryza rufipogon Griff	i
+peanut	i
+C. albicans	i
+carrot	i
+Trametes versicolor	i
+japonica	i
+Aspergillus terreus	i
+Faxonius	i
+Arctic Ground Squirrels	i
+Mycobacterium smegmatis	i
+F. graminearum	i
+COVID-19, coronavirus	i
+Botrytis cinerea	i
+Physcomitrella	i
+Rover	i
+Polyporus arcularius	i
+MEN	i
+Cocoa	i
+Ustilaginoidea virens	i
+Coptotermes heimi	i
+Oncorhynchus tshawytscha	i
+Cletus punctiger	i
+Bacillus sp. str	i
+Pestalotiopsis sp	i
+Wistar Rats	i
+Pleurotus ostreatus	i
+Rahnella aquatilis	i
+Dragon fruit	i
+Sinorhizobium	i
+V. alginolyticus	i
+Lipomyces starkeyi	i
+Opuntia ficus indica	i
+Mus terricolor	i
+Methylomonas	i
+Pleurotus sajor-caju	i
+Lysinibacillus xylanilyticus	i
+rice weevil	i
+Bacillus thuringiensis	i
+AGS	i
+Brassica rapa	i
+Diabrotica virgifera virgifera	i
+Plantago lanceolata L	i
+Miscanthus sinensis	i
+Triticum aestivum	i
+Trifolium	i
+Nostoc sphaeroides	i
+bryophyta	i
+almond	i
+Sclerotinia sclerotiorum	i
+Rice Blast Fungus	i
+barleys	i
+Oryza glaberrima Steud	i
+Pseudomonas sp	i
+rices	i
+castor bean	i
+environmental	i
+Pseudomonas chlororaphis YL-1	i
+Moringa	i
+tobacco roots	i
+Ebola	i
+B. gladioli pv. agaricicola	i
+fruit fly	i
+Bifidobacterium bifidum	i
+B. mandrillaris	i
+Arachis duranensis	i
+Rice tungro bacilliform virus	i
+kidney bean	i
+H. tricolor	i
+Cocos nucifera L	i
+Gaeumannomyces floridanus	i
+green rice leafhopper	i
+cows	i
+Bifidobacterium longum	i
+Anas crecca	i
+Parabacteroides distasonis	i
+Mesocestoides vogae	i
+P. peoriae	i
+rice black-streaked dwarf virus	i
+Rhizobium wuzhouense	i
+A. duranensis	i
+Vibrio parahaemolyticus	i
+Helianthella quinquenervis	i
+F. fujikuroi	i
+lesser dawn bat	i
+Gossypium barbadense	i
+Indigofera zollingeriana	i
+rice, millet	i
+Tiliacora triandra, Diels	i
+Pantoea	i
+Zika virus	i
+L. larvae	i
+Ae. Albopictus	i
+dolphin	i
+C. militaris	i
+Colletotrichum gloeosporioides	i
+Enterobacter hormaechei	i
+S. sclerotiorum	i
+tree frogs	i
+Achromobacter xylosoxidans	i
+T. claveryi	i
+Rice Dwarf Virus	i
+canine	i
+Ramie	i
+Trichopria drosophilae	i
+L. scariola	i
+Bacillus mycoides	i
+Sarcodon aspratus	i
+A. ipaensis	i
+B. syzigachne	i
+sunflower	i
+Suaeda australis	i
+Brachypodium sylvaticum	i
+red swamp crayfish	i
+Jatropha curcas	i
+Flowering Plants	i
+A. argyi	i
+carnation	i
+Pseudomonas (1	i
+Toxoplasma gondii	i
+buckwheat	i
+Neospora caninum	i
+Japanese rice	i
+peanuts	i
+Phthorimaea operculella	i
+wild cat	i
+Marchantia polymorpha	i
+CnmeGV	i
+TMV	i
+P. azotoformans	i
+Pearl millet	i
+Acacia confusa	i
+C. albidum	i
+Oryza sativa var. japonica	i
+Clostridium pasteurianum	i
+B. elkanii	i
+Lariophagus distinguendus	i
+Fusarium asiaticum	i
+CGMCC 1.7727	i
+Pyrus bretschneideri	i
+wheats	i
+Great Bustard	i
+M. elata	i
+Fusarium oxysporum	i
+A. cepa	i
+Digitaria eriantha Steud	i
+Infants	i
+Trichoderma viride	i
+Malus domestica	i
+Onion	i
+N.oryzae	i
+Oryza alta	i
+Rice stripe virus	i
+African wild rice	i
+millet	i
+A. oryzae	i
+leek	i
+Bacteriophage SP01	i
+Bifidobacterium adolescentis	i
+Chitinophaga	i
+Goats	i
+Lactuca sativa L	i
+pine wood nematode	i
+Moloney murine leukemia virus	i
+hot pepper	i
+Acanthus ilicifolius	i
+Pichia sp	i
+Bali cattle	i
+Callitettix versicolor	i
+C. sinensis	i
+austral pygmy owl	i
+L. (barnyard grass)	i
+Rice Field Frog	i
+P. aeruginosa DK1	i
+Pelodiscus sinensis	i
+C. songorica	i
+Brachypodium distachyon	i
+synthetic plasmid	i
+H. hebetor	i
+Arabidopsis thaliana (thale cress)	i
+Listeria innocua	i
+sheep	i
+Human papillomavirus	i
+Lactobacillus fermentum	i
+T. asperellum	i
+Ischnura pumilio	i
+garlic	i
+sperm whale	i
+hemp	i
+D. zeae	i
+Providencia sp	i
+Severe acute respiratory syndrome coronaviruses	i
+Denisovan	i
+crown daisy	i
+Hylocereus undatus	i
+Avicennia alba Blume	i
+moso bamboo	i
+Cetraria islandica	i
+Sesamum Orientale	i
+Lilium speciosum	i
+Oryza sativa ssp. Indica	i
+Ananas comosus	i
+Klebsiella pneumoniae ATCC BAA-2146	i
+F. equiseti	i
+Teosinte	i
+Agrobacterium tumefaciens	i
+Indica Rice	i
+winged-insects	i
+strain SA1	i
+Cassia occidentalis L	i
+T. rubrum	i
+M. thonningii	i
+Empoasca onukii	i
+Syrian Hamsters	i
+C. auris	i
+O. nana	i
+wild rice	i
+Cercospora oryzae	i
+litchi	i
+Halyomorpha halys	i
+chicory	i
+rice subspecies	i
+Tomato leaf curl New Delhi virus	i
+TYLCCNV	i
+Bovine	i
+Oryza sativa f. spontanea	i
+Sweet grass	i
+Populus trichocarpa	i
+Castor canadensis	i
+midge	i
+F. graminearum stra	i
+Clostridium beijerinckii	i
+Ae.) aegypti	i
+N. oryzae	i
+Arachis hypogaea	i
+Burkholderia glumae BGR1	i
+P. putida	i
+P. operculella	i
+Oryza sativa L. subsp	i
+CM	i
+Zaire ebolavirus	i
+Triticum	i
+O. barthii	i
+Penicillium notatum	i
+Cellulomonas	i
+Cyprinotus cingalensis Brady, 1886	i
+Clostridium tyrobutyricum	i
+B. plantarii	i
+B.) melitensis	i
+Burkholderia thailandensis	i
+Chelonia Mydas	i
+Phyllosticta citrichinaensis	i
+Men	i
+HCV strain	i
+Curtobacterium luteum	i
+wheat yellow mosaic virus	i
+Amaranthus caudatus	i
+Streptomyces sp. NEAU-H3	i
+CoVs	i
+banana	i
+P. fugax	i
+alpha-proteobacteria	i
+Anisopteromalus calandrae	i
+Hordeum vulgare	i
+T. aethiopicum	i
+A. theophrasti	i
+H3N2	i
+Pteromalus puparum	i
+Pseudomonas fuscovaginae	i
+Cnaphalocrocis exigua	i
+Amborella trichopoda	i
+O. malampuzhaensis	i
+Plantago major	i
+synthetic	i
+Bos taurus	i
+X. oryzae pv. oryzae)	i
+Pseudomonas protegens Pf-5	i
+Plodia interpunctella	i
+Brassica oleracea L. var	i
+Cauliflower mosaic virus	i
+cocoa	i
+Japonica Rice	i
+C. tropicalis	i
+Streptomyces cavourensis	i
+H. graminophila	i
+RDV	i
+S. lycopersicum	i
+mice	i
+Amorphophallus muelleri	i
+wild tobacco	i
+Winter Savory	i
+M. sinensis	i
+minute virus of mice	i
+almonds	i
+White-Backed Planthoppers	i
+hepatitis C virus	i
+A. tumefaciens	i
+O. rhizomatis	i
+Trichogramma japonicum	i
+coriander	i
+Coronavirus	i
+terreus	i
+Chitinophaga sp	i
+M. pilosus	i
+Physcomitrella patens	i
+loggerheads	i
+Lactobacillus acidipiscis	i
+Ginkgo biloba	i
+FMDV	i
+Green Leafhoppers	i
+stink bug	i
+R. oryzae	i
+SfMNPV	i
+Rhizoctonia solani AG1-IA	i
+common wheat	i
+CD	i
+Lactuca serriola L	i
+Thanatephorus cucumeris	i
+Fusarium	i
+Lilium Speciosum	i
+Z. latifolia	i
+P. gingivalis	i
+lions	i
+Bandicota bengalensis	i
+R. solani AG1-IA	i
+Burkholderia glumae AU6208	i
+Setaria italica	i
+PIG	i
+P. janthinellum	i
+roundworm	i
+Yeasts	i
+Cucurbita pepo	i
+transgenic mice	i
+Great Bustards	i
+sorghum	i
+Aeromonas hydrophila	i
+Trichobaris mucorea	i
+Pisum sativum	i
+T. reesei	i
+M. incognita	i
+Lolium rigidum	i
+Oryzomys palustris	i
+Dirofilaria	i
+plantains	i
+F. nucleatum	i
+Robinia pseudoacacia	i
+Auricularia cornea	i
+Fusarium graminearum	i
+Aspergillus candidus	i
+Prevotella	i
+Rats	i
+T. harzianum	i
+Oligoryzomys longicaudatus	i
+Asplenium Nidus	i
+B. multivorans	i
+C. difficile	i
+enrichment culture	i
+Meloidogyne incognita	i
+Lactobacillus reuteri	i
+Streptococcus uberis	i
+Brachypodium dIstachyon	i
+wild rices	i
+kobs	i
+Eubacterium] rectale	i
+Neisseria gonorrhoeae	i
+M. ferruginea	i
+MoV2	i
+Dickeya	i
+Gomphrena celosioides	i
+Bitis arietans	i
+sweet potato	i
+S. viridis	i
+Tobacco	i
+Pseudomonas syringae pv. tomato DC3000	i
+P. brassicae	i
+Pandan	i
+SRBSDV	i
+oregano	i
+Cyrtorhinus lividipennis	i
+Aphelenchoides Pseudogoodeyi	i
+Adeno-associated virus	i
+Ralstonia solanacearum ATCC  11696	i
+Isaria javanica	i
+Klebsiella variicola	i
+L. helveticus	i
+Leptochloa chinensis (L.) Nees)	i
+P. kribbensis	i
+Pholiota adiposa	i
+Amauroderma rugosum	i
+Solanum melongena L	i
+Chili Pepper	i
+chick	i
+breadfruit	i
+Pantoea sp	i
+Cucumis melo L	i
+Gv	i
+women	i
+Xanthomonas sp	i
+human	i
+Vibrio parahemolyticus	i
+PATIENTS	i
+Tick-borne encephalitis virus	i
+Nepenthes alata	i
+green leafhoppers	i
+wistar rats	i
+Geobacillus stearothermophilus	i
+Bemisia tabaci (Gennadius)	i
+L. boulardi	i
+chickpea	i
+Stenotaphrum secundatum	i
+Enterobacter sp PR 14	i
+D. suzukii	i
+O. surinamensis	i
+Citrus sinensis	i
+B. seminalis stra	i
+plantain	i
+X oryzae pv. oryzae	i
+S. sciuri	i
+HCoV-229E	i
+Magnaporthe oryzae ourmia-like virus	i
+Oxya hyla intricata	i
+Oryza rufipogon	i
+Oryza eichingeri	i
+Selaginella moellendorffii	i
+integrons	i
+Azoarcus sp. CIB	i
+Beckmannia syzigachne	i
+Comamonas	i
+Gossypium raimondii	i
+Caretta caretta	i
+white-backed planthoppers	i
+Agrobacterium rhizogenes	i
+Tolypocladium sp	i
+Heterixalus	i
+K. variicola	i
+Bacillus marisflavi	i
+rice	i
+C. indica	i

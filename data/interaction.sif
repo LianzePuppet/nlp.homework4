@@ -1,0 +1,2202 @@
+Rice	species-chemical	cholesterol
+apple	species-chemical	carbon
+Cyanidin 3-O-glucoside	species-chemical	soybean
+Iron	chemical-chemical	Fe
+Riboflavin	chemical-chemical	vitamin B2
+vitamin B2	species-chemical	human
+ADP-ribose	chemical-chemical	nicotinamide adenine dinucleotide
+nicotinamide adenine dinucleotide	chemical-chemical	NAD+
+Nitrogen	chemical-chemical	N
+Cd	species-chemical	rice
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+FeCl3	species-chemical	rice
+rice	species-chemical	nitrogen
+tryptophan	chemical-chemical	mannose
+ferredoxin	chemical-gene	CO2
+CO2	chemical-chemical	nitrate
+nitrate	chemical-chemical	sulfate
+Arsenic	chemical-chemical	As
+Reactive oxygen species	chemical-chemical	ROS
+Cadmium	chemical-chemical	Cd
+Jasmonic Acid	chemical-chemical	gibberellins
+gibberellins	chemical-chemical	salicylic acid
+salicylic acid	chemical-chemical	abscisic acid
+abscisic acid	chemical-chemical	auxin
+auxin	chemical-chemical	ethylene
+potato	species-chemical	carbohydrate
+carbohydrate	chemical-chemical	starch
+mesoporous silica	species-chemical	rice
+water	chemical-chemical	calcium magnesium phosphate
+calcium magnesium phosphate	chemical-chemical	CMP
+CMP	chemical-chemical	Si
+Si	chemical-chemical	Cd
+Cd	species-chemical	rice
+nitrogen	chemical-chemical	N
+patients	species-chemical	AAV
+nitrogenous	chemical-chemical	urea
+urea	chemical-chemical	N
+N	chemical-chemical	N2O
+flavonoid	species-chemical	rice
+arsenobetaine	chemical-chemical	arsenic
+arsenic	chemical-chemical	arsenous acid
+arsenous acid	chemical-chemical	dimethylarsinic acid
+dimethylarsinic acid	chemical-chemical	UDMA
+UDMA	chemical-chemical	monomethylarsonic acid
+monomethylarsonic acid	chemical-chemical	UMMA
+UMMA	chemical-chemical	inorganic arsenic
+inorganic arsenic	species-chemical	children
+Rice	species-chemical	silica
+silica	species-chemical	rice
+Rice	species-chemical	cholesterol
+rice	species-chemical	serotonin
+Phosphate	chemical-chemical	jasmonate
+jasmonate	chemical-chemical	JA
+quinclorac	chemical-chemical	3-methyl-1H-pyrazol-5-yl
+Aluminum phosphide	chemical-chemical	AlP
+acyl-CoA esters	chemical-chemical	lipid
+rice	species-chemical	water
+rice	species-chemical	proanthocyanidins
+proanthocyanidins	chemical-chemical	beta-carotene
+arsenic	chemical-chemical	As
+As	species-chemical	rice
+human	species-chemical	arsenic
+arsenic	chemical-chemical	As
+Perfluoropolyethers	chemical-chemical	ether-PFAS
+ether-PFAS	chemical-chemical	alkyl ether polymers
+alkyl ether polymers	chemical-chemical	hydrogens
+hydrogens	chemical-chemical	carbon
+carbon	chemical-chemical	fluorine
+tocilizumab	species-chemical	patients
+rice	species-chemical	husk
+husk	chemical-chemical	phosphorus
+phosphorus	species-chemical	rice
+Fe3O4	species-chemical	Phanerochaete chrysosporium
+rice	species-chemical	Cd
+Cd	chemical-chemical	Cu
+nitrogen	chemical-chemical	cadmium
+cadmium	chemical-chemical	Cd
+C6H5O2	chemical-chemical	phenoxy
+phenoxy	chemical-chemical	3P
+3P	chemical-chemical	phenyl
+phenyl	chemical-chemical	O2
+dogs	species-chemical	amitraz
+nitrogen	chemical-chemical	N
+N	chemical-chemical	phosphorus
+phosphorus	chemical-chemical	water
+iron	chemical-chemical	Fe
+Rice	species-chemical	bran arabinoxylan compound
+bran arabinoxylan compound	chemical-chemical	RBAC
+RBAC	species-chemical	rice
+anthocyanins	species-chemical	rice
+reactive oxygen species	chemical-chemical	ROS
+phosphorus	chemical-chemical	silicon
+rice	species-chemical	cadmium
+cadmium	chemical-chemical	Cd
+Anthocyanin	chemical-chemical	flavonoid
+flavonoid	species-chemical	human
+probenazole	species-chemical	rice
+oils	chemical-chemical	poly-beta-hydroxybutyrate
+poly-beta-hydroxybutyrate	chemical-chemical	PHB
+PHB	species-chemical	Alcaligenes faecalis
+iron	species-chemical	rice
+silicon	chemical-chemical	Si
+Steroid	chemical-chemical	testosterone
+testosterone	chemical-chemical	dihydrotestosterone
+rice	species-chemical	polyphenols
+Iron	chemical-chemical	Fe
+Starches	chemical-chemical	amylose
+Carbon	chemical-chemical	copper
+rapamycin	chemical-gene	mTORC1
+rice	species-chemical	starch
+starch	species-chemical	sorghum
+Anthocyanins	chemical-chemical	flavonoid
+Pleurotus ostreatus	species-chemical	urea
+urea	species-chemical	rice
+cholesterol	species-chemical	yeast
+rice	species-chemical	sterols
+sterols	chemical-chemical	stanols
+stanols	chemical-chemical	beta-glucans
+Polycyclic aromatic hydrocarbons	chemical-chemical	PAHs
+arsenic	chemical-chemical	As
+137 Cesium	chemical-chemical	Cs
+Neodymium	chemical-chemical	Nd
+mammalian	species-chemical	GMP
+poly(N-isopropylacrylamide)	chemical-chemical	poly(L-lysine)
+poly(L-lysine)	chemical-chemical	PLL
+formic acid	chemical-chemical	carbohydrate
+carbohydrate	species-chemical	rice
+NaCl	species-chemical	japonica
+methane	chemical-chemical	CH4
+CH4	chemical-chemical	nitrous oxide
+nitrous oxide	chemical-chemical	N2O
+N2O	chemical-chemical	carbon dioxide
+carbon dioxide	chemical-chemical	CO2
+cysteine	chemical-chemical	glutathione
+starch	species-chemical	dogs
+Ethyl carbamate	chemical-chemical	EC
+oryzomyine	species-chemical	rice
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	human
+Sucrose	chemical-chemical	abscisic acid
+abscisic acid	chemical-chemical	ABA
+polyphenols	chemical-chemical	BP
+N	chemical-chemical	carbon
+carbon	chemical-chemical	SiO 2
+SiO 2	species-chemical	rice
+rice	species-chemical	lithium
+lithium	chemical-chemical	carbon
+carbon	chemical-chemical	N
+fosetyl-Al	chemical-chemical	phosphonic acid
+phosphonic acid	chemical-chemical	fosetyl-Al
+TiO2	chemical-chemical	water
+polyphenols	chemical-chemical	linoleic acid
+Rice	species-chemical	GA
+GA	chemical-chemical	gibberellin
+gibberellin	chemical-chemical	nitrogen
+Water	chemical-chemical	nitrogen
+nitrogen	species-chemical	rice
+urea	species-chemical	rice
+Diterpenoids	species-chemical	rice
+rice	species-chemical	phytoalexins
+Cadmium	chemical-chemical	Cd
+Cd	chemical-chemical	Pb
+Pb	species-chemical	rice
+rice	species-chemical	Fe
+sulfide	chemical-chemical	methane
+methane	chemical-chemical	carbon
+lactic acid	species-chemical	Lactobacillus rhamnosus
+Nitrogen	species-chemical	rice
+jasmonate	species-chemical	tomato
+PB1	species-gene	influenza virus
+trichothecenes	chemical-chemical	trichothecrotocins
+trichothecrotocins	species-chemical	rice
+C4H5O2	species-chemical	Rice
+Rice	species-chemical	n-C4H5
+n-C4H5	chemical-chemical	O2
+water	chemical-chemical	Cd
+Cd	species-chemical	rice
+rice	species-chemical	water
+carbon	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	phosphorus
+Anthocyanins	species-chemical	human
+Phenolic acids	chemical-chemical	phytosterols
+phosphorus	chemical-chemical	P
+Anthocyanins	species-chemical	rice
+rice	species-chemical	anthocyanin
+rice	species-chemical	RBO
+RBO	species-chemical	patients
+eIF2alpha	gene-gene	PERK
+ZFTA	chemical-gene	RELA
+RELA	gene-gene	YAP1
+Ursolic acid	chemical-chemical	UA
+UA	chemical-chemical	triterpenoid
+polycyclic aromatic hydrocarbons	chemical-chemical	PAHs
+Carboxylic acid	chemical-chemical	silica
+silica	species-chemical	rice
+lignin	chemical-chemical	carbon
+carbon	chemical-chemical	lignin
+lignin	chemical-chemical	carbon
+Rice	species-chemical	nitrogen
+nitrogen	chemical-chemical	N
+N	species-chemical	rice
+Ustilaginoidins	chemical-chemical	bis-naphtho-gamma-pyrones
+Aluminum	chemical-chemical	Al3+
+catechol	chemical-chemical	3,4-dihydroxyphenylalanine
+3,4-dihydroxyphenylalanine	chemical-chemical	L-DOPA
+L-DOPA	chemical-chemical	L-tyrosine
+5-amino valeric acid	chemical-chemical	5-AVA
+5-AVA	chemical-chemical	diamine
+diamine	chemical-chemical	putrescine
+putrescine	chemical-chemical	polyamide
+graphene	chemical-chemical	carbon
+carbon	species-chemical	rice
+rice	species-chemical	potassium hydroxide
+Fusarium graminearum	species-chemical	deoxynivalenol
+deoxynivalenol	chemical-chemical	DON
+rice	species-chemical	phytoalexins
+Thiocyanate	chemical-chemical	water
+phosphate	chemical-chemical	serine
+serine	chemical-chemical	threonine
+threonine	chemical-chemical	tyrosine
+iron	chemical-chemical	Fe
+carbon dots	chemical-chemical	CDs
+CDs	species-chemical	Tagetes erecta
+Tagetes erecta	species-chemical	TEF
+TEF	chemical-chemical	CDs
+Cadmium	chemical-chemical	Cd
+Cd	chemical-chemical	Pb
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+rice	species-chemical	selenium
+selenium	chemical-chemical	Se
+Phytic acid	chemical-chemical	Myo-inositol hexakisphosphate
+Myo-inositol hexakisphosphate	species-chemical	rice
+nitrogen	chemical-chemical	urea
+urea	chemical-chemical	nitrogen
+nitrogen	species-chemical	chicken
+4-chloro-2-methylphenoxyacetic acid	chemical-chemical	MCPA
+copolymer	chemical-chemical	polystyrene-polydimethylsiloxane
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	human
+red rice	species-chemical	water
+iron	chemical-chemical	Fe
+Bisulfite	chemical-chemical	HSO3-
+HSO3-	chemical-gene	tap
+tap	chemical-gene	water
+W	chemical-chemical	carbon
+carbon	chemical-chemical	Fe3O4
+Methane	chemical-chemical	CH4
+rice	species-chemical	nitrogen
+Amylose	species-chemical	rice
+rice	species-chemical	Cd
+morpholine	species-chemical	taro
+Metal	chemical-chemical	butyric acid
+butyric acid	species-chemical	rice
+Hydrogen sulfide	chemical-chemical	H2S
+metal	chemical-chemical	water
+saponins	chemical-chemical	oligosaccharides
+gibberellin	chemical-chemical	GA
+GA	chemical-chemical	nitrogen
+hydroxypropyl methyl cellulose	chemical-chemical	HPMC
+HPMC	chemical-chemical	monoacylglycerol
+monoacylglycerol	chemical-chemical	MAG
+MAG	chemical-chemical	sodium stearyl lactate
+sodium stearyl lactate	chemical-chemical	SSL
+SSL	species-chemical	rice
+arsenic	chemical-chemical	arsenite
+arsenite	chemical-chemical	AsIII
+AsIII	chemical-chemical	arsenate
+arsenate	chemical-chemical	AsV
+AsV	chemical-chemical	monomethylarsonic acid
+monomethylarsonic acid	chemical-chemical	MMA
+MMA	chemical-chemical	dimethylarsinic acid
+dimethylarsinic acid	chemical-chemical	DMA
+DMA	chemical-chemical	arsenobetaine
+arsenobetaine	chemical-chemical	AsB
+AsB	chemical-chemical	arsenocholine
+arsenocholine	chemical-chemical	AsC
+carbon	chemical-chemical	polymer
+Water	chemical-chemical	chromium
+chromium	chemical-chemical	Cr(VI)
+Cr(VI)	chemical-chemical	water
+dopamine	chemical-chemical	DA
+oil	chemical-chemical	water
+water	chemical-chemical	oil
+Sb	chemical-chemical	As
+As	chemical-chemical	Sb
+Aflatoxins	chemical-chemical	AFs
+rice	species-chemical	water
+As	chemical-chemical	Cd
+Cd	species-chemical	rice
+rice	species-chemical	glucose
+glucose	species-chemical	patients
+3,4-Methylenedioxy-N-methylcathinone	chemical-chemical	methylone
+mercury	species-chemical	rice
+Pb	species-chemical	rice
+arsenic	species-chemical	rice
+carbendazim	chemical-chemical	tebuconazole
+tebuconazole	species-chemical	cabbage
+thiamine	species-chemical	rice
+Copper	chemical-chemical	Cu2+
+Cu2+	chemical-chemical	copper
+amylose	species-chemical	rice
+rice	species-chemical	polysaccharide
+phosphorus	species-chemical	rice
+rice	species-chemical	phosphorus
+Starch	chemical-chemical	carbohydrate
+carbohydrate	species-chemical	rice
+unsaturated 2-monoglycerides	species-chemical	soybean
+soybean	species-chemical	saturated
+saturated	chemical-chemical	trans fatty acids
+carbon	chemical-chemical	CO2
+Benzpyrimoxan	chemical-chemical	5-(1,3-dioxan-2-yl)-4-{[4-(trifluoromethyl)phenyl]methoxy}pyrimidine
+5-(1,3-dioxan-2-yl)-4-{[4-(trifluoromethyl)phenyl]methoxy}pyrimidine	chemical-chemical	NNI-1501
+NNI-1501	chemical-chemical	pyrimidine
+pyrimidine	chemical-chemical	1,3-dioxanyl
+1,3-dioxanyl	chemical-chemical	4-trifluoromethylbenzyloxy
+polymers	chemical-chemical	essential oil
+Naringenin	chemical-chemical	flavonoids
+Selenium	chemical-chemical	selenite
+water	chemical-chemical	Cd
+Fe3O4	chemical-chemical	hydroxyapatite
+hydroxyapatite	chemical-chemical	Fe3O4-phosphate
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+rice	species-chemical	mercury
+water	chemical-chemical	metal
+metal	species-chemical	rice
+rice	species-chemical	Pb
+Pb	chemical-chemical	Cd
+Cd	chemical-chemical	water
+water	chemical-chemical	metal
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+rice	species-chemical	Cd
+Cd	species-chemical	human
+Cd	species-chemical	rice
+rice	species-chemical	Cd
+pig	species-chemical	arsenic
+arsenic	chemical-chemical	As
+As	chemical-chemical	cadmium
+cadmium	chemical-chemical	Cd
+Cd	chemical-chemical	iron
+iron	chemical-chemical	As and Cd
+As and Cd	species-chemical	rice
+rice	species-chemical	As/Cd
+Cd	species-chemical	rice
+rice	species-chemical	Cd
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+nitrogen	chemical-chemical	straw
+straw	species-chemical	rice
+Eimeria	species-chemical	cysteine-rich surface antigens
+cysteine-rich surface antigens	chemical-gene	SAG
+oil	chemical-chemical	water
+Rice	species-chemical	iron
+iron	chemical-chemical	cadmium
+cadmium	chemical-chemical	Cd
+water	species-chemical	rice
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	human
+arsenic	chemical-chemical	As
+As	species-chemical	rice
+Cr (VI)	species-chemical	human
+starch	species-chemical	rice
+rice	species-chemical	amylose
+Carbon	chemical-chemical	carbon
+potassium	chemical-chemical	K2O
+tetrabromobisphenol A	chemical-chemical	TBBPA
+starch	species-chemical	swine
+Cadmium	chemical-chemical	Cd
+3'-(phenyl alkynyl) abscisic ABA	chemical-chemical	ABA
+Rice	species-chemical	water
+lipooligosaccharide	species-chemical	Neisseria gonorrhoeae
+starches	chemical-chemical	starch citrates
+starch citrates	chemical-chemical	lactates
+lactates	chemical-chemical	starches
+starches	chemical-chemical	PG
+SWITCH1/DYAD	gene-gene	SWI1
+SWI1	species-gene	Arabidopsis
+chromium	chemical-chemical	Cr(VI)
+Cr(VI)	species-chemical	rice
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+Human	species-gene	adenosine deaminase acting on RNA 1
+adenosine deaminase acting on RNA 1	gene-gene	ADAR1
+ADAR1	chemical-gene	adenosine
+adenosine	chemical-chemical	inosine
+Manganese	chemical-chemical	cadmium
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+LEAFY COTYLEDON1	gene-gene	LEC1
+LEC1	species-gene	Arabidopsis
+pyroglutamyl (pGlu) peptide ethyl esters	species-chemical	rice
+Ceramides	chemical-chemical	sphingolipids
+Age	species-gene	human
+fatty acid	chemical-chemical	squalene
+squalene	chemical-chemical	phytosterols
+phytosterols	chemical-chemical	camellia oil
+camellia oil	chemical-chemical	CAO
+CAO	chemical-chemical	superolein
+superolein	chemical-chemical	PAO
+PAO	species-chemical	olive
+olive	species-chemical	ROO
+ROO	species-chemical	sunflower
+sunflower	species-chemical	corn oil
+corn oil	chemical-chemical	COO
+COO	species-chemical	rice
+rice	species-chemical	RBO
+RBO	species-chemical	rice
+rice	species-chemical	RIO
+RIO	species-chemical	peanut
+peanut	species-chemical	PEO
+PEO	species-chemical	sesame
+sesame	species-chemical	SEO
+SEO	species-chemical	soybean
+soybean	species-chemical	SOO
+SOO	chemical-chemical	rapeseed oil
+rapeseed oil	chemical-chemical	RAO
+Rice	species-chemical	cadmium
+cadmium	chemical-chemical	Cd
+aldehydes	chemical-chemical	VAs
+mushroom	species-chemical	Cd
+Cd	species-chemical	rice
+rice	species-chemical	Cd
+Cd	species-chemical	rice
+rice	species-chemical	HNO3
+rice	species-chemical	sugar
+sugar	chemical-chemical	starch
+starch	species-chemical	Laceyella sacchari
+rice	species-chemical	water
+water	species-chemical	rice
+ethylene	species-chemical	rice
+Iron	chemical-chemical	Fe
+vitamin E	chemical-chemical	tocochromanol
+tocochromanol	chemical-chemical	tocopherol
+tocopherol	chemical-chemical	Toc
+Toc	chemical-chemical	tocotrienol
+tocotrienol	chemical-chemical	T3
+T3	species-chemical	rice
+rice	species-chemical	RBO
+fatty acid	species-chemical	rice
+wild rice	species-chemical	anthocyanin
+O2	chemical-chemical	alkyl radicals
+alkyl radicals	chemical-chemical	R
+R	chemical-chemical	O2
+O2	chemical-chemical	alkanes
+rice	species-chemical	water
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+beta-Sitosterol 3-O-d-glucoside	chemical-chemical	BSG
+BSG	chemical-gene	beta-glucocerebrosidase
+beta-glucocerebrosidase	chemical-gene	ceramide
+Serotonin	chemical-chemical	melatonin
+Rice	species-chemical	cadmium
+cadmium	chemical-chemical	Cd
+cholesterol	chemical-chemical	mono- and diglycerides
+mono- and diglycerides	chemical-chemical	MG-DG
+rice	species-chemical	sucrose
+sucrose	species-chemical	almond
+selenium	species-chemical	maize
+people	species-chemical	sodium
+rice	species-chemical	salt
+salt	chemical-chemical	NaCl
+NaCl	species-chemical	rice
+rice	species-chemical	salt
+rice	species-chemical	water
+rice	species-chemical	anthocyanins
+organophosphate	species-chemical	rice
+angiotensin II type 2 receptor	species-gene	patients
+Silicate	chemical-chemical	silicon
+silicon	chemical-chemical	Si
+starch	chemical-chemical	water
+water	species-chemical	rice
+rice	species-chemical	amylose
+amylose	chemical-chemical	starch
+oxygen	species-chemical	patients
+water	chemical-chemical	nitrogen
+silica oxide	chemical-chemical	SiO2NPs
+melatonin	species-chemical	rice
+nitric oxide	chemical-chemical	sodium nitroprusside
+sodium nitroprusside	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	sulfur
+sulfur	species-chemical	rice
+Armolipid	chemical-chemical	lipid
+Salvia miltiorrhiza	species-chemical	19,20-seco-chaetoglobosins
+19,20-seco-chaetoglobosins	chemical-chemical	salchaetoglobosins A (1) and B (
+salchaetoglobosins A (1) and B (	chemical-chemical	chaetoglobosins E
+dolomite	species-chemical	rice
+Rice	species-chemical	beta-carotene
+beta-carotene	species-chemical	rice
+silica	chemical-chemical	polystyrene
+Polyethylene glycol calcium	chemical-chemical	PEG-Ca2+
+eudicots	species-gene	CLV3
+Carbon	species-chemical	rice
+Starch	species-chemical	rice
+adenosine	chemical-chemical	ATP
+ATP	chemical-chemical	malonic acid
+malonic acid	species-chemical	rice
+pepeta	species-chemical	rice
+Rice	species-chemical	arsenic
+Cyclic diguanylate monophosphate	chemical-chemical	c-di-GMP
+solid polymer	chemical-chemical	polyvinyl alcohol
+polyvinyl alcohol	chemical-chemical	ammonium nitrate
+ammonium nitrate	chemical-chemical	PVA
+PVA	chemical-chemical	NH4NO3
+NH4NO3	chemical-chemical	zinc oxide
+Allene oxide	chemical-chemical	jasmonic acid
+jasmonic acid	chemical-chemical	JA
+Carbon	chemical-chemical	polymers
+cadmium	chemical-chemical	Cd
+rice	species-chemical	glycine
+glycine	chemical-chemical	nitrogen
+Abscisic acid	chemical-chemical	ABA
+PEC	chemical-chemical	5-formylcytosine
+5-formylcytosine	chemical-chemical	5fC
+5fC	chemical-chemical	Ag2S
+Ag2S	chemical-chemical	FeVO4
+Iron	chemical-chemical	Fe
+chlorogenic acid	chemical-chemical	ferulic acid
+ferulic acid	chemical-chemical	senkyunolide
+senkyunolide	chemical-chemical	coniferyl ferulate
+coniferyl ferulate	chemical-chemical	senkyunolide A
+senkyunolide A	chemical-chemical	ligustilide
+ligustilide	chemical-chemical	alcohol
+ammonia	chemical-chemical	NH3
+silica	chemical-chemical	F-SiO2
+F-SiO2	species-chemical	rice
+rice	species-chemical	Si
+pirimiphos	chemical-chemical	phosphine
+phosphine	species-chemical	Tribolium castaneum
+water	chemical-chemical	CO2
+mercury	chemical-chemical	carbon
+cadmium	chemical-chemical	Cd
+Cd	chemical-chemical	Zn
+Zn	species-chemical	rice
+abscisic acid	chemical-chemical	ABA
+human	species-chemical	cadmium
+cadmium	species-chemical	rice
+monomethylarsonic acid	chemical-chemical	MMA
+MMA	chemical-chemical	dimethylarsinic acid
+dimethylarsinic acid	chemical-chemical	DMA
+DMA	chemical-chemical	arsenobetaine
+arsenobetaine	chemical-chemical	AsB
+p-Phenoxyphenyl boronic acid	chemical-chemical	PPBo
+Coenzyme Q10	chemical-chemical	CoQ10
+Methane	chemical-chemical	methane
+methane	chemical-chemical	CH4
+Sb	chemical-chemical	arsenic
+arsenic	chemical-chemical	As
+As	species-chemical	human
+hydrogen	chemical-chemical	water
+water	species-chemical	rice
+isoflavones	species-chemical	human
+phytol	chemical-chemical	chlorophyll
+chlorophyll	chemical-gene	peroxisome proliferator-activated receptor-alpha
+arsenic	chemical-chemical	As
+As	species-chemical	human
+Arsenic	chemical-chemical	As
+As	species-chemical	humans
+humans	species-chemical	water
+Cadmium	chemical-chemical	Cd
+Cd	chemical-chemical	metal
+metal	chemical-chemical	Cd
+Ipilimumab	chemical-chemical	nivolumab
+N6-methyladenine	chemical-chemical	6mA
+starch	species-chemical	rice
+rice	species-chemical	starch
+Gamma oryzanol	chemical-chemical	GO
+GO	species-chemical	rice
+rice	species-chemical	cholesterol
+Citrate	chemical-chemical	tricarboxylic acid
+L-selectin	species-gene	human
+lithium metal	chemical-chemical	carbonate
+carbonate	chemical-chemical	lithium metal
+iron	species-chemical	rice
+iron	species-chemical	maize
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	human
+Arsenic	chemical-chemical	As
+As	species-chemical	people
+Lignosulfonate	chemical-chemical	LS
+cohesin	gene-gene	CTCF
+Japanese rice	species-chemical	tocols
+tocols	chemical-chemical	Vitamin E
+Vitamin E	chemical-chemical	tocol
+tocol	chemical-chemical	tocopherol
+tocopherol	chemical-chemical	tocotrienol
+tocotrienol	chemical-chemical	T3
+titanium dioxide	species-chemical	rice
+pyriculariol	chemical-chemical	dihydropyriculariol
+dihydropyriculariol	chemical-chemical	phytotoxins
+phytotoxins	species-chemical	Pyricularia oryzae
+neuro-oncological ventral antigen 1	gene-gene	NOVA1
+oxygen	species-chemical	patients
+carbon	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	phosphorus
+essential amino acids	chemical-chemical	fatty acids
+barley	species-chemical	starch
+silica	chemical-chemical	silicon
+silicon	chemical-chemical	Si
+Si	chemical-chemical	carbon
+Lipids	species-chemical	humans
+humans	species-chemical	lipids
+Chitosan	chemical-chemical	polysaccharide
+polysaccharide	chemical-chemical	D-glucosamine
+Boron	chemical-chemical	borate
+Arsenic	chemical-chemical	As
+As	species-chemical	rice
+abscisic acid	chemical-chemical	ABA
+Human	species-chemical	arsenic
+arsenic	chemical-chemical	cadmium
+Rotundone	chemical-chemical	sesquiterpene
+Iron	chemical-chemical	Fe
+water	species-chemical	rice
+bone morphogenetic protein-2	gene-gene	BMP-2
+hydrogen peroxide	chemical-chemical	H2O2
+H2O2	chemical-chemical	gibberellic acid
+lysine	chemical-gene	Set1
+Set1	species-gene	yeast
+nitrogen	chemical-chemical	N
+Fe3+	chemical-chemical	Fe2+
+Fe2+	species-chemical	rice
+cytochalasan	chemical-chemical	westalsan
+westalsan	chemical-chemical	cytochalasan
+cytochalasan	chemical-chemical	phomacin B
+phomacin B	chemical-chemical	19-hydroxy-19,20-dihydrophomacin C
+19-hydroxy-19,20-dihydrophomacin C	species-chemical	rice
+Aluminum	chemical-chemical	Al
+rice	species-chemical	acid sulfate
+Triflumezopyrim	chemical-chemical	TFM
+carbonyl compounds	chemical-chemical	hydroxynonenol
+hydroxynonenol	chemical-chemical	malondialdehyde
+malondialdehyde	chemical-chemical	acrolein
+acrolein	chemical-chemical	crotonaldehyde
+crotonaldehyde	chemical-chemical	methylglyoxal
+methylglyoxal	chemical-chemical	glyoxal
+rice	species-chemical	anthocyanin
+arsenic	chemical-chemical	As
+As	chemical-chemical	Cd
+Cd	chemical-chemical	Co
+Co	chemical-chemical	Cr
+Cr	chemical-chemical	Cu
+Cu	chemical-chemical	Fe
+Fe	chemical-chemical	Hg
+Hg	chemical-chemical	Pb
+Pb	chemical-chemical	Se
+Se	chemical-chemical	Zn
+Zn	species-chemical	rice
+rice	species-chemical	mercury
+nitrogen	chemical-chemical	N
+N	chemical-chemical	nitrous oxide
+nitrous oxide	chemical-chemical	N2O
+Andrastones	chemical-chemical	meroterpenoids
+water	species-chemical	rice
+ice	species-gene	human
+Ciprofloxacin	chemical-chemical	fluoroquinolone
+fluoroquinolone	species-chemical	human
+beta1,2-xylose	chemical-chemical	alpha1,3-fucose
+alpha1,3-fucose	species-chemical	rice
+Nitrogen	chemical-chemical	N
+rice	species-chemical	sodium selenate
+sodium selenate	chemical-chemical	sodium selenite
+hypothemycin	chemical-chemical	resorcylic acid lactones
+resorcylic acid lactones	species-chemical	rice
+bromophenol	chemical-chemical	2,4,6-tribromophenol
+2,4,6-tribromophenol	chemical-chemical	2,4,6-TBP
+rice	species-chemical	arsenic
+arsenic	chemical-chemical	As
+As	chemical-chemical	Zn
+Cadmium	chemical-chemical	Cd
+silver	species-chemical	Colletotrichum falcatum
+orthophosphate	chemical-chemical	P
+P	species-chemical	rice
+rice	species-chemical	arsenic
+arsenic	chemical-chemical	As
+As	chemical-chemical	polyphenol
+polyphenol	species-chemical	rice
+Brassinosteroids	chemical-chemical	BRs
+BRs	chemical-chemical	steroid
+starch	species-chemical	ramie
+rice	species-chemical	cholesterol
+EFSA	chemical-chemical	inorganic arsenic
+inorganic arsenic	chemical-chemical	iAs
+gamma-aminobutyric acid	chemical-chemical	GABA
+jasmonate	chemical-chemical	JA
+JA	chemical-chemical	salicylate
+salicylate	chemical-chemical	SA
+Nitrogen	chemical-chemical	N
+N	chemical-chemical	carbon
+cytochrome c	gene-gene	cyt c
+arsenic	chemical-chemical	As
+As	species-chemical	rice
+arsenic	chemical-chemical	As
+Hordeum vulgare	species-chemical	CuCl2
+CO2	chemical-chemical	HCO3
+Cadmium	chemical-chemical	Cd
+rice	species-chemical	(VI) oxyanion
+abscisic acid	chemical-chemical	ABA
+enniatin A	chemical-chemical	A1
+A1	chemical-chemical	enniatin B
+enniatin B	chemical-chemical	enniatin B1
+enniatin B1	chemical-chemical	beauvericin
+beauvericin	chemical-chemical	BEA
+Asparagine synthetase	chemical-gene	glutamine
+glutamine	chemical-chemical	aspartate
+aspartate	chemical-chemical	glutamate
+rice	species-chemical	nitrogen
+Interleukin-6	gene-gene	IL-6
+polychlorinated naphthalenes	chemical-chemical	PCNs
+PCNs	species-chemical	rice
+children	species-gene	Visa
+Arsenic	chemical-chemical	As
+As	species-chemical	human
+cadmium	chemical-chemical	Cd
+Cd	chemical-chemical	Zn
+Zn	chemical-chemical	Cd
+Cd	species-chemical	rice
+cadmium	chemical-chemical	Cd
+arsenic	species-chemical	human
+metal	chemical-chemical	organic acids
+2H	chemical-chemical	MoTe2
+Rice	species-chemical	beta-carotene
+beta-carotene	chemical-chemical	vitamin A
+rice	species-chemical	lipid
+alcohols	chemical-chemical	aldehydes
+aldehydes	chemical-chemical	esters
+esters	chemical-chemical	fatty acids
+fatty acids	chemical-chemical	organic acids
+organic acids	chemical-chemical	reducing sugars
+reducing sugars	species-chemical	rice
+Nitrogen	chemical-chemical	N
+N	chemical-chemical	phosphorus
+phosphorus	chemical-chemical	P
+Soybean	species-chemical	SBO
+SBO	chemical-chemical	rapeseed oil
+rapeseed oil	chemical-chemical	RSO
+RSO	species-chemical	peanut
+peanut	species-chemical	PO
+PO	chemical-chemical	corn oil
+corn oil	chemical-chemical	CO
+CO	species-chemical	olive
+olive	species-chemical	OO
+OO	species-chemical	sunflower
+rice	species-chemical	RGO
+RGO	chemical-chemical	walnut oil
+walnut oil	chemical-chemical	WO
+WO	chemical-chemical	torreya seed oil
+torreya seed oil	chemical-chemical	TSO
+TSO	chemical-chemical	grapeseed oil
+grapeseed oil	chemical-chemical	GSO
+GSO	chemical-chemical	heterocyclic amines
+heterocyclic amines	chemical-chemical	HAs
+Phosphorus	chemical-chemical	P
+human	species-chemical	carbon
+nitrogen	species-chemical	rice
+rice	species-chemical	nitrogen
+nitrogen	chemical-chemical	N
+human	species-chemical	carbon
+carbon	chemical-chemical	nitrogen
+LQT1	gene-gene	KCNQ1
+Brassinosteroids	chemical-chemical	BRs
+cadmium	chemical-chemical	Cd
+imidazolinone	chemical-chemical	IMI
+arsenic	chemical-chemical	As
+As	species-chemical	rice
+Cadmium	chemical-chemical	Cd
+serotonin	chemical-chemical	ST
+thielavins I, V, and Q	chemical-chemical	thielavin Z8
+Tetracycline	chemical-chemical	TC
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+graphene	chemical-chemical	molybdenum disulfide
+arsenic	chemical-chemical	water
+water	species-chemical	rice
+rice	species-chemical	arsenic
+arsenic	chemical-chemical	As
+water	chemical-chemical	starch
+starch	species-chemical	indica rice
+Glyphosate	chemical-chemical	glufosinate ammonium
+Oxycodone	chemical-chemical	oxycodone
+Buprofezin	chemical-chemical	Fenoxycarb
+Fenoxycarb	chemical-chemical	Pyriproxyfen
+Pyriproxyfen	chemical-chemical	Methoxyfenozide
+Methoxyfenozide	chemical-chemical	Tebufenozide
+Tebufenozide	species-chemical	neem
+lipid	chemical-chemical	lipid reactive oxygen species
+lipid reactive oxygen species	chemical-chemical	ROS
+rice	species-chemical	starch-unsaturated fatty acid
+starch-unsaturated fatty acid	chemical-chemical	trans-2-dodecaenoic acid
+trans-2-dodecaenoic acid	chemical-chemical	trans-oleic acid
+trans-oleic acid	chemical-chemical	t18
+t18	chemical-chemical	cis-oleic acid
+cis-oleic acid	chemical-chemical	c18
+c18	chemical-chemical	linoleic acid
+linoleic acid	chemical-chemical	loa
+graphene oxide	chemical-chemical	(4-phenyl) methanethiol
+(4-phenyl) methanethiol	chemical-chemical	Fe3O4
+Fe3O4	chemical-chemical	aluminum
+imidazole-4-carboxamide	chemical-chemical	ICA
+ICA	species-chemical	rice
+carbon	chemical-chemical	3-hydroxy-N-phenethyl-5-phenylmorphan
+nitrogen	species-chemical	rice
+Cd2	species-gene	rice
+chicken	species-chemical	TCMB
+Methylglyoxal	chemical-chemical	MG
+MG	species-chemical	mammalian
+Iron	chemical-chemical	Fe
+Fe	species-chemical	rice
+rice	species-chemical	Fe
+cellulose	chemical-chemical	hemicellulose
+hemicellulose	chemical-chemical	lignin
+rice	species-chemical	cholesterol
+cholesterol	species-chemical	mice
+tricyclazole	chemical-chemical	fluorescein
+fluorescein	chemical-chemical	silver
+glucosides	chemical-chemical	lignin
+Rice	species-chemical	salt
+2-acetyl azaheterocycles	chemical-chemical	2-acetyl-1-pyrroline
+2-acetyl-1-pyrroline	chemical-chemical	2-acetyl-1,4,5,6-tetrahydropyridine
+2-acetyl-1,4,5,6-tetrahydropyridine	chemical-chemical	2-acetylpyrazine
+2-acetylpyrazine	chemical-chemical	2-acetyl-2-thiazoline
+polysaccharide	chemical-chemical	sugars
+daptomycin	chemical-chemical	DAP
+rice	species-chemical	CO2
+prothioconazole	chemical-chemical	citrate
+reactive oxygen species	chemical-chemical	ROS
+cadmium	chemical-chemical	Cd
+His	chemical-chemical	Asp
+rice	species-chemical	carbon
+carbon	chemical-chemical	cadmium
+cadmium	chemical-chemical	copper
+copper	chemical-chemical	iron
+Sphingolipids	chemical-chemical	ceramide
+ceramide	chemical-chemical	Cer
+Cer	chemical-chemical	glucosylceramide
+glucosylceramide	chemical-chemical	GlcCer
+GlcCer	chemical-chemical	sphingoid bases
+Cadmium	chemical-chemical	Cd
+nitrogen	chemical-chemical	N
+anthocyanins	chemical-chemical	ATHs
+polyamines	chemical-chemical	putrescine
+putrescine	chemical-chemical	spermidine
+spermidine	chemical-chemical	spermine
+Rice	species-chemical	iron
+iron	chemical-chemical	Fe
+nitrogen	species-chemical	rice
+Pseudomonas chlororaphis YL-1	species-chemical	pyoverdine
+rice	species-chemical	starch
+arsenic	chemical-chemical	As
+As	species-chemical	rice
+acetic acid	chemical-chemical	N-acetyl cysteine
+N-acetyl cysteine	chemical-chemical	NAC
+salt	chemical-chemical	organic carbon
+organic carbon	chemical-chemical	OC
+Omega 3 polyunsaturated fatty acids	chemical-chemical	PUFAs
+methanol	species-chemical	rice
+rice	species-chemical	husk
+Oxygen	chemical-chemical	hydrogen
+hydrogen	chemical-chemical	carbon
+carbon	chemical-chemical	nitrogen
+nitrogen	species-chemical	Setophaga citrina
+Orthosulfamuron	species-chemical	rice
+rice	species-chemical	pyrimidinyl sulfonylurea
+pyrimidinyl sulfonylurea	chemical-chemical	water
+sugar	species-chemical	rice
+Mercury	chemical-chemical	cadmium
+cadmium	chemical-chemical	arsenic
+arsenic	species-chemical	human
+beta-carotene	species-chemical	peanut
+rice	species-chemical	silica fume
+water	species-chemical	rice
+rice	species-chemical	oligofructose
+oligofructose	chemical-chemical	polydextrose
+methane	chemical-chemical	CH4
+Metal sulfides	chemical-chemical	lithium
+eugenol	chemical-chemical	Nm-eugenol
+aflatoxin B1	chemical-chemical	AFB1
+AFB1	chemical-chemical	lipid
+lipid	chemical-chemical	triglycerides
+Melatonin	chemical-chemical	N-acetyl-5-methoxytryptamine
+Manuka oil	species-chemical	Leptospermum scoparium
+Pseudomonas	species-chemical	quinolone
+Calcium phosphates	chemical-chemical	CaPs
+CaPs	chemical-chemical	hydroxyapatite
+hydroxyapatite	chemical-chemical	HA
+arsenic	chemical-chemical	As(III)
+As(III)	species-chemical	rice
+water	species-chemical	rice
+histone acetyltransferase	gene-gene	HAT
+rice	species-chemical	silica
+inorganic phosphate	species-chemical	rice
+silicon	chemical-chemical	lithium
+arsenic	chemical-chemical	As
+As	chemical-chemical	cadmium
+cadmium	chemical-chemical	Cd
+Cd	chemical-chemical	mercury
+mercury	species-chemical	rice
+reactive oxygen species	chemical-chemical	ROS
+neonicotinoids	chemical-chemical	fipronil
+fipronil	species-chemical	Japanese rice
+Rice	species-chemical	arsenic
+arsenic	chemical-chemical	As
+diacylhydrazine	chemical-chemical	water
+Calcium	chemical-chemical	Ca2+
+Rice	species-chemical	salt
+salt	species-chemical	sensitive plant
+sensitive plant	species-chemical	salt
+nitrogen	species-chemical	rice
+iron	chemical-chemical	Fe
+Fe	chemical-chemical	silica
+silica	chemical-chemical	Si
+Si	species-chemical	rice
+Kaempferol	chemical-chemical	quercetin
+inorganic arsenic	chemical-chemical	iAs
+iAs	chemical-chemical	AsIII
+AsIII	chemical-chemical	arsenite
+arsenite	chemical-chemical	AsV
+AsV	chemical-chemical	arsenate
+arsenate	chemical-chemical	As
+As	chemical-chemical	water
+sugar beet	species-chemical	calcium
+Cd	species-chemical	rice
+rice	species-chemical	Cd
+Thailanstatin A	chemical-chemical	spliceostatin D
+CD73	chemical-gene	adenosine
+beta-triketone	species-chemical	rice
+ozone	chemical-chemical	O3
+Arsenic	chemical-chemical	As
+As	chemical-chemical	cadmium
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+rice	species-chemical	husk
+Nitrogen	species-chemical	rice
+iron	chemical-chemical	sulfur
+sulfur	chemical-chemical	iron
+iron	chemical-chemical	heme
+rice	species-chemical	starch
+Arsenic	chemical-chemical	As
+As	species-chemical	rice
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	human
+rice	species-chemical	water
+Ethanol	species-chemical	Serratia marcescens
+rice	species-chemical	carbohydrate
+yeasts	species-chemical	carbon
+carbon	chemical-chemical	nitrogen
+Cerium oxide	species-chemical	rice
+Trichormus azollae	species-chemical	nitrogen
+nitrogen	species-chemical	rice
+rice	species-chemical	carbon
+abscisic acid	chemical-chemical	ABA
+Arsenic	chemical-chemical	As
+As	chemical-chemical	water
+N-Me	chemical-chemical	N-H 2,3-aminoethers
+N-H 2,3-aminoethers	chemical-chemical	olefin
+olefin	chemical-chemical	aziridine
+Arsenic	chemical-chemical	As
+Cr	species-chemical	rice
+copper	chemical-chemical	carbon
+carbon	species-chemical	rice
+resveratrol	species-chemical	rice
+rice	species-chemical	resveratrol
+propane	chemical-chemical	propylene
+propylene	chemical-chemical	hydrocarbon
+ammonia	chemical-chemical	nitrogen
+As	chemical-chemical	Cd
+Cd	chemical-chemical	As
+As	chemical-chemical	Cd
+Cd	species-chemical	rice
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+carbon	species-chemical	earthworms
+Rice	species-chemical	nitrogen
+nitrogen	chemical-chemical	N
+rice	species-chemical	arsenic
+arsenic	chemical-chemical	As
+Cd	species-chemical	rice
+water	species-chemical	rice
+Cadmium	chemical-chemical	Cd
+Cd	chemical-chemical	barium
+barium	chemical-chemical	Ba
+Rice	species-chemical	methane
+methane	chemical-chemical	CH4
+rice	species-chemical	lipid
+N2	chemical-chemical	ammonia
+Streptococcus pyogenes	species-gene	Cas9
+Cas9	gene-gene	SpCas9
+broflanilide	chemical-chemical	water
+water	species-chemical	rice
+gamma-Aminobutyric acid	chemical-chemical	GABA
+GABA	chemical-chemical	nitrate
+nitrate	chemical-chemical	Al3+
+amylose	species-chemical	rice
+Carbon	species-chemical	rice
+peach	species-chemical	methylene blue
+rice	species-chemical	oxygen
+oxygen	chemical-chemical	iron
+iron	chemical-chemical	Fe
+Fe	chemical-chemical	manganese
+iron	chemical-chemical	sulfur
+Phytic acid	chemical-chemical	PA
+PA	chemical-chemical	phosphorus
+xanthan	chemical-gene	gum
+gum	gene-gene	bean
+bean	gene-gene	gum
+gum	species-gene	rice
+Citrinin	chemical-chemical	CIT
+CIT	species-chemical	mammalian
+mammalian	species-chemical	ochratoxin A
+rice	species-chemical	xanthan
+myo-inositol-1,3,4,5,6-pentakisphosphate	chemical-chemical	myo-inositol-1,2,3,4,5,6-hexakisphosphate
+myo-inositol-1,2,3,4,5,6-hexakisphosphate	chemical-chemical	IP6
+remdesivir	species-chemical	SARS-CoV-2
+SARS CoV-2	species-gene	Mpro
+Mpro	species-gene	coronavirus
+SARS CoV	species-gene	Mpro
+Mpro	species-gene	SARS-CoV
+human	species-chemical	serine
+serine	chemical-gene	TMPRSS2
+nitrogen	chemical-chemical	carbon
+carbon	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	SMBC
+SMBC	chemical-chemical	SMBN
+SMBN	species-chemical	rice
+rice	species-chemical	nitrogen
+methyl mercury	species-chemical	rice
+rice	species-chemical	CaCO3
+CaCO3	chemical-chemical	Na2SeO3
+Na2SeO3	chemical-chemical	water
+ferric sulfate	chemical-chemical	Cd
+rice	species-chemical	Cr(VI)
+Cr(VI)	chemical-chemical	p-nitrophenol
+p-nitrophenol	chemical-chemical	PNP
+PNP	chemical-chemical	sulfite
+Metal	chemical-chemical	metalloid phthalocyanines
+CUC1	gene-gene	CUC2
+CUC2	gene-gene	CUC3
+Nitrogen	chemical-chemical	N
+N	species-chemical	rice
+rice	species-chemical	ammonia
+ammonia	chemical-chemical	NH3
+NH3	chemical-chemical	N
+steroid	chemical-chemical	brassinosteroids
+brassinosteroids	chemical-chemical	BRs
+dioxins	chemical-chemical	PCDD/Fs
+PCDD/Fs	chemical-chemical	DL-PCBs
+human	species-chemical	mercury
+Arsenic	chemical-chemical	As
+metal	chemical-chemical	cadmium
+cadmium	chemical-chemical	Cd
+oil	chemical-chemical	organic
+isoflavone	chemical-chemical	benzo-delta-sultam
+benzo-delta-sultam	chemical-chemical	LPS
+Selenium	species-chemical	rice
+rice	species-chemical	Pb2+
+Methyl salicylate	chemical-chemical	MeSA
+MeSA	chemical-chemical	salicylic acid
+salicylic acid	chemical-chemical	SA
+interferon gamma	gene-gene	IFNgamma
+water	species-chemical	men
+copper	chemical-chemical	methanobactin
+methanobactin	chemical-chemical	copper
+epoprostenol	species-chemical	patients
+carbon	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	N
+N	species-chemical	rice
+polycyclic aromatic hydrocarbons	chemical-chemical	PAHs
+nitrogen	species-chemical	rice
+rice	species-chemical	nitrogen
+nitrogen	species-chemical	rice
+nitrogen	species-chemical	rice
+rice	species-chemical	nitrogen
+nitrogen	chemical-chemical	nitrate
+nitrate	chemical-chemical	nitrogen
+Nilaparvata lugens	species-chemical	leucine
+Growth Differentiation Factor 15	gene-gene	GDF15
+GDF15	gene-gene	transforming growth factor-beta
+transforming growth factor-beta	gene-gene	TGF-beta
+Ascorbate	chemical-chemical	vitamin C
+nitrogen	chemical-chemical	N
+Sulfur	chemical-chemical	cadmium
+cadmium	chemical-chemical	Cd
+glutathione	chemical-chemical	imidacloprid
+imidacloprid	species-chemical	Nilaparvata lugens
+rice	species-chemical	diethyl maleate
+diethyl maleate	chemical-chemical	DEM
+rice	species-chemical	carbohydrates
+rice	species-chemical	CO2
+nitrogen	chemical-chemical	phosphine
+rice	species-chemical	water
+LiNixMnyCozO2	chemical-chemical	NMC
+NMC	chemical-chemical	N-methyl-2-pyrrolidone
+N-methyl-2-pyrrolidone	chemical-chemical	NMP
+Silicon	chemical-chemical	Si
+Silicon	chemical-chemical	Si
+water	species-chemical	people
+Cisplatin	chemical-chemical	platinum
+carbohydrate	species-chemical	rice
+rice	species-chemical	starch
+Nitrogen	chemical-chemical	N
+N	chemical-chemical	potassium
+potassium	chemical-chemical	phosphorus
+phosphorus	chemical-chemical	P
+Monacolin K	chemical-chemical	MK
+MK	chemical-chemical	cholesterol
+poly (N-(4-aminophenyl) methacrylamide))	chemical-chemical	carbon
+carbon	species-chemical	onions
+onions	species-chemical	(ether ether ketone)
+hydrogen	chemical-chemical	2-methyl-1-butene
+2-methyl-1-butene	chemical-chemical	2-methyl-2-butene
+2-methyl-2-butene	chemical-chemical	3-methyl-1-butene
+rice	species-chemical	monacolin K
+monacolin K	chemical-chemical	cholesterol
+nitrogen	chemical-chemical	N
+N	chemical-chemical	phosphorus
+rice	species-chemical	cerulenin
+Cr (VI)	chemical-chemical	Graphene
+Graphene	species-chemical	rice
+bitter gourd	species-chemical	chromium
+starch	species-chemical	rice
+rice	species-chemical	starch
+termites	species-chemical	lignocellulose
+rice	species-chemical	metal
+myricetin	chemical-chemical	benzimidazole
+pearl millet	species-chemical	carbohydrate
+carbohydrate	species-chemical	potatoes
+Copper	chemical-chemical	Cu
+cadmium	chemical-chemical	Cd
+Cd	chemical-chemical	Zn
+Zn	species-chemical	rice
+mammalian	species-gene	BREAST CANCER 2
+BREAST CANCER 2	gene-gene	BRCA2
+Zn	chemical-chemical	iodine
+iodine	chemical-chemical	iron
+iron	chemical-chemical	Fe
+Fe	chemical-chemical	selenium
+selenium	chemical-chemical	Se
+Se	species-chemical	human
+phenazine	species-chemical	fluorescent pseudomonads
+human	species-chemical	arsenic
+arsenic	chemical-chemical	As
+rice	species-chemical	phytic acid
+phytic acid	chemical-chemical	LPA
+LPA	species-chemical	rice
+starch	chemical-chemical	2,3-butanedione
+2,3-butanedione	chemical-chemical	2-acetyl-1-pyrroline
+2-acetyl-1-pyrroline	chemical-chemical	starch
+Iron	chemical-chemical	Fe
+Fe	chemical-chemical	manganese
+manganese	species-chemical	rice
+rice	species-chemical	cadmium
+cadmium	chemical-chemical	Cd
+Cadmium	chemical-chemical	Cd
+nitrogen	chemical-chemical	nitrous oxide
+nitrous oxide	chemical-chemical	N2O
+nitrogen	species-chemical	rice
+rice	species-chemical	nitrogen
+nitrogen	chemical-chemical	15N
+methanol	chemical-chemical	carbon
+carbon	chemical-chemical	methanol
+Diterpenoids	chemical-chemical	phytoalexins
+phytoalexins	species-chemical	rice
+Chrysene	chemical-chemical	polycyclic aromatic hydrocarbon
+polycyclic aromatic hydrocarbon	chemical-chemical	PAH
+PAH	chemical-chemical	water
+Sb	chemical-chemical	arsenic
+arsenic	chemical-chemical	As
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	human
+Cadmium	chemical-chemical	Cd
+Cd	chemical-chemical	Pb
+Pb	species-chemical	human
+Zn	species-chemical	rice
+rice	species-chemical	starch
+water	chemical-chemical	DOWC
+tomato	species-chemical	polyamines
+polyamines	chemical-chemical	spermidine
+spermine	chemical-chemical	diamine
+diamine	chemical-chemical	putrescine
+putrescine	chemical-chemical	PUT
+iron	chemical-chemical	Fe
+Fe	chemical-chemical	Zn
+Zn	species-chemical	human
+Cd	species-chemical	rice
+rice	species-chemical	Cd
+Magnaporthe oryzae	species-chemical	carbon
+Brassinosteroids	chemical-chemical	BRs
+Human	species-gene	hTGF-beta1
+hTGF-beta1	species-gene	rice
+Biuret	chemical-chemical	urea
+water	chemical-chemical	carbon
+Nitrate	chemical-chemical	NO3-
+NO3-	chemical-chemical	metal
+metal	chemical-chemical	Sb
+nitrogen	chemical-chemical	N
+N	species-chemical	rice
+lignin	species-chemical	rice
+rice	species-chemical	silica
+silica	chemical-chemical	lignin
+Cadmium	chemical-chemical	Cd
+Cd	chemical-chemical	sulfur
+carbon	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	N
+N	chemical-chemical	carbon
+carbon	chemical-chemical	nitrogen
+nitrogen	species-chemical	rice
+Cadmium	chemical-chemical	Cd
+Cd	chemical-chemical	metal
+metal	species-chemical	human
+Glycidyl esters	chemical-chemical	GEs
+GEs	species-chemical	human
+reactive oxygen species	chemical-chemical	ROS
+rice	species-chemical	amylose
+rice	species-chemical	phosphorus
+rice	species-chemical	gamma-oryzanol
+gamma-oryzanol	chemical-chemical	phytosterol
+Abscisic acid	chemical-chemical	ABA
+Au	chemical-chemical	water
+carbon	chemical-chemical	singlet oxygen
+singlet oxygen	chemical-chemical	1O2
+phosphate	species-chemical	rice
+Rice	species-chemical	water
+water	species-chemical	rice
+Cadmium	chemical-chemical	Cd
+Cd	chemical-chemical	metal
+metal	chemical-chemical	water
+water	species-chemical	human
+Finerenone	chemical-gene	mineralocorticoid receptor
+Turkey	species-chemical	water
+rice	species-chemical	nitrogen
+nitrogen	chemical-chemical	N
+zinc-boro-silicate	chemical-chemical	ZBS
+ZBS	chemical-chemical	zinc-boro-silicate
+zinc-boro-silicate	chemical-chemical	ZnO
+volatile fatty acids	chemical-chemical	VFA
+-priority polycyclic aromatic hydrocarbons	chemical-chemical	PAHs
+rice	species-chemical	glycerol
+glycerol	chemical-chemical	GLY
+GLY	chemical-chemical	sucrose fatty acid ester
+Strigolactones	chemical-chemical	carotenoid
+terpenoids	chemical-chemical	terpene
+terpene	chemical-chemical	geranyl pyrophosphate
+geranyl pyrophosphate	chemical-chemical	GPP
+GPP	chemical-chemical	farnesyl-PP
+farnesyl-PP	chemical-chemical	FPP
+FPP	chemical-chemical	geranylgeranyl-PP
+geranylgeranyl-PP	chemical-chemical	GGPP
+GGPP	chemical-chemical	C20
+sodium alginate	chemical-chemical	SA
+Cadmium	chemical-chemical	Cd
+fluoride	species-chemical	indica rice
+indica rice	species-chemical	NaF
+Cd	chemical-chemical	Zn
+Zn	chemical-chemical	Cd
+water	species-chemical	rice
+humans	species-chemical	mercury
+nitrous oxide	chemical-chemical	N2O
+N2O	chemical-chemical	methane
+methane	chemical-chemical	CH4
+Isoprene	chemical-chemical	formaldehyde
+formaldehyde	chemical-chemical	acetaldehyde
+Silicon	chemical-chemical	lithium
+methyl jasmonate	chemical-chemical	MeJA
+metal	species-chemical	human
+human	species-chemical	metal
+Phytosterols	species-chemical	rice
+rice	species-chemical	RBO
+copper hydroxy phosphate	chemical-chemical	DMP-Cu
+DMP-Cu	chemical-chemical	2, 5-dimercapto-1, 3, 4-thiadiazol
+Mesotrione	chemical-chemical	MTR
+neonicotinoids	species-chemical	human
+bongkrekic acid	chemical-chemical	BKA
+BKA	chemical-chemical	isobongkrekic acid
+Silicon	chemical-chemical	Si
+Si	chemical-chemical	salt
+salt	species-chemical	rice
+Bentazone	species-chemical	rice
+rice	species-chemical	xylitol
+reactive oxygen species	chemical-chemical	ROS
+azaspiracids	chemical-chemical	AZAs
+nitrogen	chemical-chemical	N
+N	species-chemical	rice
+rice	species-chemical	glucose
+rice	species-chemical	RBO
+RBO	chemical-chemical	graphene oxide
+graphene oxide	chemical-chemical	GO
+glycerol	chemical-chemical	lactic acid
+lactic acid	chemical-chemical	oleic acid
+oleic acid	species-chemical	rice
+rice	species-chemical	acetic acid
+acetic acid	chemical-chemical	ethanol
+silicon	chemical-chemical	cadmium
+cadmium	species-chemical	rice
+starch	species-chemical	rice
+mercury	species-chemical	human
+silicone tetrachloride	chemical-chemical	SiCl4
+SiCl4	species-chemical	rice
+rice	species-chemical	SiCl4
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+rice	species-chemical	low-Cd
+flavonoids	species-chemical	rice
+Carbon dots	chemical-chemical	CDs
+CDs	chemical-chemical	graphitic
+Arsenic	chemical-chemical	As
+As	species-chemical	rice
+polysaccharides	chemical-chemical	polysaccharide
+polysaccharide	chemical-chemical	nitrogen
+humans	species-chemical	Cd
+silver	species-chemical	endophytic
+rice	species-chemical	formic acid
+carbon	chemical-chemical	acetic acid
+acetic acid	chemical-chemical	delta 13Cacetic acid
+delta 13Cacetic acid	chemical-chemical	acetoin
+acetoin	chemical-chemical	delta13Cacetoin
+delta13Cacetoin	species-chemical	rice
+rice	species-chemical	MIL-101
+MIL-101	chemical-chemical	Cr
+Cr	chemical-chemical	CO2
+CO2	chemical-chemical	Cr
+rice	species-chemical	Ofloxacin
+arsenic	chemical-chemical	As
+As	species-chemical	pigs
+pigs	species-chemical	As
+As	species-chemical	rice
+cyanidin-3-O-glucoside	species-chemical	rice
+rice	species-chemical	sterol
+sterol	chemical-chemical	lipid
+lipid	species-chemical	rats
+SiO2	chemical-chemical	CaO
+CaO	chemical-chemical	Na2O
+silicon	chemical-chemical	Si
+Si	species-chemical	rice
+dicyanamide anion	chemical-chemical	DCA
+rice	species-chemical	CDR
+CO2 mesophyll	chemical-chemical	1, 5-bisphosphate
+1, 5-bisphosphate	chemical-chemical	nitrogen
+Pseudomonas taiwanensis	species-chemical	carbon
+Ammonia	chemical-chemical	NH3
+NH3	species-chemical	rice
+rice	species-chemical	CO2
+CO2	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	N
+Rice	species-chemical	nitrogen
+nitrogen	chemical-chemical	N
+N	chemical-chemical	water
+iron	chemical-chemical	Fe
+rice	species-chemical	1-butyl-3-methylimidazolium chloride
+1-butyl-3-methylimidazolium chloride	chemical-chemical	bmim
+bmim	chemical-chemical	1-butyl-3-methylimidazolium acetate
+1-butyl-3-methylimidazolium acetate	chemical-chemical	bmim
+bmim	chemical-chemical	Ac
+glutathione	species-chemical	rice
+C5H5	chemical-chemical	C14H11
+C14H11	species-chemical	Rice
+rice	species-chemical	carbon
+carbon	species-chemical	rice
+water	species-chemical	rice
+strigolactones	chemical-chemical	strigolactone
+rice	species-chemical	imidazolinone
+imidazolinone	chemical-chemical	IMI
+Microcystins	chemical-chemical	MCs
+MCs	chemical-chemical	water
+water	species-chemical	human
+Silica	chemical-chemical	silica
+Schaftoside	chemical-chemical	isoschaftoside
+isoschaftoside	species-chemical	higher plants
+rice	species-chemical	gallic acid
+gallic acid	chemical-chemical	p-coumaric acid
+p-coumaric acid	chemical-chemical	ferulic acid
+ferulic acid	chemical-chemical	chlorogenic acid
+chlorogenic acid	chemical-chemical	catechin
+Cadmium	chemical-chemical	Cd
+water	species-chemical	rice
+Nitrogen	chemical-chemical	N
+apple	species-chemical	inorganic arsenic
+inorganic arsenic	chemical-chemical	iAs
+Rrp2	species-gene	Borrelia burgdorferi
+rice	species-chemical	sugar
+sugar	chemical-chemical	starch
+guar	species-chemical	GG
+GG	chemical-chemical	carboxymethyl cellulose
+carboxymethyl cellulose	chemical-chemical	CMC
+CMC	chemical-chemical	xanthan gum
+xanthan gum	chemical-chemical	XG
+salt	chemical-chemical	proline
+proline	chemical-chemical	water
+Arsenic	chemical-chemical	As
+Phenolic acid	chemical-chemical	arabinoxylans
+arabinoxylans	chemical-chemical	AXs
+AXs	chemical-chemical	AX
+AX	species-chemical	millet
+water	species-chemical	rice
+vegetable oils	chemical-chemical	fatty acids
+fatty acids	chemical-chemical	oil
+Nitrogen	chemical-chemical	N
+N	chemical-chemical	water
+nitrous oxide	chemical-chemical	N2O+
+hemicellulose	chemical-chemical	cellulose
+cellulose	chemical-chemical	lignin
+lignin	species-chemical	rice
+peanut	species-chemical	O2
+O2	chemical-chemical	N2
+arsenic	chemical-chemical	As
+As	species-chemical	rice
+rice	species-chemical	As
+aluminum	chemical-chemical	Al
+rice	species-chemical	metal
+silicon	chemical-chemical	fluoride
+Sodium hydroxide	species-chemical	rice
+rice	species-chemical	metal
+metal	chemical-chemical	Be2+
+Be2+	chemical-chemical	Al3+
+Al3+	chemical-chemical	Co2+
+Co2+	chemical-chemical	Ni2+
+Ni2+	chemical-chemical	Cu2+
+Cu2+	chemical-chemical	Zn2+
+Zn2+	chemical-chemical	Sr2+
+Sr2+	chemical-chemical	Ba2+
+Ba2+	chemical-chemical	Pb2+
+Gamma-aminobutyric acid	chemical-chemical	GABA
+GABA	chemical-chemical	Monacolin K
+Monacolin K	chemical-chemical	cholesterol
+cholesterol	species-chemical	rice
+anthocyanin	species-chemical	rice
+Oryza sativa	species-chemical	CO2
+silica	chemical-chemical	ASiO2
+ASiO2	species-chemical	rice
+rice	species-chemical	3-aminopropyltriethoxysilane
+3-aminopropyltriethoxysilane	chemical-chemical	APTES
+yeast	species-gene	Chz1
+Rice	species-chemical	cadmium
+cadmium	chemical-chemical	Cd
+Sterols	chemical-chemical	lipids
+Aspergillus flavus	species-chemical	cyclopiazonic acid
+cyclopiazonic acid	chemical-chemical	CPA
+CPA	chemical-chemical	aflatoxin
+aflatoxin	chemical-chemical	CPA
+Saccharomyces cerevisiae	species-chemical	Natuphos
+Natuphos	species-chemical	grass carp
+carbon	species-chemical	rice
+arsenite	chemical-chemical	As(III)
+As(III)	chemical-chemical	dimethylarsinic acid
+dimethylarsinic acid	chemical-chemical	DMA
+DMA	species-chemical	rice
+carbon	chemical-chemical	CO2
+carbon dioxide	chemical-chemical	CO2
+CO2	species-chemical	rice
+4-aminobenzofuroxan	chemical-chemical	amines
+rice	species-chemical	water
+polyhydroxybutyrate	chemical-chemical	PHB
+Phosphorus	chemical-chemical	P
+rice	species-chemical	arsenic
+arsenic	chemical-chemical	As
+iron	chemical-chemical	Fe
+Fe	species-chemical	Platanus orientalis
+Platanus orientalis	species-chemical	As
+As	chemical-chemical	Cd
+Cd	chemical-chemical	Pb
+Pb	species-chemical	rice
+water	chemical-chemical	arsenic
+arsenic	chemical-chemical	As
+Quinclorac	chemical-chemical	QNC
+QNC	species-chemical	rice
+Cyanidin-3-glucoside	chemical-chemical	anthocyanin
+anthocyanin	species-chemical	rice
+selenium	chemical-chemical	Se
+Se	chemical-chemical	cadmium
+cadmium	chemical-chemical	Cd
+reactive oxygen species	chemical-chemical	ROS
+Acyl-coenzyme A (CoA) esters	chemical-chemical	lipid
+flavonoids	chemical-chemical	anthocyanin
+water	species-chemical	rice
+rice	species-chemical	arsenic
+arsenic	chemical-chemical	As
+As	species-chemical	rice
+Iron	chemical-chemical	Fe
+Fe	chemical-chemical	Mn (hydr)oxides
+nickel	chemical-chemical	fluoride
+fluoride	species-chemical	rice
+Ammonia	chemical-chemical	NH3
+NH3	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	N
+cyclotide	species-chemical	rice
+rice	species-chemical	monocotyledons
+rice	species-chemical	ammonia
+ammonia	chemical-chemical	nitrogen
+nitrogen	species-chemical	rice
+arsenic	chemical-chemical	As
+thiourea	chemical-chemical	TU
+TU	chemical-chemical	reactive oxygen species
+reactive oxygen species	chemical-chemical	ROS
+ROS	species-chemical	rice
+sulfonamides	chemical-chemical	SAs
+SAs	chemical-chemical	SA
+TiO2	chemical-chemical	arsenic
+arsenic	species-chemical	rice
+Inorganic arsenic	chemical-chemical	iAs
+iAs	species-chemical	rice
+rice	species-chemical	iAs
+2-Acetyl-1-pyrroline	chemical-chemical	2-AP
+2-AP	species-chemical	rice
+Phosphorus	chemical-chemical	P
+Ge	chemical-chemical	Si
+Serotonin	chemical-chemical	ROS
+buckwheat	species-chemical	flavonoid
+carbon	chemical-chemical	nitrogen
+nitrogen	species-chemical	human
+Rice	species-chemical	essential amino acids
+Zinc-finger protein 384	gene-gene	ZNF384
+ZNF384	gene-gene	EP300
+water	chemical-chemical	phenanthrene
+phenanthrene	chemical-chemical	Phe
+people	species-chemical	Zn
+Zn	chemical-chemical	iron
+iron	chemical-chemical	Fe
+Fe	species-chemical	children
+potassium sulfate	chemical-chemical	K2SO4
+Japanese rice	species-chemical	oligosaccharides
+oligosaccharides	species-chemical	rice
+starch	species-chemical	rice
+tetrahydro-beta-carboline	chemical-chemical	THC
+THC	chemical-chemical	alkaloids
+Cadmium	species-chemical	rice
+Thiamethoxam	chemical-chemical	TMX
+Gamma-oryzanol	chemical-chemical	gamma-oryzanol
+gamma-oryzanol	species-chemical	rice
+rice	species-chemical	RBO
+Ochratoxin A	chemical-chemical	OTA
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	human
+Cadmium	chemical-chemical	Cd
+Carbon	species-chemical	rice
+rice	species-chemical	metal
+metal	chemical-chemical	Cd
+Cd	chemical-chemical	Pb
+Pb	chemical-chemical	As
+BRASSINOSTEROID	chemical-gene	BES1
+BES1	chemical-gene	brassinosteroid
+cadmium	chemical-chemical	Cd
+Cd	chemical-chemical	arsenic
+arsenic	chemical-chemical	As
+As	species-chemical	rice
+Heat shock protein 70	gene-gene	HSP70
+rice	species-chemical	RBO
+RBO	chemical-chemical	lipid
+lipid	chemical-chemical	alpha-tocopherol
+alpha-tocopherol	chemical-chemical	gamma-oryzanol
+gamma-oryzanol	chemical-chemical	phytosterol
+carbon	species-chemical	rice
+Cd	species-chemical	rice
+Ammonium	chemical-chemical	nitrate
+nitrate	chemical-chemical	inorganic
+inorganic	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	NH4+
+phosphorus	chemical-chemical	P
+ammonia	chemical-chemical	N2O
+rice	species-chemical	straw
+straw	species-chemical	pig
+rice	species-chemical	silica
+silica	chemical-chemical	SiO2
+arsenic	chemical-chemical	As
+As	species-chemical	rice
+rice	species-chemical	As
+As	species-chemical	rice
+As	species-chemical	rice
+phosphorus	chemical-chemical	cadmium
+cadmium	species-chemical	rice
+rice	species-chemical	methane
+methane	chemical-chemical	nitrous oxide
+tetrasodium glutamate diacetate	chemical-chemical	GLDA
+GLDA	chemical-chemical	cadmium
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	Pennisetum purpureum
+Pennisetum purpureum	species-chemical	hm-2
+water	chemical-chemical	silicon
+silicon	chemical-chemical	Cd
+rice	species-chemical	cadmium
+ozone	chemical-chemical	O3
+Pb	species-chemical	rice
+Cadmium	chemical-chemical	Cd
+rice	species-chemical	GBR
+GBR	species-chemical	patients
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+rice	species-chemical	phosphate
+phosphate	chemical-chemical	P
+Phosphorus	chemical-chemical	P
+P	species-chemical	maize
+Chromium	chemical-chemical	Cr
+hydrogen	chemical-chemical	alkenes
+alkenes	chemical-chemical	alkane
+urea	chemical-chemical	CRU
+CRU	chemical-chemical	urea
+urea	chemical-chemical	CU
+ornithine	species-chemical	Weissella koreensis
+Abscisic acid	chemical-chemical	ABA
+ABA	chemical-chemical	pyrabactin
+pyrabactin	chemical-chemical	ABA
+rice	species-chemical	aluminum
+aluminum	chemical-chemical	zeolite
+zeolite	chemical-chemical	geopolymer
+geopolymer	chemical-chemical	zeolite
+As	chemical-chemical	Cd
+Cd	chemical-chemical	Pb
+Silicon	chemical-chemical	Si
+Si	species-chemical	rice
+Carbohydrates	chemical-chemical	sugars
+HMG-CoA Reductase	gene-gene	Hmgcr
+Hmgcr	chemical-gene	mevalonate
+rice	species-chemical	chlorophyll
+rice	species-chemical	carbon
+carbon	chemical-chemical	KOH
+KOH	chemical-chemical	cetyltrimethylammonium bromide
+cetyltrimethylammonium bromide	chemical-chemical	CTAB
+CTAB	chemical-chemical	carbon
+sp3	chemical-gene	carbon
+Sea turtles	species-chemical	water
+AUXIN RESPONSE FACTOR	gene-gene	ARF
+nitrogen	chemical-chemical	N
+rice	species-chemical	alcohol
+alcohol	species-chemical	rice
+Vegetable oil	chemical-chemical	oil
+carbon dioxide	chemical-chemical	CO2
+CO2	chemical-chemical	N
+N	species-chemical	Bt
+Bt	species-chemical	N
+N	species-chemical	Bt
+Bt	species-chemical	CO2
+rice	species-chemical	anthracene
+2-Phenylethanol	chemical-chemical	2-PE
+2-PE	chemical-chemical	aromatic alcohol
+4-Hydroxy pyridones	chemical-chemical	polyketide-nonribosomal peptide
+polyketide-nonribosomal peptide	chemical-chemical	4-hydroxy-2-pyridone
+metal	species-chemical	human
+Arsenic	chemical-chemical	As
+PPARgamma coactivator-1alpha	gene-gene	PGC-1alpha
+PGC-1alpha	gene-gene	TFAM
+Arsenic	chemical-chemical	As
+As	species-chemical	rice
+carbon-silica based acid	species-chemical	rice
+carbon	species-chemical	rice
+rice	species-chemical	polypropylene
+polypropylene	chemical-chemical	polystyrene
+carbon dioxide	chemical-chemical	CO2
+Iron	chemical-chemical	Fe
+Oryza sativa	species-chemical	SDs
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	human
+human	species-chemical	Cd
+triacylglycerol	chemical-chemical	ST
+ST	chemical-chemical	triacylglycerol
+triacylglycerol	chemical-chemical	MCT
+MCT	chemical-chemical	essential fatty acids
+Ochratoxin A	chemical-chemical	OTA
+glucose	chemical-gene	insulin
+insulin	gene-gene	glucagon
+Pear	species-chemical	PJC
+beta-carotene	species-chemical	rice
+organophosphate	chemical-chemical	carbamate
+Bradyrhizobium	species-chemical	nitrogen
+nodal	species-gene	patients
+amphetamine	chemical-chemical	N, a-diethylphenethylamine
+N, a-diethylphenethylamine	chemical-chemical	DEPEA
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+rice	species-chemical	nitrogen
+ceramide	chemical-chemical	lipid
+lipid	chemical-chemical	ceramides
+arsenic	species-chemical	rice
+CO2	chemical-chemical	water
+water	chemical-chemical	CO2
+Bromine	chemical-chemical	Br
+Br	chemical-chemical	bromide
+bromide	chemical-chemical	Br
+rice	species-chemical	equicarbohydrate
+equicarbohydrate	species-chemical	apple
+rice	species-chemical	Zn
+Iron	chemical-chemical	Fe
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+human	species-chemical	Cd
+Cd	species-chemical	rice
+rice	species-chemical	Cd
+Cd	species-chemical	rice
+NADP-ME	species-chemical	rice
+nitrogen	chemical-chemical	ammonium
+ammonium	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	carbon dioxide
+carbon dioxide	chemical-chemical	CO2
+rice	species-chemical	cholesterol
+rice	species-chemical	water
+water	chemical-chemical	radiocesium
+radiocesium	chemical-chemical	polypropylene
+polypropylene	chemical-chemical	water
+water	species-chemical	rice
+rice	species-chemical	water
+MnO2	species-chemical	rice
+iodine	chemical-chemical	iodide
+21- or 24-nucleotide	chemical-chemical	nt
+Nitrogen	chemical-chemical	N
+N	chemical-chemical	carbon
+Amylose	species-chemical	rice
+rice	species-chemical	carbon
+carbon	chemical-chemical	lipid
+metal	chemical-chemical	SERS
+organic acid	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	N
+metal	species-chemical	rice
+beta-cyclodextrin	chemical-chemical	beta-CD
+beta-CD	species-chemical	rice
+rice	species-chemical	bisphenol
+bisphenol	chemical-chemical	BPA
+BPA	chemical-chemical	Pb
+polycyclic aromatic hydrocarbon	chemical-chemical	PAH
+rice	species-chemical	water
+Triflumezopyrim	species-chemical	rice
+rice	species-chemical	cadmium
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	soybean
+soybean	species-chemical	Cd
+Melatonin	species-chemical	rice
+SARS-CoV-2	species-gene	ACE2
+ACE2	gene-gene	TMPRSS2
+Arsenic	chemical-chemical	As
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+triglyceride	species-chemical	patients
+Iron	chemical-chemical	Fe
+Fe	chemical-chemical	cadmium
+cadmium	chemical-chemical	Cd
+rice	species-chemical	Cd
+rice	species-chemical	methane
+methane	chemical-chemical	CH4
+starch	species-chemical	Japonica rice
+water	species-chemical	rice
+rice	species-chemical	hydrogen
+Iron	chemical-chemical	Fe
+Hydroxychloroquine	chemical-chemical	chloroquine
+Calcium	chemical-chemical	silicon
+silicon	chemical-chemical	Si
+nitrogen	species-chemical	rice
+Policosanol	chemical-chemical	alcohols
+alcohols	chemical-chemical	lipid
+rhamnolipid	chemical-chemical	glycolipid
+glycolipid	species-chemical	Pseudomonas Plecoglossicida
+rice	species-chemical	salt
+sorbic acid	chemical-chemical	SA
+thymus and activation-regulated chemokine	gene-gene	TARC
+TARC	species-gene	patients
+cadmium	chemical-chemical	Cd
+GBS	species-chemical	Pearl millet
+nitrogen	chemical-chemical	water
+androgen receptor	gene-gene	AR
+patients	species-gene	AR
+carbon	chemical-chemical	13C
+13C	chemical-chemical	starch
+starch	species-chemical	maize
+Streptococcus mutans	species-chemical	pyruvate
+water	chemical-chemical	nitrogen
+nitrogen	species-chemical	japonica rice
+oil	chemical-chemical	agro
+poly(l-lysine)	chemical-chemical	PLL
+Melatonin	species-chemical	rice
+Polymer	chemical-chemical	oil
+glucose	species-chemical	children
+azoxystrobin	chemical-chemical	difenoconazole
+difenoconazole	chemical-chemical	propiconazole
+propiconazole	chemical-chemical	carbendazim
+carbendazim	chemical-chemical	flutriafol
+flutriafol	chemical-chemical	fluopyram
+fluopyram	chemical-chemical	tebuconazole
+tebuconazole	chemical-chemical	mancozeb
+mancozeb	chemical-chemical	thiophanate
+thiophanate	species-chemical	rice
+Magnesium	chemical-chemical	Mg
+Rice	species-chemical	triglycerides
+triglycerides	chemical-chemical	glycerol
+Abscisic acid	chemical-chemical	ABA
+pyrabactin	chemical-chemical	ABA
+Cytidine	chemical-chemical	uridine
+phosphate	chemical-chemical	carbohydrates
+carbohydrates	chemical-chemical	sugar
+rice	species-chemical	water
+starch	chemical-chemical	polyphenol
+polyphenols	chemical-chemical	corticosterone
+corticosterone	species-chemical	chickens
+Hydrogen peroxide	chemical-chemical	H2O2
+tomato	species-chemical	carbohydrate
+carbohydrate	chemical-chemical	glucose
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+aluminium	chemical-chemical	Al
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	human
+rice	species-chemical	anthocyanins
+anthocyanins	chemical-chemical	carbohydrate
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	human
+water	chemical-chemical	metal
+land plants	species-chemical	phosphorus
+rice	species-chemical	ROS
+ROS	chemical-chemical	ABA
+rice	species-chemical	chlorophyll
+chlorophyll	chemical-chemical	ROS
+Indole-3-acetic acid	chemical-chemical	IAA
+amylose	species-chemical	rice
+Chitosan oligosaccharides	chemical-chemical	COS
+COS	species-chemical	rice
+1,3,4-oxadiazole sulfone	chemical-chemical	3,4-dichloroisothiazolamide
+carbon	chemical-chemical	nitrogen
+human	species-chemical	inorganic arsenic
+inorganic arsenic	chemical-chemical	iAs
+iAs	chemical-chemical	carbon
+carbon	chemical-chemical	monomethylarsonic acid
+monomethylarsonic acid	chemical-chemical	MMA
+MMA	chemical-chemical	dimethylarsinic acid
+dimethylarsinic acid	chemical-chemical	DMA
+cadmium	chemical-chemical	Cd
+N	chemical-chemical	Asn
+Asn	chemical-chemical	Asn-X
+Asn-X	chemical-chemical	Ser
+Ser	chemical-chemical	Thr
+methane	chemical-chemical	CH4
+selenium	chemical-chemical	Se
+Se	species-chemical	human
+nitrogen	species-chemical	rice
+rice	species-chemical	arsenic
+women	species-chemical	arsenic
+arsenic	chemical-chemical	water
+water	species-chemical	rice
+Human	species-chemical	iron
+iron	chemical-chemical	Fe
+human	species-chemical	metal
+Chlorantraniliprole	chemical-chemical	CAP
+CAP	species-chemical	rice
+jasmonic acid	chemical-chemical	JA
+human	species-chemical	oxygen
+Dhindo	species-chemical	millet
+rice	species-chemical	water
+N	species-chemical	human
+human	species-gene	butyrylcholinesterase
+butyrylcholinesterase	gene-gene	BChE
+BChE	species-gene	rice
+rice	species-chemical	kifunensine
+Hydrogen cyanide	chemical-chemical	HCN
+HCN	chemical-chemical	formaldehyde
+formaldehyde	chemical-chemical	H2CO
+H2CO	chemical-chemical	CO2
+CO2	chemical-chemical	H2O
+water	chemical-chemical	oil
+rice	species-chemical	carbon
+cadmium	chemical-chemical	Cd
+rice	species-chemical	cadmium
+cadmium	chemical-chemical	Cd
+Limonene	chemical-chemical	terpenes
+hydrogen sulfide	chemical-chemical	ammonia
+Oryza sativa	species-chemical	phytoalexins
+tetrahydrofolate	chemical-chemical	THF
+THF	chemical-chemical	hydrogen peroxide
+hydrogen peroxide	chemical-chemical	H2O2
+sugars	chemical-chemical	trehalose
+trehalose	chemical-chemical	allose
+allose	chemical-chemical	oils
+oils	chemical-chemical	canola
+canola	chemical-chemical	coconut oil
+coconut oil	species-chemical	rice
+perfluorooctanoic acid	chemical-chemical	PFOA
+PFOA	chemical-chemical	perfluorooctanesulfonic acid
+perfluorooctanesulfonic acid	chemical-chemical	PFOS
+PFOS	chemical-chemical	water
+N 6-methyladenine	chemical-chemical	m6A
+m6A	chemical-chemical	adenine
+DG31DT	species-chemical	rice
+Lysine	chemical-chemical	essential amino acid
+essential amino acid	chemical-chemical	EAA
+EAA	species-chemical	rice
+silver	chemical-chemical	silver nitrate
+silver nitrate	species-chemical	rice
+rice	species-chemical	phenols
+phenols	chemical-chemical	anthocyanins
+rice	species-chemical	KF-8
+KF-8	chemical-chemical	D-galactose
+D-galactose	chemical-chemical	D-gal
+D-gal	species-chemical	mice
+Iron	chemical-chemical	Fe
+Tomato leaf curl New Delhi virus	species-gene	AC4
+AC4	chemical-gene	auxin
+Phosphorus	chemical-chemical	P
+Halogen	chemical-chemical	formaldehyde
+rice	species-chemical	water
+Aflatoxins	chemical-chemical	AFs
+AFs	species-chemical	Aspergillus flavus
+homoserine lactones	chemical-chemical	HSLs
+polymer	chemical-chemical	inorganic arsenic species
+inorganic arsenic species	chemical-chemical	As(III)
+As(III)	chemical-chemical	As(V)
+As(V)	species-chemical	rice
+rice	species-chemical	iso-carbohydrate
+Morphine	chemical-gene	NOD-like receptor protein 3
+NOD-like receptor protein 3	gene-gene	NLRP3
+imidazolinone	chemical-chemical	IMI
+IMI	species-chemical	rice
+ICE1	gene-gene	Inducer of CBF Expression 1
+Ethyl carbamate	chemical-chemical	EC
+EC	chemical-chemical	alcohol
+Arsenic	chemical-chemical	As
+As	species-chemical	rice
+Aluminum	chemical-chemical	Al
+protoberberine alkaloid	chemical-chemical	(-)-tetrahydroberberrubine acetate
+(-)-tetrahydroberberrubine acetate	chemical-chemical	THBA
+THBA	species-chemical	Bacillus cereus
+arsenic	chemical-chemical	As
+As	species-chemical	rice
+gamma-oryzanol	chemical-chemical	24-methylenecycloartanyl ferulate
+24-methylenecycloartanyl ferulate	chemical-chemical	24MCAFA
+24MCAFA	species-chemical	rice
+acyl homoserine lactones	chemical-chemical	AHLs
+methotrexate	chemical-chemical	MTX
+mycophenolate mofetil	chemical-chemical	MMF
+chimeric antigen receptor	gene-gene	CAR
+organo-ferrihydrite	chemical-chemical	Cr
+rice	species-chemical	husk
+edible oil	chemical-chemical	aflatoxin B1
+aflatoxin B1	chemical-chemical	AFB1
+nitrite	chemical-chemical	methane
+methane	chemical-chemical	methanol
+inhibitor of differentiation 1	gene-gene	Id1
+Id1	gene-gene	inhibitor of differentiation 3
+inhibitor of differentiation 3	gene-gene	Id3
+xanthan gum	species-chemical	rice
+rice	species-chemical	anthocyanins
+anthocyanins	chemical-chemical	BRA
+Oryza sativa	species-chemical	cadmium
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+N6-methyladenine	chemical-chemical	6mA
+water	species-chemical	rice
+Cd	species-chemical	rice
+folic acid	species-chemical	rice
+Arsenic	chemical-chemical	As
+As	chemical-chemical	arsenate
+arsenate	chemical-chemical	As(V)
+As(V)	chemical-chemical	phosphate
+rice	species-chemical	nitrogen
+nitrogen	chemical-chemical	N2
+N2	chemical-chemical	N
+N	chemical-chemical	diazotrophs
+diazotrophs	species-chemical	rice
+starch	chemical-chemical	carbon
+carbon	chemical-chemical	sucrose
+nitrate	chemical-chemical	methane
+anthocyanin	chemical-chemical	chitosan-carboxymethylcellulose
+chitosan-carboxymethylcellulose	chemical-chemical	CS-CMC
+carbon	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	N
+N	chemical-chemical	phosphorus
+Flavonoids	species-chemical	human
+terahertz	chemical-chemical	THz
+hydrogen	chemical-chemical	carbon
+carbon	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	oxygen
+oxygen	chemical-chemical	sulfur
+methane	chemical-chemical	CH4
+Arsenic	species-chemical	rice
+Cd	species-chemical	human
+phosphopeptide	chemical-chemical	p-peptides
+silver	species-chemical	rice
+rice	species-chemical	silver
+silver	species-chemical	rice
+Arsenite	chemical-chemical	arsenic
+arsenic	chemical-chemical	arsenite
+arsenite	species-chemical	rice
+rice	species-chemical	metal
+metal	species-chemical	rice
+beta-cyclodextrin	chemical-chemical	beta-CD
+beta-CD	species-chemical	rice
+rice	species-chemical	husk
+husk	chemical-chemical	epichlorohydrin
+epichlorohydrin	chemical-chemical	EPI
+EPI	chemical-chemical	glutaraldehyde
+glutaraldehyde	chemical-chemical	GA
+mesoporous silica	chemical-chemical	PersiXyn2
+Quinclorac	chemical-chemical	3,7-dichloroquinoline-8-carboxylic acid
+3,7-dichloroquinoline-8-carboxylic acid	chemical-chemical	QNC
+QNC	species-chemical	rice
+acyl-CoA esters	chemical-chemical	acyl-CoA
+Saltol	chemical-chemical	FL478
+FL478	species-chemical	rice
+Ammonia	chemical-chemical	NH3
+5-hydroxymethylcytosine	chemical-chemical	5hmC
+5hmC	chemical-chemical	TiO2
+TiO2	chemical-chemical	MoS2
+MoS2	chemical-chemical	C3N4
+C3N4	chemical-chemical	TiO2
+TiO2	chemical-chemical	phosphate
+aflatoxin B1	chemical-chemical	AFB1
+thiol-ene	chemical-chemical	silsesquioxane
+silsesquioxane	chemical-chemical	zearalenone
+zearalenone	chemical-chemical	ZEN
+salt	species-chemical	rice
+Oryza sativa	species-chemical	amylose
+Perfluorinated compounds	chemical-chemical	PFCs
+PFCs	species-chemical	human
+rice	species-chemical	water
+Selenium	chemical-gene	Se
+Se	species-gene	human
+sodium	chemical-chemical	carbon-silicon
+carbon-silicon	chemical-chemical	C-Si
+C-Si	species-chemical	rice
+Nitrogen	chemical-chemical	N
+N	species-chemical	rice
+rice	species-chemical	metal
+carbon	species-chemical	rice
+Water	chemical-chemical	arsenic
+arsenic	chemical-chemical	As
+As	species-chemical	rice
+rice	species-chemical	water
+water	chemical-chemical	As
+As	species-chemical	rice
+formaldehyde	species-chemical	rice
+nitrate	chemical-chemical	NO3-
+NO3-	chemical-chemical	NO3
+C14 - 16 alpha olefin sulfonate	chemical-chemical	Berea sandstone
+carbon	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	water
+water	chemical-chemical	hispidin
+hispidin	species-chemical	Phellinus linteus
+inorganic arsenic	chemical-chemical	iAs
+reactive oxygen species	chemical-chemical	ROS
+rice	species-chemical	CPPU
+CPPU	chemical-chemical	urea
+Ubiquitin like protein 5	gene-gene	UBL5
+rice	species-chemical	nitrogen
+silicon	chemical-chemical	Si
+calcium carbide	species-chemical	rice
+nitrogen	chemical-chemical	N
+estrogen receptor-alpha	gene-gene	ERalpha
+nitrogen	chemical-chemical	N
+N	chemical-chemical	ammonia
+ammonia	species-chemical	rice
+rice	species-chemical	iron
+iron	chemical-chemical	Fe
+Fe	chemical-chemical	Zn
+nitrogen	chemical-chemical	N
+Iron	chemical-chemical	Fe
+metal	chemical-chemical	iron
+iron	chemical-chemical	Fe
+Fe	chemical-chemical	metal
+metal	species-chemical	rice
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+Zaxinone	chemical-chemical	apocarotenoid
+apocarotenoid	species-chemical	rice
+copper	chemical-chemical	rhenium
+Cytosine	chemical-chemical	cytidine
+cytidine	chemical-chemical	thymidine
+Ferulic acid	chemical-chemical	vanillin
+Ce4+	chemical-chemical	Ce3+
+Ce3+	chemical-chemical	NP(1,2-bis- t Bu-diamidoethane)
+NP(1,2-bis- t Bu-diamidoethane)	chemical-chemical	NEt2)
+rice	species-chemical	starch
+starch	chemical-chemical	ethanol
+starch	species-chemical	rice
+rice	species-chemical	starch
+Deoxynivalenol	chemical-chemical	DON
+Cadmium	chemical-chemical	Cd
+butachlor	chemical-chemical	Buta
+lithium	species-chemical	patients
+patients	species-chemical	lithium
+Rice	species-chemical	starch
+starch	chemical-chemical	sugars
+Tricin	chemical-chemical	flavone
+flavone	species-chemical	rice
+water	species-chemical	rice
+Cadmium	chemical-chemical	inorganic arsenic
+inorganic arsenic	chemical-chemical	dimethyl arsenic acid
+tetrahydro-beta-carboline	species-chemical	Plasmodium falciparum
+superoxide radicals	chemical-chemical	O2-
+nitrogen	chemical-chemical	N
+sugar	chemical-chemical	glycogen
+glycogen	species-chemical	cattle
+rice	species-chemical	water
+rice	species-chemical	fettuccine
+fettuccine	species-chemical	rice
+Validamycin A	chemical-chemical	VMA
+VMA	chemical-chemical	aminoglycoside
+aminoglycoside	species-chemical	rice
+cadmium	chemical-chemical	Cd
+carbons	chemical-chemical	AC
+AC	chemical-chemical	KOH
+KOH	species-chemical	rice
+methanolic purple glutinous	species-chemical	rice
+Proline	chemical-chemical	2-acetyl-1-pyrroline
+2-acetyl-1-pyrroline	chemical-chemical	2-AP
+rice	species-chemical	carbon
+carbon	chemical-chemical	sulfide
+sulfide	chemical-chemical	nitrobenzene
+Gibberellins	chemical-chemical	labdane
+labdane	chemical-chemical	diterpenoid
+Thifluzamide	species-chemical	rice
+Arabidopsis	species-gene	LSH1
+cyanide	chemical-chemical	nitrogen
+nitrogen	chemical-chemical	N
+N	species-chemical	rice
+Mitogen-activated protein kinase	gene-gene	MAPK
+phenolic acids	chemical-chemical	flavonoids
+flavonoids	chemical-chemical	flavonoid
+flavonoid	chemical-chemical	cinnamic acid
+cinnamic acid	species-chemical	rice
+stimulator of interferon gene	gene-gene	STING
+silicon	chemical-chemical	fluoride
+fluoride	species-chemical	rice
+Selenium	chemical-chemical	Se
+vetch	species-chemical	Cd
+Cd	species-chemical	rice
+Selenium	chemical-chemical	Se
+calcium	chemical-chemical	Ca2+
+Ca2+	chemical-chemical	salt
+salt	chemical-chemical	Ca2+
+Rice	species-chemical	mercury
+Silicon	chemical-chemical	Si
+free fatty acid	species-chemical	rice
+rice	species-chemical	DDRBO
+Aflatoxin B1	chemical-chemical	AFB1
+AFB1	species-chemical	rice
+hypomycins	chemical-chemical	perylenequinones
+starch	chemical-gene	glutelin
+glutelin	species-gene	patients
+1,2,4-triazole Mannich base	chemical-chemical	6-fluoroquinazolinylpiperidinyl
+Ti4O7	chemical-chemical	Pd
+Pd	chemical-chemical	perfluorooctanoic acid
+perfluorooctanoic acid	chemical-chemical	PFOA
+PFOA	chemical-chemical	water
+water	species-chemical	human
+Bioethanol	species-chemical	Saccharomyces cerevisiae
+gamma-polyglutamic acid	chemical-chemical	gamma-PGA
+gamma-PGA	chemical-chemical	glucose
+glucose	chemical-gene	insulin
+BMAL1	species-gene	mammalian
+bile acid	chemical-chemical	BA
+BA	chemical-chemical	cholesterol
+Ethyl carbamate	chemical-chemical	EC
+EC	species-chemical	rice
+carbon	chemical-chemical	CO2
+rice	species-gene	IL-6
+IL-6	gene-gene	TGF-beta
+arsenic	chemical-chemical	As
+rice	species-chemical	glucono-delta-lactone
+salt	chemical-chemical	monosodium glutamate
+monosodium glutamate	chemical-chemical	MSG
+MSG	chemical-chemical	sodium
+Chlorpyrifos	chemical-chemical	3, 5, 6-trichloro-2-pyridinol
+3, 5, 6-trichloro-2-pyridinol	chemical-chemical	TCP
+Hydrogen sulfide	chemical-chemical	H2S
+lipids	species-chemical	rice
+rice	species-chemical	fatty acid
+gibberellin	chemical-chemical	GA
+Nitrogen	chemical-chemical	N
+Jasmonates	chemical-chemical	JAs
+rice	species-chemical	water
+water	species-chemical	rice
+2,4-dichlorophenoxyacetic acid	chemical-chemical	2,4-D
+cadmium	chemical-chemical	Cd
+dogs	species-chemical	glucose
+glucose	species-chemical	dog
+copper	chemical-chemical	cadmium
+cadmium	chemical-chemical	Cd
+arsenic	chemical-chemical	As
+horsetail	species-chemical	silica
+cadmium	chemical-chemical	Cd
+Cd	species-chemical	rice
+N6-methyladenine	chemical-chemical	6mA
+Silicon	chemical-chemical	Si
+Si	chemical-chemical	selenium
+selenium	chemical-chemical	Se
+Se	chemical-chemical	cadmium
+cadmium	chemical-chemical	Cd
+Cadmium	chemical-chemical	Cd
+Cd	species-chemical	human
+tamarind	species-chemical	TG
+TG	species-chemical	rice
+rice	species-chemical	RBO
+alpha-pyrone	species-chemical	rice
+fusapyrone A	chemical-chemical	gamma-pyrone
+gamma-pyrone	species-chemical	rice
+Aldicarb	chemical-chemical	carbamate
+carbamate	species-chemical	rats
+cpSRP54	species-gene	Arabidopsis
+rice	species-chemical	polyamines
+polyamines	chemical-chemical	carboxyarsenazo
+carboxyarsenazo	chemical-chemical	lanthanides
+Glucosylceramide	chemical-chemical	GlcCer
+GlcCer	chemical-chemical	sphingolipid
+Silicon	chemical-chemical	Si
+Si	species-chemical	rice
+rice	species-chemical	inorganic arsenic
+inorganic arsenic	chemical-chemical	iAs
+iAs	chemical-chemical	dimethylarsinic acid
+dimethylarsinic acid	chemical-chemical	DMA
+Curcumin	chemical-chemical	curcumin
