@@ -1,0 +1,1350 @@
+Set1	i
+MUC6	i
+PCK	i
+mTORC1	i
+UGT76C2	i
+Estrogen Receptor	i
+S1P receptor 3	i
+NGAL	i
+AtCYP94B1	i
+NUC1	i
+ZAR1	i
+MCM	i
+Hmgcr	i
+cyp707a1	i
+Cplx4	i
+Kv7.1	i
+AtACS6	i
+Glo	i
+eIF2alpha	i
+albumin	i
+ER beta	i
+neuro-oncological ventral antigen 1	i
+CCZ1	i
+Cas9	i
+GCN4	i
+beta-galactosidase	i
+APOBEC3G	i
+Csf3R	i
+Edn2	i
+gyrB	i
+PSY1	i
+Akt	i
+ICAM-1	i
+PCAT1	i
+mdig	i
+RPS25	i
+ASTN2	i
+CATALASE2	i
+NAC	i
+CP and NDF	i
+AtMYC2	i
+TET1	i
+PDILT	i
+p38	i
+lap 1	i
+complement component 3	i
+APOE	i
+AGL18	i
+Rab7	i
+interferon gamma	i
+Coagulation factor VIII	i
+DAT	i
+TRP-1	i
+Toll-like receptor 2 and 4	i
+PALB2	i
+Pde4b	i
+TNF- alpha	i
+Stat3	i
+SpCas9	i
+H10	i
+AVP1	i
+hTGF-beta1	i
+dpy19l3	i
+cytotoxic T-lymphocyte-associated antigen 4	i
+P21	i
+p65	i
+VASH2	i
+SYND1	i
+fat	i
+LQT1 and 2	i
+rP1	i
+NFkappaB-p65	i
+BRASSINAZOLE RESISTANT 1	i
+LSM14A	i
+Id1	i
+LH2b	i
+YY1	i
+CD8	i
+p53	i
+UBE2M	i
+ZmMYB59	i
+Estrogen receptor-beta	i
+SNARE	i
+Myc	i
+CCL3	i
+Twist	i
+IL-10	i
+MAO-A	i
+Tor	i
+IL-11	i
+RC-1	i
+RPN10	i
+glutelin	i
+G-CSF receptor	i
+GMPs	i
+Yca1	i
+angiotensin II type 2 receptor	i
+Aflatoxin B1 , B2 , G1 , G2 , M1	i
+beta2-glycoprotein I	i
+BF1	i
+BTD	i
+Gly2	i
+ferredoxin	i
+rps16	i
+Hsf2	i
+plectin	i
+atwrky33	i
+aim 1	i
+Interferon Gamma	i
+cIAP2	i
+protein tyrosine phosphatase	i
+MMPs	i
+beta-defensin 2	i
+BRAF	i
+TP53	i
+miR165/166	i
+miR843	i
+IkBalpha	i
+TIR1	i
+SWI1	i
+MvfR	i
+karrikin	i
+Crop	i
+CD73	i
+AtACS8	i
+rpl16	i
+S10	i
+glucosylceramide synthase	i
+CAT2	i
+p150	i
+ANKRD33	i
+Tlcd3b	i
+MyHC	i
+pan	i
+RB1	i
+VMP1	i
+occludin	i
+catalase	i
+Fertilization-Independent Seed 2	i
+Cd9	i
+hip	i
+CONSTITUTIVE PHOTOMORPHOGENIC 1	i
+C9orf170	i
+Cx36	i
+MCM10	i
+PPAR-alpha	i
+ZmNADP-MDH	i
+PSY	i
+mTERF	i
+PPARgamma coactivator-1alpha	i
+ACS2	i
+TNF-alpha	i
+AGPs	i
+spin-1/2	i
+interleukin (IL)-1beta	i
+insulin-like growth factor II	i
+IL- 6	i
+interferon-gamma	i
+ANGPT2	i
+TaNHX2	i
+PLAP	i
+AtOXS2	i
+TLR	i
+AtPIP2	i
+ILT2	i
+PSD95	i
+GL2	i
+Aldh1a3	i
+cpSRP54	i
+IL-1RA	i
+AtSPO11-1	i
+Aurka	i
+FAM111A	i
+TGF-beta1	i
+transmembrane protein 41B	i
+MOS1	i
+FAIM	i
+guanine nucleotide exchange factor	i
+lap 4	i
+mOS	i
+SF	i
+neonatal Fc receptor	i
+serum albumin	i
+Pap1	i
+FAM114A1	i
+Gata4	i
+Ybx2	i
+GPX1	i
+interleukin (IL)-10	i
+ago1	i
+CUL1	i
+RAPGEF4	i
+Hda1	i
+IL-1alpha	i
+AtMLH3	i
+BcL-2	i
+Foxp3	i
+Argonaute 1	i
+AtMIF1	i
+DREB2A	i
+ATG7	i
+Tramtrack	i
+ann2	i
+BZR1	i
+RACK1	i
+TNF	i
+Wilms tumor 1	i
+lipoxygenase	i
+IL-18	i
+Aryl Hydrocarbon Receptor	i
+COL27A1	i
+HBB	i
+Cdx2	i
+serine palmitoyltransferase (SPT)2	i
+ZIP8	i
+Hdac10	i
+cis-1	i
+AtSMC6B	i
+Age	i
+IL1RN	i
+SWITCH1/DYAD	i
+toll-like receptor 4	i
+kidney injury molecule-1	i
+Dnmt1	i
+GFAP	i
+lymphokine-activated killer (LAK)-	i
+PH	i
+NADP-ME	i
+GDF15	i
+CLV3	i
+pen	i
+TLR2	i
+PSY2	i
+AtTPD1	i
+ZmPEPC	i
+APOC1P1	i
+AtWRI1	i
+ACE-2	i
+matrix metalloproteinase 13	i
+IFIH1	i
+AtRGP2	i
+WNT9A	i
+BREAST CANCER 2	i
+Plzf	i
+SAUR27	i
+low density lipoprotein receptor	i
+RCP	i
+TaNHX1	i
+XIAP	i
+Ferredoxin	i
+MSK1	i
+IGH	i
+as T -1/2	i
+HLA-G	i
+DPY19L3	i
+epidermal growth factor receptor	i
+IRF3	i
+p110	i
+TPT1	i
+DLEU2L	i
+broad (br) Z2	i
+Sri	i
+APOBEC3A	i
+COP1	i
+Sorbs2b	i
+tumor necrosis factor alpha	i
+CYP94B1	i
+AtFANCM	i
+PEPC	i
+Toll-like receptor 4	i
+Cav1.2	i
+YAP1	i
+transposase	i
+DB/L	i
+DUX4	i
+Cp190	i
+min/1	i
+ha-1	i
+tyrosinase	i
+rps8	i
+IFN-alpha	i
+AtPYD1	i
+PEP carboxykinase	i
+ANN2	i
+ERalpha	i
+ubiquitin protein ligase E3A	i
+murine double minute-2 protein	i
+CSF3R	i
+AMER1	i
+BRI1-EMS-SUPPRESSOR 1	i
+Cullin-1	i
+U24a	i
+Ednra	i
+KCNH2	i
+LAC1	i
+transferrin	i
+SAUR28	i
+IFN-gamma	i
+MSMB	i
+miR-122	i
+RGL3	i
+Mre11	i
+AtSWEET2	i
+NAM	i
+SVBP	i
+STK11	i
+Fe(OH)3	i
+Dazap1	i
+GCS1	i
+calm	i
+mre11	i
+tyrosinase-related protein 1	i
+LDLRAD1	i
+SBE4	i
+lec1	i
+PPARG	i
+MyD88	i
+TLR3	i
+TN	i
+MYB	i
+LHRH	i
+IFN regulatory factor 3	i
+FVIII	i
+beta-carbonic anhydrase 1 and 4	i
+kinesin-2	i
+PGC-1alpha	i
+SORBS2	i
+phytase	i
+BST2	i
+cslf6	i
+Nrf-2	i
+CA3	i
+Sorbs2	i
+Hot	i
+Factor Xa	i
+AtHKT1	i
+GCS	i
+presenilin1	i
+TOC1	i
+RAD17	i
+NS1	i
+importin-alpha	i
+AMYC2	i
+Se	i
+VASH1	i
+pEK	i
+peroxisome proliferator-activated receptor gamma	i
+SM1	i
+S6K	i
+presenilin 1	i
+biotinidase	i
+KCNQ1	i
+CD-1	i
+Cd302	i
+cyt c	i
+TAOK1	i
+lysozyme	i
+Fli1	i
+Pal1	i
+ceramide synthase (CerS)3	i
+G-CSF	i
+G protein-coupled estrogen receptor	i
+Jak	i
+PD-1	i
+Fis1	i
+DNMT3A	i
+IL-33	i
+Huntingtin	i
+IFN	i
+COX-2	i
+TLR7/8	i
+sea	i
+ATP2C2	i
+MAX1	i
+PAP5	i
+IFN-stimulated gene 15	i
+squamosa promoter biding-like	i
+glucose transporter type 2	i
+TaHSP70	i
+FOXM1	i
+LQT1	i
+adiponectin	i
+HMW	i
+cellulose synthase like (CSL) F6	i
+apps	i
+caspase-8	i
+SOD2	i
+FACS	i
+ERRalpha	i
+atp6	i
+nuclear factor erythroid 2-related factor 2	i
+Nrf2	i
+apoB	i
+MetAP2	i
+Kinesin Family Member 11	i
+Hmgcs1	i
+OAS2	i
+PERK	i
+CRP	i
+c-MYC	i
+Gfra1	i
+glucose transporter type 4	i
+HSR	i
+hERG	i
+IAP	i
+thrombin	i
+TSLP	i
+Mpro	i
+AtLSH1	i
+IFN-alpha2	i
+pad4	i
+MDM2	i
+BMP-2	i
+APETALA1	i
+TWIST	i
+ZC3H12B	i
+USP18	i
+GPX4	i
+TERT	i
+AUXIN RESPONSE FACTOR	i
+DKK1	i
+Gln3p	i
+PEP	i
+IL11	i
+ENHANCED RESPONSE TO ABA1	i
+MYC2	i
+manganese superoxide dismutase	i
+Pc1	i
+SnRK1	i
+GP	i
+xanthine oxidase	i
+PDAT	i
+eds1	i
+Ep300	i
+Plectin	i
+PAGE4	i
+NEDD8	i
+GLUT4	i
+Set 1	i
+CAR	i
+CP	i
+gum	i
+p75	i
+XPO7	i
+Cyp7a1	i
+inducible nitric oxide synthase	i
+Corticotropin releasing factor	i
+rG4	i
+prostate-specific antigen	i
+MUC1	i
+PRKAG2	i
+LQT2	i
+Smad2	i
+SAG	i
+JNK	i
+coat protein	i
+Fatty acid amide hydrolase	i
+SLC13A5	i
+ceramide synthase-3	i
+ice	i
+AtAKT1	i
+mHTT	i
+homogentisate phytyl transferase	i
+PSA	i
+OXIDATIVE STRESS 2	i
+GATA5	i
+p27	i
+Chz1	i
+apolipoprotein B	i
+NeuN	i
+FIS2	i
+AtUGT76C2	i
+Fanconi anemia complementation group M	i
+ROX	i
+cat2	i
+SPT2	i
+butyrylcholinesterase	i
+luteinizing hormone-releasing hormone	i
+LEAFY COTYLEDON1	i
+NS3	i
+peroxidase	i
+si-histone deacetylase 4	i
+CUC3	i
+SMS2	i
+TMPRSS2	i
+TET2	i
+Bax	i
+PPAR-gamma	i
+Bmal1	i
+IFNbeta	i
+Interleukin-6	i
+MYCBP2	i
+atp8	i
+ycf1	i
+HD5	i
+GI	i
+Signal transducer and activator of transcription 3	i
+microRNA-146a	i
+interferon-beta	i
+NRT1	i
+Cbp	i
+Bruton's Tyrosine Kinase	i
+ERA1	i
+Tspo	i
+ELANE	i
+Iba1	i
+Human Enhancer of Invasion 10	i
+beta globin	i
+MMP-8	i
+Thymus and Activation-Regulated Chemokine	i
+HEC-1	i
+NRT2.5	i
+interferon receptor	i
+CALCIUM CAFFEINE ZINC SENSITIVITY1a	i
+Butyrylcholinesterase	i
+Grip	i
+SOG1	i
+BChE	i
+Thy1	i
+a beta	i
+Cplx3	i
+scFv	i
+SLC3A2	i
+SOC1	i
+A/PR/8/34	i
+Oct4	i
+Kit	i
+rbcL	i
+An2	i
+NHX-1	i
+Ubiquitin like protein 5	i
+beta=2	i
+Endothelin-2	i
+AtDGAT1	i
+CslF6	i
+Grth	i
+CCL4	i
+FOXP2	i
+ACSF3	i
+Asparagine synthetase	i
+AR	i
+CAF2	i
+ACBP	i
+TARC	i
+AtERO1	i
+MYB51	i
+oxidoreductase	i
+CD47	i
+NLRP3	i
+AC4	i
+GPER	i
+CESA3	i
+CHEK2	i
+Nf-Kb1	i
+CTF4	i
+ca1ca4	i
+SSS2	i
+EMSY	i
+tumor necrosis factor (TNF) alpha	i
+PAD4	i
+Nil1p	i
+PTAC12	i
+MMP-8 and -9	i
+SPN2	i
+Albumin	i
+CSP1	i
+thioredoxin	i
+myelin basic protein	i
+Cadherin 2	i
+intercellular adhesion molecule-1	i
+LiF	i
+PUMA	i
+CRFR1	i
+Kif11	i
+granulocyte-colony stimulating factor	i
+APOBEC3a	i
+miR-146a	i
+BET	i
+interleukin-4	i
+HPT	i
+heme oxygenase-1	i
+Gdnf	i
+Dehydrodolichyl diphosphate synthase subunit	i
+FASN	i
+MYC1	i
+SUSIBA2	i
+interleukin-13	i
+Ubiquitin-Like protein 5	i
+asparagine synthetase	i
+dipeptidyl peptidase 9	i
+Inducible Nitric Oxide Synthase	i
+NF-kappaB p65	i
+CHL1	i
+Runx1	i
+cathepsin B	i
+RC3H2	i
+ACO4	i
+Izumo	i
+TFAM	i
+caspase-1	i
+ATM	i
+TRPC3	i
+DDX58	i
+FTIP1	i
+RELA	i
+neutrophil elastase	i
+NS5	i
+CPLX3	i
+leptin	i
+IL6R	i
+beta2GPI	i
+PIP2	i
+IL-1ra	i
+LQT1, 3 LQT2	i
+Bone Morphogenetic Protein-2	i
+interferon (IFN)-gamma	i
+NRT2	i
+TPD1	i
+neuronal nuclear antigen	i
+NKX6.1	i
+SMC5/6	i
+LBD37	i
+CAT	i
+mucin	i
+PDE	i
+cob	i
+interleukin 1 beta	i
+Dnmt3a	i
+matK	i
+milk protein	i
+HLA-DRB1	i
+SCN5A	i
+IDH	i
+HvSUSIBA2	i
+A3G	i
+FOXO1	i
+NPF6.3	i
+interleukin-1beta	i
+TMPRSS5	i
+IL6	i
+Pygo2	i
+CAFs	i
+CD154	i
+G6PD	i
+Miro1	i
+DPY19L1	i
+PABPC1	i
+Atfancm	i
+tumor necrosis factor-alpha	i
+HMGCR	i
+uif	i
+GZF3p	i
+Gata6	i
+Hexokinase 1	i
+AtWRKY33	i
+PVRL4	i
+chia.1-6	i
+pEMT	i
+AtACS2	i
+Gat1p	i
+glutathione peroxidase-1	i
+NOD-like receptor protein 3	i
+ANGPTL4	i
+rpl22	i
+acetyl-CoA carboxylase 1	i
+Ldlr	i
+glucagon	i
+Tp1	i
+phosphoenolpyruvate carboxylase	i
+GARP	i
+GSDMD	i
+GATM	i
+estrogen receptor-alpha	i
+Apr	i
+ACE2	i
+spl	i
+AAT	i
+fibrinogen	i
+SlU24a	i
+APOBEC3B	i
+hk2	i
+Complexin3	i
+ZYP1	i
+MAPK	i
+LARP4B	i
+cyp707a3	i
+VEGF	i
+ELAVL3	i
+neutrophil gelatinase-associated lipocalin	i
+CD4	i
+IL1F10	i
+Growth Differentiation Factor 15	i
+matrix metalloproteinase (MMP)-8 and -9	i
+thymus and activation-regulated chemokine	i
+SF+VEH	i
+DNMT3a	i
+peroxisome proliferator-activated receptor-alpha	i
+CYP81F2	i
+APOBEC1	i
+CCR2	i
+dl-1	i
+RNASEH2B	i
+RAGE	i
+vimentin	i
+transforming growth factor-beta	i
+Erk1/2	i
+SARP	i
+angiotensin-converting enzyme 2	i
+adenosine deaminase acting on RNA 1	i
+ALK1	i
+PTAC7	i
+tap	i
+SOD1	i
+tumor necrosis factor	i
+cullins	i
+smc6a	i
+beta2-microglobulin	i
+SPL	i
+ZmALS1	i
+rAIP	i
+CATALASE 2	i
+pleiotrophin	i
+sterol regulatory element-binding protein 1	i
+mitogen-activated protein kinase 3	i
+Heat Shock Protein 70	i
+Zeb1	i
+CD68	i
+KIM-1	i
+Kv11.1	i
+SSEA-1	i
+OAS3	i
+Ovol1	i
+AtSMC6A	i
+MBD5	i
+ADAR1	i
+Spin	i
+AtSOS1	i
+Nam	i
+Snail	i
+PTP1B	i
+TIM-3	i
+ERK	i
+PB1	i
+RBM	i
+KAR	i
+Deh1p	i
+SSADH	i
+GLUT2	i
+FBXO32	i
+EMF2	i
+Ornithine decarboxylase 1	i
+Aid	i
+PTEN	i
+RdRp	i
+GLUT	i
+ANN1	i
+Bmp9	i
+ornithine decarboxylase	i
+ADAMTS16	i
+PAP7	i
+IL-17A	i
+Set 2	i
+B-cell lymphoma 2	i
+TPH-2	i
+nlp7	i
+CA1	i
+TGFa	i
+ecs1	i
+YCA1	i
+AtPDAT	i
+CCl4	i
+EcSAT	i
+Cr1l	i
+CTLA4	i
+FLOWERING LOCUS T	i
+ETHE1	i
+BPI	i
+mTOR	i
+KLF1	i
+TYK2	i
+mammalian target of rapamycin	i
+Mitogen-activated protein kinase	i
+beta-catenin	i
+p62	i
+Nil2p	i
+CD25	i
+OAZ1	i
+TGFB1	i
+SBE1	i
+SAM2	i
+Scf	i
+ECS1	i
+Pan	i
+nitrate transporter 2.5	i
+EPHX2	i
+insulin	i
+TMEM64	i
+AtERF73	i
+aeroallergen immunoglobulin (Ig)E	i
+ht1-2	i
+iNOS	i
+stimulator of interferon gene	i
+SREBP1	i
+GAD	i
+Src	i
+RAF1	i
+MCM2-10	i
+HNF1B	i
+Programmed Cell Death 1 Ligand 1	i
+DJ-1	i
+cohesin	i
+rpl33	i
+Abp	i
+IL-1beta	i
+HSP70	i
+TFPI-2	i
+HSPG	i
+amyloid-beta	i
+KCTD15	i
+IL-1 receptor antagonist	i
+BDNF	i
+polyubiquitin	i
+IL-4	i
+Uif	i
+ERF6	i
+NOVA1	i
+BICD2	i
+Nitrate transporter 2.5	i
+cyclin-dependent kinase 2	i
+Gas	i
+neuraminidase and RNA-dependent RNA polymerase	i
+mos1-6	i
+YAC-1	i
+spin	i
+multiple organellar RNA editing factor 8	i
+Toll-like receptors 2 and 4	i
+Ube3a	i
+ZmNADP-ME	i
+WRKY33	i
+Keap1	i
+Hsp70	i
+UGT74E2	i
+swi1	i
+AtRD29A	i
+inhibitor of differentiation 1	i
+BORF2	i
+Smad7	i
+DEGs	i
+CEBPA	i
+HO-1	i
+LL-37	i
+Imd	i
+SMAD7	i
+CDK-2	i
+CK	i
+RPM1	i
+C reactive protein	i
+AtERO1/2	i
+RIN13	i
+FOXP3	i
+betaCA1/4	i
+bes1	i
+AXL	i
+myosin 5	i
+ATG5	i
+CYP79B2/B3	i
+TGA3	i
+IFNAR2	i
+TLCD3B	i
+interleukin-6	i
+MRE11	i
+PTN	i
+bean	i
+ann1	i
+CYP83B1	i
+SNORD118	i
+PR1	i
+AddaVax	i
+NHR-49	i
+ERbeta	i
+p21	i
+chimeric antigen receptor	i
+POC	i
+Uga43p	i
+FoxP3	i
+Bob	i
+ENC	i
+AtNCED3	i
+GRP19	i
+OAS1	i
+monoacylglycerol lipase	i
+CUL4B	i
+WRI1	i
+ROCK1	i
+cadherin 2	i
+AtFLS2	i
+LBD38	i
+OST1	i
+pasta	i
+ERO1	i
+AtICE1	i
+PTPN11	i
+MiBP	i
+AP1	i
+Aurora Kinase A	i
+MKLN1	i
+Amino Acid Transporter	i
+Atrogin-1	i
+CerS3	i
+TLR4	i
+beta-Trcp	i
+AGAMOUS-like 18	i
+CYP7A1	i
+Ncoa7	i
+Estrogen-related receptor alpha	i
+CUL7	i
+hFcRn	i
+AKT	i
+interferon regulatory factor 5	i
+PLCL1	i
+IRE1	i
+spin-1	i
+cathepsins B and L	i
+Nodal	i
+CNR1	i
+IL-23	i
+HDA1	i
+Spike	i
+SNC1	i
+AtUGT74E2	i
+PHL	i
+connexin36	i
+TAZ	i
+ILT4	i
+PLCB3	i
+RD3	i
+IL-3	i
+CBF3	i
+Rubisco activase	i
+Bean	i
+Ddx3y	i
+Toll	i
+TGFbeta	i
+TGF-beta	i
+NPC1L1	i
+Neuraminidase	i
+MODIFIER OF snc1-1	i
+TaHKT1	i
+RGP2	i
+CS	i
+AtERO2	i
+BMP10	i
+CDH2	i
+Interleukin 6	i
+AtNHX1	i
+dpy19l1	i
+Rrp2	i
+KLK3	i
+muL	i
+hK11	i
+DGCR8	i
+C11orf95	i
+ERAS	i
+CHRNA2	i
+Cellulose Synthase Like F6	i
+HMGCoA reductase	i
+PTAC14	i
+nodal	i
+RPS5A	i
+br Z2	i
+PFAS	i
+EDS1	i
+mos1	i
+beta-glucocerebrosidase	i
+grip	i
+MET	i
+CRF receptor 1	i
+populations2-4	i
+CXCL12	i
+PAI-1	i
+MITF	i
+epoetin	i
+Ero1	i
+CB1	i
+DOG1	i
+ISG15	i
+ODC1	i
+SUPPRESSOR OF OVEREXPRESSION OF CONSTANS1	i
+TMPRSS13	i
+tyrosine kinase 2	i
+CUC2	i
+Sirt1	i
+lap 3	i
+atcyp94b1	i
+Bric-a-brac	i
+endothelin converting enzyme 1	i
+RUNX2	i
+Karrikin	i
+atpyd1	i
+mL-1 and 1.7	i
+HNT	i
+MLH3	i
+GLI2	i
+RIT1	i
+bone morphogenetic protein-2	i
+ZO-1	i
+SMC6A	i
+YAP	i
+TRIM63	i
+EP300	i
+EPHA2	i
+Dal80p	i
+HMGB1	i
+SHP2	i
+CACNA1 C	i
+Nanog	i
+Tgfb1	i
+Drosha	i
+DBP	i
+Ins2	i
+5-HTT	i
+ICOS	i
+MDT-15	i
+MYB30	i
+MT-ND1	i
+hormone-receptor	i
+Gum	i
+hAlb	i
+GSK3beta	i
+Dnmt3b	i
+OXS2	i
+GRID	i
+BRCA2	i
+pyruvate orthophosphate dikinase	i
+ALP	i
+miR-155	i
+ULK4	i
+HK2	i
+Peri	i
+ARF	i
+PPO	i
+FAAH	i
+LH2	i
+Octamer-Binding Transcription Factor 4	i
+CA5A	i
+TNFalpha	i
+NoGo	i
+NOP9	i
+ftip1	i
+SBP	i
+snail	i
+Creb1	i
+EWS	i
+RBM42	i
+SPIN-CHAT	i
+mIF	i
+TMEM41B	i
+MYB5	i
+ACS4	i
+AIF1	i
+caspase-3	i
+Bank	i
+BRI1	i
+MMP-14	i
+GDF5	i
+FANCM	i
+RhoA	i
+ZFP36L1	i
+CHROMOSOME TRANSMISSION FIDELITY PROTEIN 4	i
+SPO11	i
+17-beta-Hsd	i
+osca1	i
+ZNF384	i
+mineralocorticoid receptor	i
+signal transducer and activator of transcription 1	i
+EIN2	i
+Id3	i
+OPR3	i
+Tp2	i
+rpl14	i
+P10	i
+Dickkopf-1	i
+tau	i
+amyloid precursor protein	i
+KIF5A	i
+Bmp9/10	i
+IL-22	i
+gcs1	i
+IL-17	i
+AST	i
+CPLX4	i
+dMSK1	i
+NRT1.1	i
+GFRAL	i
+Ppb	i
+Tip60	i
+KRAS	i
+PLpro	i
+Tran	i
+MicroRNA-315-5p	i
+glycogen synthase kinase 3beta	i
+IFNAR1	i
+CXCL-1	i
+RYR1	i
+PD-L1	i
+thymic stromal lymphopoietin	i
+hK14	i
+ABI3	i
+AGAMOUS-LIKE 18	i
+interleukin-10	i
+LSH1	i
+HMG-CoA Reductase	i
+ACAT2	i
+AMPK	i
+C2orf43	i
+myosin heavy chain	i
+PAD2	i
+IRF5	i
+MYB122	i
+phosphoenolpyruvate (PEP) carboxylase	i
+Zinc-finger protein 384	i
+CLP	i
+AGE	i
+SAP	i
+E-selectin	i
+ACS	i
+Amyloid-beta	i
+IL-8	i
+L-selectin	i
+tip	i
+PSEN1	i
+Alpha 1 Antitrypsin	i
+AtCEP1	i
+EIN3	i
+brain-derived neurotrophic factor	i
+UHRF1	i
+Flowering Locus T	i
+Peroxidase	i
+Adiponectin	i
+cathepsin L	i
+Biotinidase	i
+crtRB1	i
+AtSPO11-2	i
+E2F1	i
+HAT	i
+ZnT10	i
+RPM1-interacting protein 13	i
+mTERF3	i
+UBL5	i
+beta3	i
+fatty acid synthase	i
+beta-glucosidase 1	i
+lysyl hydroxylase 2	i
+ZEB1	i
+Cullin	i
+MOG	i
+mitogen-activated protein kinase 1	i
+KGF	i
+BIR1	i
+p12	i
+KIF2A	i
+smc6b	i
+CD44	i
+STAT1	i
+5-HT 1B	i
+ZIP14	i
+rymv1-2	i
+PMK-1	i
+tyrosinase-related protein 2	i
+cox1	i
+OCT-4	i
+IL-13	i
+hTERT	i
+RUNX1	i
+SynX	i
+Ins1	i
+DAL80	i
+Ednrb	i
+CB2	i
+Csf3r	i
+mucin 5AC	i
+MMP-13	i
+RRAS2	i
+SMC6B	i
+hepcidin	i
+glutathione-S-transferase	i
+BTK	i
+MINT	i
+Brd4	i
+alpha-tubulin	i
+interleukin (IL)-6	i
+myelin oligodendrocyte glycoprotein	i
+histone acetyltransferase	i
+MGL	i
+GLABRA2	i
+Apps	i
+bank	i
+HT1	i
+Heat shock protein 70	i
+CYP79B2	i
+IFNgamma	i
+mitochondrially-encoded NADH dehydrogenase-1	i
+sp3	i
+MuRF1	i
+HSF7	i
+Lar	i
+BCL-2	i
+Na/K	i
+AP2	i
+Toll receptor	i
+Bmp10	i
+IGF2	i
+Ar	i
+BF2	i
+NF-kappaB	i
+MYH7	i
+LSH2	i
+Inducer of CBF Expression 1	i
+AGO1	i
+PCSK9	i
+aryl hydrocarbon receptor	i
+BES1	i
+glutamate synthase 2	i
+iExomASO-STAT3	i
+CSB	i
+hypoxia-inducible factor-1alpha	i
+LEC1	i
+synaptophysin	i
+lap	i
+rps19	i
+ICE1	i
+CFI	i
+Cd2	i
+HOXB13	i
+CCZ1b	i
+dusp26	i
+CTCF	i
+ribosomal protein S8	i
+Aim	i
+androgen receptor	i
+PRSS3	i
+endothelin-2	i
+SAUR26	i
+programmed death 1	i
+betaine aldehyde dehydrogenase	i
+cytochrome c	i
+MIF	i
+SUPPRESSOR OF GAMMA RESPONSE1	i
+PR5	i
+A1AT	i
+HLA-G1	i
+cullin	i
+Miro1/2	i
+TMPRSS6	i
+PD-L2	i
+oxophytodienoic acid reductase 3	i
+CUC1	i
+THAP3	i
+DMT1	i
+miR-315-5p	i
+Zeb2	i
+DPP9	i
+KIAA1109	i
+SPCA2	i
+MDA5	i
+STING	i
+IgG3	i
+Ice	i
+AtLSH2	i
+TOR	i
+IRF7	i
+UTR	i
+LQT3	i
+Ece-1	i
+MphR	i
+Alk1	i
+SWITCH1	i
+SS1	i
+PR2	i
+NADP-malic enzyme	i
+aid	i
+BMP9	i
+NFkappaB	i
+LEAFY	i
+SOX9	i
+LOQs	i
+3-hydroxy-3-methylglutaryl-CoA reductase	i
+TRP-2	i
+AtCESA3	i
+spike	i
+STAT3	i
+WRKY22	i
+cytochrome P450 2E1	i
+hot	i
+Phytase	i
+nuc	i
+CCZ1a	i
+MORF8	i
+ZmFdx2	i
+Bcl-2	i
+QK1	i
+ApoB	i
+MYCN	i
+LQT1 and 3	i
+NADPH:quinone oxidoreductase 1	i
+inhibitor of differentiation 3	i
+TCPTP	i
+HDAC4	i
+Stat	i
+NaCT	i
+Dax1	i
+AtACBP3	i
+GEF	i
+c-Jun	i
+BMAL1	i
+WDR72	i
+SPIN	i
+IL-6	i
+Octamer-binding Transcription Factor 4	i
+myc2	i
+CHRDL1	i
+CD11b	i
+TMPRSS11D	i
+Hp1bp3	i
+Visa	i
+OR2S2	i
+COLGALT2	i
+SSS3	i
+crop	i
+small vasohibin-binding protein	i
+PIF4	i
+rpoB	i
+SLC7A11	i
+Mark	i
+telomerase reverse transcriptase	i
+mL-1	i
+Tumor necrosis factor alpha	i
+IgG1	i
+CUL4A	i
+BMP9/10	i
+Peroxisome Proliferator-activated Receptor gamma	i
+TrxR2	i
+PIG1	i
+aRR 1	i
+HEI10	i
+oncostatin M	i
+C-reactive protein	i
+AHR	i
+SNAP-25	i
+myosin	i

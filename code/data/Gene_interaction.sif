@@ -1,0 +1,107 @@
+ferredoxin	gene-chemical	CO2
+rapamycin	gene-chemical	mTORC1
+PB1	gene-species	influenza virus
+eIF2alpha	gene-gene	PERK
+ZFTA	gene-chemical	RELA
+RELA	gene-gene	YAP1
+HSO3-	gene-chemical	tap
+tap	gene-chemical	water
+cysteine-rich surface antigens	gene-chemical	SAG
+SWITCH1/DYAD	gene-gene	SWI1
+SWI1	gene-species	Arabidopsis
+Human	gene-species	adenosine deaminase acting on RNA 1
+adenosine deaminase acting on RNA 1	gene-gene	ADAR1
+ADAR1	gene-chemical	adenosine
+LEAFY COTYLEDON1	gene-gene	LEC1
+LEC1	gene-species	Arabidopsis
+Age	gene-species	human
+BSG	gene-chemical	beta-glucocerebrosidase
+beta-glucocerebrosidase	gene-chemical	ceramide
+angiotensin II type 2 receptor	gene-species	patients
+eudicots	gene-species	CLV3
+chlorophyll	gene-chemical	peroxisome proliferator-activated receptor-alpha
+L-selectin	gene-species	human
+cohesin	gene-gene	CTCF
+neuro-oncological ventral antigen 1	gene-gene	NOVA1
+bone morphogenetic protein-2	gene-gene	BMP-2
+lysine	gene-chemical	Set1
+Set1	gene-species	yeast
+ice	gene-species	human
+cytochrome c	gene-gene	cyt c
+Asparagine synthetase	gene-chemical	glutamine
+Interleukin-6	gene-gene	IL-6
+children	gene-species	Visa
+LQT1	gene-gene	KCNQ1
+Cd2	gene-species	rice
+histone acetyltransferase	gene-gene	HAT
+CD73	gene-chemical	adenosine
+Streptococcus pyogenes	gene-species	Cas9
+Cas9	gene-gene	SpCas9
+xanthan	gene-chemical	gum
+gum	gene-gene	bean
+bean	gene-gene	gum
+gum	gene-species	rice
+SARS CoV-2	gene-species	Mpro
+Mpro	gene-species	coronavirus
+SARS CoV	gene-species	Mpro
+Mpro	gene-species	SARS-CoV
+serine	gene-chemical	TMPRSS2
+CUC1	gene-gene	CUC2
+CUC2	gene-gene	CUC3
+interferon gamma	gene-gene	IFNgamma
+Growth Differentiation Factor 15	gene-gene	GDF15
+GDF15	gene-gene	transforming growth factor-beta
+transforming growth factor-beta	gene-gene	TGF-beta
+mammalian	gene-species	BREAST CANCER 2
+BREAST CANCER 2	gene-gene	BRCA2
+Human	gene-species	hTGF-beta1
+hTGF-beta1	gene-species	rice
+Finerenone	gene-chemical	mineralocorticoid receptor
+Rrp2	gene-species	Borrelia burgdorferi
+yeast	gene-species	Chz1
+Zinc-finger protein 384	gene-gene	ZNF384
+ZNF384	gene-gene	EP300
+BRASSINOSTEROID	gene-chemical	BES1
+BES1	gene-chemical	brassinosteroid
+Heat shock protein 70	gene-gene	HSP70
+HMG-CoA Reductase	gene-gene	Hmgcr
+Hmgcr	gene-chemical	mevalonate
+sp3	gene-chemical	carbon
+AUXIN RESPONSE FACTOR	gene-gene	ARF
+PPARgamma coactivator-1alpha	gene-gene	PGC-1alpha
+PGC-1alpha	gene-gene	TFAM
+glucose	gene-chemical	insulin
+insulin	gene-gene	glucagon
+nodal	gene-species	patients
+SARS-CoV-2	gene-species	ACE2
+ACE2	gene-gene	TMPRSS2
+thymus and activation-regulated chemokine	gene-gene	TARC
+TARC	gene-species	patients
+androgen receptor	gene-gene	AR
+patients	gene-species	AR
+human	gene-species	butyrylcholinesterase
+butyrylcholinesterase	gene-gene	BChE
+BChE	gene-species	rice
+Tomato leaf curl New Delhi virus	gene-species	AC4
+AC4	gene-chemical	auxin
+Morphine	gene-chemical	NOD-like receptor protein 3
+NOD-like receptor protein 3	gene-gene	NLRP3
+ICE1	gene-gene	Inducer of CBF Expression 1
+chimeric antigen receptor	gene-gene	CAR
+inhibitor of differentiation 1	gene-gene	Id1
+Id1	gene-gene	inhibitor of differentiation 3
+inhibitor of differentiation 3	gene-gene	Id3
+Selenium	gene-chemical	Se
+Se	gene-species	human
+Ubiquitin like protein 5	gene-gene	UBL5
+estrogen receptor-alpha	gene-gene	ERalpha
+Arabidopsis	gene-species	LSH1
+Mitogen-activated protein kinase	gene-gene	MAPK
+stimulator of interferon gene	gene-gene	STING
+starch	gene-chemical	glutelin
+glutelin	gene-species	patients
+glucose	gene-chemical	insulin
+BMAL1	gene-species	mammalian
+rice	gene-species	IL-6
+IL-6	gene-gene	TGF-beta
+cpSRP54	gene-species	Arabidopsis

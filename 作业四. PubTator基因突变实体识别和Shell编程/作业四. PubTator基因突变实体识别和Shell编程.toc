@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}实验目的}{3}{section.1}%
+\contentsline {section}{\numberline {2}实验材料与方法}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}实验材料}{3}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}pubtator}{3}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Entrez Direct}{3}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}curl}{3}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}cytoscape软件}{4}{subsubsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.2}实验方法}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}查找关键词rice相关的pmid}{4}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}curl API接口爬取pubtator}{4}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}文献处理}{5}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}pubmed.minR}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}共句分析}{6}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Species的相互作用网络局部图}{7}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Gene的相互作用网络局部图}{8}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Chemical的相互作用网络局部图}{9}{subsubsection.2.4.3}%
+\contentsline {section}{\numberline {3}结论与展望}{10}{section.3}%
+\contentsline {section}{\numberline {4}Github链接}{10}{section.4}%
+\contentsline {section}{\numberline {5}参考链接}{10}{section.5}%
